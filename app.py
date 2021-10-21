@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
-import seaborn as sns
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 import re
