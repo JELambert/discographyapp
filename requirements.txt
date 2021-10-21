@@ -1,0 +1,6 @@
+streamlit
+pandas==0.25.3
+numpy==1.18.1
+sklearn
+shap
+matplotlib

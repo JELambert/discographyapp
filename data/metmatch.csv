@@ -1,0 +1,245 @@
+,Artist,Title,year,Genre,MetacriticCriticScore,MetacriticReviews,MetacriticUserScore,MetacriticUserReviews,AOTYCriticScore,AOTYCriticReviews,AOTYUserScore,AOTYUserReviews
+0,Dan Auerbach,Keep It Hid,2009,Blues Rock,80.0,23.0,8.7,34.0,79,18,73,33
+1,John Mayer,Battle Studies,2009,Rock,64.0,17.0,7.5,74.0,62,10,73,48
+2,Radiohead,OK Computer,1997,Alternative Rock,,,,,91,12,93,3204
+3,My Morning Jacket,Z,2005,Indie Rock,90.0,31.0,8.4,247.0,82,18,80,162
+4,The Roots,Phrenology,2002,Hip Hop,87.0,23.0,8.6,54.0,83,13,80,148
+5,OutKast,Stankonia,2000,Hip Hop,95.0,20.0,8.8,425.0,90,9,88,939
+6,Lil Wayne,Tha Carter III,2008,Hip Hop,84.0,26.0,7.2,358.0,80,16,77,457
+7,Bon Iver,"For Emma, Forever Ago",2007,Indie Folk,88.0,27.0,8.9,414.0,84,20,86,1229
+8,Lil Wayne,Tha Carter II,2005,Hip Hop,84.0,26.0,7.2,359.0,79,6,77,209
+9,Wu-Tang Clan,The W,2000,Hip Hop,80.0,17.0,8.2,37.0,83,4,73,75
+10,John Mayer,Heavier Things,2003,Pop Rock,67.0,10.0,8.8,71.0,61,6,73,49
+11,John Mayer,Continuum,2006,Pop Rock,67.0,18.0,8.9,151.0,78,8,80,143
+12,Amy Winehouse,Back to Black,2006,Soul,81.0,26.0,8.9,365.0,81,19,85,685
+13,Norah Jones,Come Away with Me,2002,Vocal Jazz,82.0,9.0,8.7,67.0,76,5,79,111
+14,Gorillaz,Demon Days,2005,Art Pop,82.0,37.0,8.8,520.0,78,22,85,1477
+15,My Morning Jacket,It Still Moves,2003,Indie Rock,83.0,23.0,8.7,49.0,80,10,82,63
+16,The Black Keys,Brothers,2010,Rock,82.0,31.0,8.6,218.0,78,27,78,470
+17,Gorillaz,Gorillaz,2001,Trip Hop,71.0,18.0,8.8,297.0,78,10,77,890
+18,Cake,Comfort Eagle,2001,Alternative Rock,70.0,12.0,8.8,43.0,62,4,74,40
+19,Lil Wayne,Tha Carter IV,2011,Hip Hop,60.0,29.0,4.9,268.0,58,22,59,218
+20,Pearl Jam,Ten,1991,Alternative Rock,,,,,87,4,85,529
+21,J. Cole,Cole World: The Sideline Story,2011,Hip Hop,75.0,20.0,7.6,205.0,71,13,62,306
+22,OutKast,Aquemini,1998,Hip Hop,,,,,94,6,90,857
+23,OutKast,ATLiens,1996,Hip Hop,,,,,85,2,89,736
+24,The Black Keys,El Camino,2011,Rock,84.0,37.0,8.6,275.0,78,32,77,476
+25,Dr. John,Locked Down,2012,Blues,86.0,30.0,8.2,19.0,83,24,75,37
+26,Alabama Shakes,Boys & Girls,2012,Blues Rock,76.0,34.0,7.3,60.0,72,29,76,177
+27,Of Monsters and Men,My Head Is an Animal,2012,Indie Pop,66.0,12.0,8.8,160.0,74,11,74,215
+28,Nirvana,Nevermind,1991,Grunge,,,,,94,6,87,1724
+29,AC/DC,Back in Black,1980,Hard Rock,,,,,94,7,76,334
+30,Michael Kiwanuka,Home Again,2012,Soul,72.0,25.0,8.1,18.0,72,18,75,55
+31,Mumford & Sons,Babel,2012,Folk,63.0,32.0,6.8,187.0,55,30,58,195
+32,The Beatles,Abbey Road,1969,Pop Rock,,,,,100,5,91,1724
+33,The Beatles,Revolver,1966,Pop Rock,,,,,100,7,90,1566
+34,The Beatles,Rubber Soul,1965,Pop Rock,,,,,100,6,86,1149
+35,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1967,Pop Rock,,,,,98,6,90,1576
+36,The Beatles,The Beatles,1968,Pop Rock,,,,,97,7,89,1188
+37,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers),1993,Hip Hop,,,,,95,4,90,1071
+38,Nas,Illmatic,1994,Hip Hop,,,,,94,6,91,1686
+39,A Tribe Called Quest,The Low End Theory,1991,Hip Hop,,,,,92,3,89,981
+40,The Roots,Things Fall Apart,1999,Hip Hop,,,,,87,6,88,404
+41,Soundgarden,Superunknown,1994,Alternative Rock,,,,,91,6,85,282
+42,Pink Floyd,The Dark Side of the Moon,1973,Progressive Rock,,,,,100,6,89,2079
+43,Pink Floyd,Wish You Were Here,1975,Progressive Rock,,,,,100,4,91,1607
+44,Metallica,Master of Puppets,1986,Thrash Metal,,,,,97,3,87,732
+45,Pink Floyd,The Wall,1979,Art Rock,,,,,73,5,84,1135
+46,Led Zeppelin,Led Zeppelin,1969,Hard Rock,,,,,90,6,85,759
+47,Led Zeppelin,Led Zeppelin II,1969,Hard Rock,,,,,96,6,86,704
+48,Led Zeppelin,Led Zeppelin III,1970,Rock,,,,,92,7,83,560
+49,Led Zeppelin,Houses of the Holy,1973,Rock,,,,,97,5,85,487
+50,Dr. Dre,The Chronic,1992,Hip Hop,,,,,95,4,83,509
+51,A Tribe Called Quest,Midnight Marauders,1993,Hip Hop,,,,,86,5,88,615
+52,The Doors,The Doors,1967,Psychedelic Rock,,,,,93,3,87,677
+53,The Beach Boys,Pet Sounds,1966,Psychedelic Rock,,,,,100,5,89,1167
+54,The Clash,London Calling,1979,Punk,,,,,100,5,89,795
+55,Guns N' Roses,Appetite for Destruction,1987,Hard Rock,,,,,90,6,72,409
+56,Depeche Mode,Violator,1990,Synthpop,,,,,81,7,85,431
+57,Depeche Mode,Black Celebration,1986,Synthpop,,,,,87,3,82,153
+58,The Rolling Stones,Let It Bleed,1969,Blues Rock,,,,,100,3,86,412
+59,Lauryn Hill,The Miseducation of Lauryn Hill,1998,R&B,,,,,91,8,88,587
+60,Metallica,Metallica,1991,Heavy Metal,,,,,80,5,79,517
+61,Jefferson Airplane,Surrealistic Pillow,1967,Psychedelic Rock,,,,,90,2,83,163
+62,Marvin Gaye,What's Going On,1971,Soul,,,,,95,4,89,616
+63,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,1972,Glam Rock,,,,,99,7,92,1486
+64,Stevie Wonder,Songs in the Key of Life,1976,Soul,,,,,98,5,90,371
+65,Stevie Wonder,Innervisions,1973,Soul,,,,,100,3,88,318
+66,Charles Bradley,Victim of Love,2013,Soul,81.0,20.0,7.5,6.0,78,13,73,28
+67,Fleetwood Mac,Rumours,1977,Pop Rock,,,,,99,9,89,934
+68,The Jimi Hendrix Experience,Are You Experienced,1967,Psychedelic Rock,,,,,100,2,89,515
+69,The Jimi Hendrix Experience,Axis: Bold as Love,1967,Psychedelic Rock,,,,,100,2,87,355
+70,The Jimi Hendrix Experience,Electric Ladyland,1968,Psychedelic Rock,,,,,100,4,90,575
+71,"Tyler, the Creator",Wolf,2013,Hip Hop,70.0,31.0,8.3,273.0,69,31,76,1370
+72,2Pac,All Eyez on Me,1996,Hip Hop,,,,,78,7,78,391
+73,2Pac,Me Against the World,1995,Hip Hop,,,,,79,3,83,329
+74,Snoop Dogg,Doggystyle,1993,Hip Hop,,,,,82,3,83,390
+75,Snoop Dogg,Tha Doggfather,1996,Hip Hop,,,,,64,3,61,41
+76,Dr. Dre,2001,1999,Hip Hop,,,,,78,8,80,441
+77,Lil Wayne,Tha Carter,2004,Hip Hop,,,,,60,2,66,131
+78,Santana,Abraxas,1970,Latin Rock,,,,,100,3,83,99
+79,Led Zeppelin,Physical Graffiti,1975,Hard Rock,,,,,90,4,87,470
+80,Miles Davis,Bitches Brew,1970,Jazz Fusion,,,,,100,4,90,530
+81,Miles Davis,Kind of Blue,1959,Jazz,,,,,100,5,90,849
+82,Creedence Clearwater Revival,Willy and the Poor Boys,1969,Roots Rock,,,,,100,2,83,120
+83,Creedence Clearwater Revival,Bayou Country,1969,Rock,,,,,85,2,81,90
+84,Joni Mitchell,Blue,1971,Folk Rock,,,,,100,4,89,528
+85,Aretha Franklin,I Never Loved a Man the Way I Love You,1967,Soul,,,,,97,3,86,151
+86,Michael Jackson,Thriller,1982,Pop,,,,,94,6,88,953
+87,Michael Jackson,Off the Wall,1979,R&B,,,,,98,4,86,539
+88,Funkadelic,Maggot Brain,1971,Funk Rock,,,,,94,5,87,345
+89,N.W.A.,Straight Outta Compton,1988,Hip Hop,,,,,94,4,82,428
+90,The Rolling Stones,Some Girls,1978,Rock,,,,,98,4,83,164
+91,Prince,"Sign ""O"" the Times",1987,Pop Rock,,,,,100,7,89,374
+92,The Police,Synchronicity,1983,New Wave,,,,,90,2,79,150
+93,John Coltrane,Blue Train,1958,Jazz,,,,,100,1,88,234
+94,John Coltrane,A Love Supreme,1965,Avant-Garde Jazz,,,,,100,1,90,532
+95,Prince,1999,1982,Funk,,,,,93,7,87,277
+96,Cake,Fashion Nugget,1996,Alternative Rock,,,,,50,1,76,57
+97,Fugees,The Score,1996,Hip Hop,,,,,84,5,83,289
+98,Black Sabbath,Black Sabbath,1970,Heavy Metal,,,,,97,3,85,452
+99,Black Sabbath,Born Again,1983,Heavy Metal,,,,,35,2,46,61
+100,James Brown,Sex Machine,1970,Funk,,,,,90,2,82,12
+101,Rage Against The Machine,Rage Against The Machine,1992,Alternative Metal,,,,,94,3,88,743
+102,Black Eyed Peas,Elephunk,2003,Pop Rap,,,,,67,8,62,111
+103,Nas,Stillmatic,2001,Hip Hop,69.0,12.0,8.7,160.0,70,5,76,234
+104,Marvin Gaye,Let's Get It On,1973,Soul,,,,,93,3,85,154
+105,Elton John,Goodbye Yellow Brick Road,1973,Pop Rock,,,,,94,6,84,174
+106,Queen,A Night At The Opera,1975,Hard Rock,,,,,87,4,78,469
+107,The Doors,Strange Days,1967,Psychedelic Rock,,,,,75,4,83,298
+108,Queen,Queen,1973,Rock,,,,,62,4,66,207
+109,Queen,Queen II,1974,Hard Rock,,,,,64,5,74,208
+110,Queen,Sheer Heart Attack,1974,Hard Rock,,,,,85,6,79,252
+111,Queen,Jazz,1978,Rock,,,,,73,3,74,193
+112,J. Cole,Born Sinner,2013,Hip Hop,71.0,21.0,7.2,391.0,70,15,66,436
+113,Nas,It Was Written,1996,Hip Hop,,,,,70,3,80,386
+114,Steely Dan,Aja,1977,Pop Rock,,,,,98,6,84,187
+115,Led Zeppelin,In Through the Out Door,1979,Hard Rock,,,,,63,4,69,193
+116,John Legend,Get Lifted,2004,R&B,,,,,74,10,75,31
+117,Ol' Dirty Bastard,Return to the 36 Chambers: The Dirty Version,1995,Hip Hop,,,,,89,4,82,209
+118,Audioslave,Audioslave,2002,Hard Rock,62.0,19.0,8.5,151.0,59,8,70,127
+119,Bob Marley & The Wailers,Natty Dread,1974,Roots Reggae,,,,,100,1,85,60
+120,Grace Jones,Nightclubbing,1981,Art Pop,,,,,87,3,84,137
+121,Funkadelic,One Nation Under a Groove,1978,Funk,,,,,87,3,83,48
+122,Wu-Tang Clan,Wu-Tang Forever,1997,Hip Hop,,,,,80,5,80,136
+123,The Budos Band,The Budos Band II,2007,,,,,,76,5,77,8
+124,The Budos Band,The Budos Band,2005,Funk,,,,,73,3,75,9
+125,Usher,Confessions,2004,R&B,71.0,13.0,8.0,50.0,69,6,73,77
+126,Rush,Moving Pictures,1981,Progressive Rock,,,,,100,1,84,242
+127,Lil Wayne,Tha Carter V,2018,Trap Rap,72.0,14.0,8.1,232.0,71,18,66,646
+128,Lake Street Dive,Bad Self Portraits,2014,,78.0,9.0,8.5,8.0,74,6,74,6
+129,Toto,Toto IV,1982,Pop Rock,,,,,65,2,66,55
+130,Toto,Isolation,1984,Pop Rock,,,,,40,2,43,7
+131,Mobb Deep,The Infamous,1995,Hip Hop,,,,,92,6,88,434
+132,Eagles,Hotel California,1976,Pop Rock,,,,,93,3,75,155
+133,Phil Collins,Face Value,1981,Pop Rock,,,,,80,2,77,30
+134,Santana,Santana,1969,Latin Rock,,,,,83,3,83,58
+135,Sia,1000 Forms of Fear,2014,Electropop,76.0,28.0,8.9,502.0,72,28,74,379
+136,Sturgill Simpson,Metamodern Sounds in Country Music,2014,Country,81.0,10.0,8.2,17.0,86,9,78,125
+137,Curtis Harding,Soul Power,2014,Psychedelic Soul,80.0,7.0,8.8,5.0,68,8,77,20
+138,Boyz II Men,II,1994,R&B,,,,,90,3,71,8
+139,George Ezra,Wanted On Voyage,2014,Singer-Songwriter,,,,,69,7,69,72
+140,Dr. John,Gris-Gris,1968,Psychedelic Rock,,,,,90,2,82,48
+141,John Mayer,Room for Squares,2001,Pop Rock,,,,,80,5,77,69
+142,Method Man,Tical,1994,Hip Hop,,,,,83,2,75,84
+143,Method Man,Tical 2000: Judgement Day,1998,Hip Hop,,,,,70,4,73,20
+144,Bob Marley & The Wailers,Uprising,1980,Roots Reggae,,,,,90,1,82,48
+145,Bob Marley & The Wailers,Exodus,1977,Roots Reggae,,,,,95,2,86,137
+146,Bob Marley & The Wailers,Kaya,1978,Roots Reggae,,,,,90,2,79,38
+147,Black Star,Mos Def & Talib Kweli Are Black Star,1998,Hip Hop,,,,,88,4,85,261
+148,Boston,Boston,1976,Hard Rock,,,,,83,4,78,125
+149,Boston,Third Stage,1986,Hard Rock,,,,,45,2,71,7
+150,Lenny Kravitz,Mama Said,1991,Rock,,,,,61,3,71,19
+151,Lenny Kravitz,Are You Gonna Go My Way,1993,Rock,,,,,69,4,71,22
+152,Lenny Kravitz,5,1998,Pop Rock,,,,,42,5,73,17
+153,Whitney Houston,Whitney Houston,1985,Pop,,,,,90,3,79,84
+154,Whitney Houston,My Love Is Your Love,1998,R&B,,,,,78,3,79,50
+155,Lionel Richie,Can't Slow Down,1983,Pop Soul,,,,,85,2,79,17
+156,Isaac Hayes,Black Moses,1971,Soul,,,,,84,4,81,17
+157,J. Cole,2014 Forest Hills Drive,2014,Hip Hop,67.0,17.0,8.2,548.0,68,17,76,1029
+158,Phil Collins,No Jacket Required,1985,Pop Rock,,,,,85,2,76,31
+159,Bone Thugs-N-Harmony,E. 1999 Eternal,1995,Hip Hop,,,,,79,3,84,69
+160,Fleetwood Mac,Fleetwood Mac,1975,Pop Rock,,,,,93,3,83,206
+161,Craig David,Born to Do It,2000,R&B,,,,,71,8,67,27
+162,Kendrick Lamar,To Pimp a Butterfly,2015,Hip Hop,96.0,44.0,8.8,3616.0,95,42,93,4530
+163,Lianne La Havas,Blood,2015,Neo-Soul,72.0,22.0,8.5,53.0,73,19,78,207
+164,Leon Bridges,Coming Home,2015,Soul,78.0,21.0,8.0,49.0,75,19,74,162
+165,Jess Glynne,I Cry When I Laugh,2015,Dance Pop,53.0,6.0,6.5,104.0,53,4,62,67
+166,Halsey,Badlands,2015,Electropop,,,,,63,3,58,511
+167,Kool & The Gang,Wild and Peaceful,1973,Funk,,,,,90,1,79,16
+168,Rick James,Street Songs,1981,R&B,,,,,100,1,81,32
+169,Peter Tosh,Legalize It,1976,Roots Reggae,,,,,90,1,81,26
+170,UB40,Labour of Love,1983,Reggae,,,,,85,2,61,10
+171,Dr. John,Dr. John's Gumbo,1972,,,,,,85,2,74,16
+172,Gary Clark Jr.,The Story of Sonny Boy Slim,2015,Blues Rock,76.0,14.0,7.3,13.0,75,11,74,34
+173,Vulfpeck,Thrill of the Arts,2015,,,,,,85,1,73,42
+174,Lin-Manuel Miranda,Hamilton: An American Musical (Original Broadway Cast Recording),2015,Pop Rap,85.0,4.0,8.8,52.0,90,4,73,93
+175,Lake Street Dive,Side Pony,2016,Pop Soul,76.0,11.0,8.0,7.0,74,9,73,10
+176,Bill Withers,Still Bill,1972,Soul,,,,,93,3,84,40
+177,UB40,Signing Off,1980,Reggae,,,,,70,2,66,12
+178,Anderson .Paak,Malibu,2016,Neo-Soul,85.0,18.0,8.6,317.0,81,17,81,1281
+179,Charles Bradley,Changes,2016,Soul,80.0,18.0,8.1,12.0,76,18,74,61
+180,"Earth, Wind & Fire",I Am,1979,Funk,,,,,60,1,73,21
+181,Elton John,Victim of Love,1979,Disco,,,,,25,2,30,22
+182,The Lumineers,Cleopatra,2016,Indie Folk,67.0,11.0,7.0,62.0,63,8,67,139
+183,Sturgill Simpson,A Sailor's Guide to Earth,2016,Alt-Country,86.0,19.0,8.1,80.0,84,22,80,392
+184,Michael Kiwanuka,Love & Hate,2016,Soul,86.0,23.0,8.5,60.0,81,21,79,288
+185,Cymande,Cymande,1972,Funk,,,,,80,1,75,20
+186,Flume,Skin,2016,Wonky,75.0,11.0,8.4,204.0,71,13,70,366
+187,Dr. John,In the Right Place,1973,,,,,,80,2,74,13
+188,Journey,Escape,1981,Pop Rock,,,,,65,2,63,35
+189,Styx,The Grand Illusion,1977,Progressive Rock,,,,,77,3,72,19
+190,Frank Ocean,Endless,2016,Alternative R&B,74.0,13.0,8.5,243.0,73,15,82,495
+191,Styx,Pieces of Eight,1978,Hard Rock,,,,,77,3,78,5
+192,Styx,Paradise Theatre,1981,Pop Rock,,,,,73,3,67,6
+193,J. Cole,4 Your Eyez Only,2016,Hip Hop,75.0,14.0,7.5,283.0,69,16,67,803
+194,Betty Davis,They Say I'm Different,1974,Funk,,,,,89,3,79,17
+195,Thundercat,Drunk,2017,Neo-Soul,80.0,26.0,8.0,92.0,80,27,76,864
+196,The Meters,The Meters,1969,Funk,,,,,60,1,77,12
+197,Kendrick Lamar,DAMN.,2017,Hip Hop,95.0,39.0,8.4,2907.0,93,40,82,3728
+198,John Mayer,The Search for Everything,2017,Pop Rock,61.0,4.0,8.0,57.0,65,5,63,120
+199,Chris Stapleton,From A Room: Volume 1,2017,Americana,,,,,78,11,74,77
+200,Tyler Childers,Purgatory,2017,Country,82.0,6.0,,,76,7,81,29
+201,Lukas Nelson & Promise of the Real,Lukas Nelson & Promise of the Real,2017,,,,,,70,4,75,7
+202,Curtis Harding,Face Your Fear,2017,Soul,80.0,7.0,8.7,7.0,76,6,74,29
+203,King Gizzard and the Lizard Wizard,Polygondwanaland,2017,Psychedelic Rock,78.0,5.0,8.7,23.0,74,8,78,425
+204,Khruangbin,Con Todo El Mundo,2018,Psychedelic Rock,78.0,13.0,7.6,24.0,79,9,76,211
+205,Nipsey Hussle,Victory Lap,2018,Hip Hop,80.0,6.0,8.1,25.0,76,6,71,183
+206,Chris Stapleton,From A Room: Volume 2,2017,Country,,,,,75,9,73,56
+207,Kacey Musgraves,Golden Hour,2018,Country Pop,89.0,17.0,8.6,437.0,80,17,78,1201
+208,Leon Bridges,Good Thing,2018,Soul,74.0,17.0,7.2,19.0,71,18,72,156
+209,Kali Uchis,Isolation,2018,Neo-Soul,87.0,17.0,8.7,401.0,85,21,81,1500
+210,J. Cole,KOD,2018,Hip Hop,73.0,14.0,7.6,289.0,70,15,63,1199
+211,Journey,Infinity,1978,Hard Rock,,,,,63,3,61,6
+212,Journey,Evolution,1979,AOR,,,,,65,2,56,8
+213,Lake Street Dive,Free Yourself Up,2018,,66.0,7.0,6.8,4.0,65,5,67,7
+214,Pusha T,Daytona,2018,Hip Hop,86.0,22.0,8.5,483.0,85,24,83,2276
+215,Journey,Frontiers,1983,Hard Rock,,,,,60,2,63,15
+216,Jess Glynne,Always in Between,2018,Dance Pop,60.0,4.0,7.3,24.0,58,4,59,68
+217,Vulfpeck,Hill Climber,2018,Jazz-Funk,,,,,60,1,68,25
+218,Anderson .Paak,Oxnard,2018,Neo-Soul,73.0,18.0,7.9,105.0,73,25,76,988
+219,Mandolin Orange,Tides of a Teardrop,2019,,82.0,4.0,,,77,3,66,13
+220,J.I.D,DiCaprio 2,2018,Hip Hop,80.0,6.0,8.6,73.0,78,7,77,943
+221,Lizzo,Cuz I Love You,2019,Pop Soul,84.0,24.0,7.6,244.0,82,27,73,1360
+222,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,Electropop,82.0,21.0,7.3,846.0,80,25,73,2923
+223,Anderson .Paak,Ventura,2019,R&B,82.0,19.0,8.3,106.0,78,25,77,1219
+224,Santana,Africa Speaks,2019,Latin Rock,87.0,4.0,7.0,6.0,88,4,66,16
+225,Black Pumas,Black Pumas,2019,Soul,77.0,7.0,8.2,9.0,71,6,75,79
+226,Ari Lennox,Shea Butter Baby,2019,Neo-Soul,81.0,4.0,8.6,11.0,77,4,74,196
+227,"Tyler, the Creator",IGOR,2019,Neo-Soul,81.0,18.0,8.8,774.0,85,21,85,4080
+228,SAULT,5,2019,Neo-Soul,,,,,90,2,79,71
+229,Tyler Childers,Country Squire,2019,Country,85.0,6.0,7.8,8.0,78,6,72,66
+230,Taylor Swift,Lover,2019,Electropop,79.0,26.0,8.4,8691.0,73,25,67,1473
+231,Brittany Howard,Jaime,2019,Psychedelic Soul,88.0,19.0,7.9,52.0,83,20,75,431
+232,Bon Iver,"i,i",2019,Art Pop,80.0,33.0,7.9,158.0,82,39,75,1142
+233,Chance The Rapper,The Big Day,2019,Pop Rap,71.0,21.0,3.9,296.0,67,22,33,1187
+234,Michael Kiwanuka,Kiwanuka,2019,Psychedelic Soul,89.0,21.0,8.3,81.0,86,28,81,701
+235,Post Malone,Hollywood's Bleeding,2019,Pop Rap,79.0,10.0,7.5,264.0,71,8,60,1063
+236,Dua Lipa,Future Nostalgia,2020,Dance Pop,88.0,19.0,8.8,3705.0,86,28,78,2788
+237,Khruangbin & Leon Bridges,Texas Sun,2020,Psychedelic Soul,,,,,73,6,71,168
+238,Laura Marling,Song For Our Daughter,2020,Folk,88.0,20.0,8.7,83.0,87,30,79,1041
+239,Khruangbin,Mordechai,2020,Psychedelic Rock,79.0,18.0,8.1,20.0,75,23,69,320
+240,Lianne La Havas,Lianne La Havas,2020,Neo-Soul,83.0,19.0,8.5,47.0,81,26,79,660
+241,Taylor Swift,folklore,2020,Singer-Songwriter,88.0,27.0,9.2,14720.0,86,33,77,1836
+242,Tyler Childers,Long Violent History,2020,,,,,,70,1,71,17
+243,Trombone Shorty,For True,2011,,67.0,8.0,,8.0,69,5,64,2
