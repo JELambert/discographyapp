@@ -1,63 +1,71 @@
 ,Title,Artist,Rating
-24,Badlands,Halsey,3.0
-34,A Sailor's Guide To Earth,Sturgill Simpson,5.0
-37,Victory Lap,Nipsey Hussle,3.0
-40,Houses Of The Holy,Led Zeppelin,5.0
-41,Cuz I Love You,Lizzo,4.0
-57,Blond,Frank Ocean,5.0
-61,Loving In Stereo,Jungle (12),3.0
-63,Pet Sounds,The Beach Boys,5.0
-72,Hive Mind,The Internet (2),4.0
-89,Igor,"Tyler, The Creator",5.0
-90,Call Me If You Get Lost,"Tyler, The Creator",4.0
-98,Cole World: The Sideline Story,J. Cole,3.0
-99,The Score,Fugees,5.0
-104,Africa Speaks,Santana,3.0
-108,The Daptone Super Soul Revue Live! At The Apollo,Various,3.0
-109,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,4.0
-110,Happier Than Ever,Billie Eilish,3.0
-126,Revenge Of The Dreamers III,"Dreamville, J. Cole",4.0
-128,The Off-Season,J. Cole,3.0
-129,Shea Butter Baby,Ari Lennox,3.0
-131,KOD,J. Cole,3.0
-132,4 Your Eyez Only,J. Cole,5.0
-133,Cleopatra,The Lumineers,4.0
-149,Off The Wall,Michael Jackson,5.0
-150,Thriller,Michael Jackson,4.0
-154,Any Port In A Storm,The Dirty Heads,2.0
-160,5,Sault,3.0
-167,Daytona,Pusha T,5.0
-168,"Awaken, My Love!",Childish Gambino,5.0
-175,Purgatory,Tyler Childers,4.0
-177,The Ballad Of Dood & Juanita,Sturgill Simpson,4.0
-178,Metamodern Sounds In Country Music,Sturgill Simpson,4.0
-185,"Good Kid, M.A.A.d City",Kendrick Lamar,4.0
-194,Back To Black,Amy Winehouse,4.0
-218,From A Room: Volume 1,Chris Stapleton,4.0
-225,The Meters,The Meters,3.0
-229,Obviously ,Lake Street Dive,3.0
-230,Keep It Hid,Dan Auerbach,3.0
-234,Side Pony,Lake Street Dive,4.0
-237,"For Emma, Forever Ago",Bon Iver,4.0
-238,Coloring Book,Chance The Rapper,4.0
-239,The Big Day,Chance The Rapper,3.0
-243,Malibu,Anderson .Paak,4.0
-272,Folklore,Taylor Swift,4.0
-274,Hollywood's Bleeding,Post Malone,3.0
-275,Evermore,Taylor Swift,4.0
-276,Isolation,Kali Uchis,3.0
-277,Born Sinner,J. Cole,3.0
-278,2014 Forest Hills Drive,J. Cole,4.0
-296,Chasing Summer,SiR (12),3.0
-305,Vince Staples,Vince Staples,3.0
-306,Half About Being A Woman,Caroline Smith,3.0
-314,Mama Said,Lenny Kravitz,3.0
-332,Purple Rain,Prince And The Revolution,5.0
-336,Swimming In Circles,Mac Miller,4.0
-342,Blindfaller,Mandolin Orange,4.0
-343,Tides Of A Teardrop,Mandolin Orange,4.0
-0,Good Thing,Leon Bridges,3.0
-1,The Miseducation Of Lauryn Hill,Lauryn Hill,5.0
-3,From A Room: Volume 2,Chris Stapleton,4.0
-4,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,5.0
-5,Physical Graffiti,Led Zeppelin,5.0
+17,"The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You",Neko Case,4.0
+25,Badlands,Halsey,3.0
+31,In The Right Place,Dr. John,5.0
+37,A Sailor's Guide To Earth,Sturgill Simpson,5.0
+40,Victory Lap,Nipsey Hussle,3.0
+43,Houses Of The Holy,Led Zeppelin,5.0
+44,Cuz I Love You,Lizzo,4.0
+60,Blond,Frank Ocean,5.0
+64,Loving In Stereo,Jungle (12),3.0
+66,Pet Sounds,The Beach Boys,5.0
+75,Hive Mind,The Internet (2),4.0
+92,Igor,"Tyler, The Creator",5.0
+93,Call Me If You Get Lost,"Tyler, The Creator",4.0
+101,Cole World: The Sideline Story,J. Cole,3.0
+102,The Score,Fugees,5.0
+107,Africa Speaks,Santana,3.0
+111,The Daptone Super Soul Revue Live! At The Apollo,Various,3.0
+112,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,4.0
+113,Happier Than Ever,Billie Eilish,3.0
+129,Revenge Of The Dreamers III,"Dreamville, J. Cole",4.0
+131,The Off-Season,J. Cole,3.0
+132,Shea Butter Baby,Ari Lennox,3.0
+134,KOD,J. Cole,3.0
+135,4 Your Eyez Only,J. Cole,5.0
+136,Cleopatra,The Lumineers,4.0
+152,Off The Wall,Michael Jackson,5.0
+153,Thriller,Michael Jackson,4.0
+157,Any Port In A Storm,The Dirty Heads,2.0
+161,First Mind,Nick Mulvey,3.0
+163,5,Sault,3.0
+170,Daytona,Pusha T,5.0
+171,"Awaken, My Love!",Childish Gambino,5.0
+181,Purgatory,Tyler Childers,4.0
+183,The Ballad Of Dood & Juanita,Sturgill Simpson,4.0
+184,Metamodern Sounds In Country Music,Sturgill Simpson,4.0
+191,"Good Kid, M.A.A.d City",Kendrick Lamar,4.0
+200,Back To Black,Amy Winehouse,4.0
+224,From A Room: Volume 1,Chris Stapleton,4.0
+231,The Meters,The Meters,3.0
+235,Obviously ,Lake Street Dive,3.0
+236,Keep It Hid,Dan Auerbach,3.0
+240,Side Pony,Lake Street Dive,4.0
+243,"For Emma, Forever Ago",Bon Iver,4.0
+244,Coloring Book,Chance The Rapper,4.0
+245,The Big Day,Chance The Rapper,3.0
+249,Malibu,Anderson .Paak,4.0
+278,Folklore,Taylor Swift,4.0
+280,Hollywood's Bleeding,Post Malone,3.0
+281,Evermore,Taylor Swift,4.0
+282,Isolation,Kali Uchis,3.0
+283,Born Sinner,J. Cole,3.0
+284,2014 Forest Hills Drive,J. Cole,4.0
+302,Chasing Summer,SiR (12),3.0
+311,Vince Staples,Vince Staples,3.0
+312,Half About Being A Woman,Caroline Smith,3.0
+320,Mama Said,Lenny Kravitz,3.0
+338,Purple Rain,Prince And The Revolution,5.0
+342,Swimming In Circles,Mac Miller,4.0
+348,Blindfaller,Mandolin Orange,4.0
+349,Tides Of A Teardrop,Mandolin Orange,4.0
+350,Rejoicing In The Hands,Devendra Banhart,3.0
+0,Déjà Vu,"Crosby, Stills, Nash & Young",3.0
+1,Good Thing,Leon Bridges,3.0
+2,The Miseducation Of Lauryn Hill,Lauryn Hill,5.0
+3,Bayou Country,Creedence Clearwater Revival,5.0
+4,Puzzle People,The Temptations,3.0
+6,From A Room: Volume 2,Chris Stapleton,4.0
+7,Enter The Wu-Tang (36 Chambers),Wu-Tang Clan,5.0
+8,Physical Graffiti,Led Zeppelin,5.0
+9,Best Of The Doobies Volume II,The Doobie Brothers,3.0
