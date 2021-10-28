@@ -105,7 +105,7 @@ elif page== "Discography":
 
 elif page=="Album Explorer":
     explor = st.radio(
-         "Pick a Explorer Strategy",
+         "Pick an Explorer Strategy",
          ('Album of the Year', 'Pitchfork', 'Artwork'),
          )
     if explor == "Album of the Year":
