@@ -1,11 +1,14 @@
 ,Catalognum,Artist,Title,Label,Format,Rating,Released,release_id,CollectionFolder,DateAdded
 0,SD 7200,"Crosby, Stills, Nash & Young",Déjà Vu,Atlantic,"LP, Album, PR ",3.0,1970,1132195,Uncategorized,2021-10-23 17:30:19
-1,19075830351,Leon Bridges,Good Thing,Columbia,"LP, Album, 180",3.0,2018,16295515,RnB,2021-10-01 06:38:18
-2,"489843 1, COL 489843 1",Lauryn Hill,The Miseducation Of Lauryn Hill,"Columbia, Columbia","2xLP, Album",5.0,1998,840225,All Times,2021-10-01 11:01:25
-3,8387,Creedence Clearwater Revival,Bayou Country,Fantasy,"LP, Album, Hol",5.0,1969,680968,Uncategorized,2021-10-23 17:29:43
-4,"GS949, 949, S-949",The Temptations,Puzzle People,"Gordy, Gordy, Gordy","LP, Album, Hol",3.0,1969,3420654,Uncategorized,2021-10-23 17:31:04
-5,B0031293-01,Kacey Musgraves,The Kacey Musgraves Christmas Show,MCA Nashville,"LP, Album, Whi",,2020,16012137,Uncategorized,2021-10-19 06:30:27
-6,B0027408-02,Chris Stapleton,From A Room: Volume 2,Mercury Nashville,"CD, Album, Dig",4.0,2017,11209096,Country,2021-10-01 11:02:58
-7,07863 66336-1,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers),"RCA, Loud Records, Wu-Tang Records","LP, Album",5.0,1993,153749,All Times,2021-10-19 06:29:48
-8,"SSK 89400, SS2-200",Led Zeppelin,Physical Graffiti,"Swan Song, Swan Song","2xLP, Album",5.0,1975,458939,All Times,2021-10-19 06:29:20
-9,BSK 3612,The Doobie Brothers,Best Of The Doobies Volume II,Warner Bros. Records,"LP, Comp",3.0,1981,6725906,Uncategorized,2021-10-23 18:57:21
+1,none,Brittany Howard,Jaime (Reimagined),ATO Records,"LP, Album, Neo",,2021,20308279,RnB,2021-10-30 11:13:56
+2,19075830351,Leon Bridges,Good Thing,Columbia,"LP, Album, 180",3.0,2018,16295515,RnB,2021-10-01 06:38:18
+3,"489843 1, COL 489843 1",Lauryn Hill,The Miseducation Of Lauryn Hill,"Columbia, Columbia","2xLP, Album",5.0,1998,840225,All Times,2021-10-01 11:01:25
+4,8387,Creedence Clearwater Revival,Bayou Country,Fantasy,"LP, Album, Hol",5.0,1969,680968,Uncategorized,2021-10-23 17:29:43
+5,"GS949, 949, S-949",The Temptations,Puzzle People,"Gordy, Gordy, Gordy","LP, Album, Hol",3.0,1969,3420654,Uncategorized,2021-10-23 17:31:04
+6,B0031293-01,Kacey Musgraves,The Kacey Musgraves Christmas Show,MCA Nashville,"LP, Album, Whi",,2020,16012137,Uncategorized,2021-10-19 06:30:27
+7,B0027408-02,Chris Stapleton,From A Room: Volume 2,Mercury Nashville,"CD, Album, Dig",4.0,2017,11209096,Country,2021-10-01 11:02:58
+8,567158-1,Lake Street Dive,Free Yourself Up,Nonesuch,"LP, Album",,2018,11949555,All Times,2021-10-29 11:30:21
+9,07863 66336-1,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers),"RCA, Loud Records, Wu-Tang Records","LP, Album",5.0,1993,153749,All Times,2021-10-19 06:29:48
+10,"SSK 89400, SS2-200",Led Zeppelin,Physical Graffiti,"Swan Song, Swan Song","2xLP, Album",5.0,1975,458939,All Times,2021-10-19 06:29:20
+11,TRANS509CD,Arlo Parks,Collapsed In Sunbeams,Transgressive Records,"CD, Album",,2021,17155057,RnB,2021-10-29 11:30:04
+12,BSK 3612,The Doobie Brothers,Best Of The Doobies Volume II,Warner Bros. Records,"LP, Comp",3.0,1981,6725906,Uncategorized,2021-10-23 18:57:21

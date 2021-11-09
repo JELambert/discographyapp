@@ -1,660 +1,1096 @@
 ,Artist,Title,Song,time,date,day,year,month,listen
-0,Mac Miller,Swimming,Jet Fuel,2021-10-28 18:41:00,2021-10-28,28,2021,10,1
-1,Mac Miller,Swimming,Dunno,2021-10-28 18:35:00,2021-10-28,28,2021,10,1
-2,Mac Miller,Swimming,Conversation Pt. 1,2021-10-28 18:31:00,2021-10-28,28,2021,10,1
-3,Mac Miller,Swimming,Small Worlds,2021-10-28 18:28:00,2021-10-28,28,2021,10,1
-4,Mac Miller,Swimming,Ladders,2021-10-28 18:23:00,2021-10-28,28,2021,10,1
-5,Mac Miller,Swimming,Wings,2021-10-28 18:19:00,2021-10-28,28,2021,10,1
-6,Mac Miller,Swimming,Self Care,2021-10-28 18:14:00,2021-10-28,28,2021,10,1
-7,Mac Miller,Swimming,Perfecto,2021-10-28 17:12:00,2021-10-28,28,2021,10,1
-8,Mac Miller,Swimming,What's the Use?,2021-10-28 17:08:00,2021-10-28,28,2021,10,1
-9,Mac Miller,Swimming,Hurt Feelings,2021-10-28 17:03:00,2021-10-28,28,2021,10,1
-10,Mac Miller,Swimming,Come Back to Earth,2021-10-28 16:59:00,2021-10-28,28,2021,10,1
-11,Tyler The Creator,CALL ME IF YOU GET LOST,WILSHIRE,2021-10-28 16:56:00,2021-10-28,28,2021,10,1
-12,Tyler The Creator,CALL ME IF YOU GET LOST,JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),2021-10-28 16:48:00,2021-10-28,28,2021,10,1
-13,Tyler the Creator,CALL ME IF YOU GET LOST,BLESSED,2021-10-28 16:45:00,2021-10-28,28,2021,10,1
-14,Tyler The Creator,CALL ME IF YOU GET LOST,RISE! (feat. DAISY WORLD),2021-10-28 16:44:00,2021-10-28,28,2021,10,1
-15,Tyler The Creator,CALL ME IF YOU GET LOST,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),2021-10-28 16:40:00,2021-10-28,28,2021,10,1
-16,Tyler The Creator,CALL ME IF YOU GET LOST,MANIFESTO (feat. Domo Genesis),2021-10-28 15:53:00,2021-10-28,28,2021,10,1
-17,Tyler The Creator,CALL ME IF YOU GET LOST,RUNITUP (feat. Teezo Touchdown),2021-10-28 15:50:00,2021-10-28,28,2021,10,1
-18,Tyler The Creator,CALL ME IF YOU GET LOST,MASSA,2021-10-28 15:46:00,2021-10-28,28,2021,10,1
-19,Tyler The Creator,CALL ME IF YOU GET LOST,HOT WIND BLOWS (feat. Lil Wayne),2021-10-28 15:43:00,2021-10-28,28,2021,10,1
-20,Tyler The Creator,CALL ME IF YOU GET LOST,LUMBERJACK,2021-10-28 15:40:00,2021-10-28,28,2021,10,1
-21,Tyler The Creator,CALL ME IF YOU GET LOST,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),2021-10-28 15:38:00,2021-10-28,28,2021,10,1
-22,Tyler The Creator,CALL ME IF YOU GET LOST,LEMONHEAD (feat. 42 Dugg),2021-10-28 15:36:00,2021-10-28,28,2021,10,1
-23,Tyler The Creator,CALL ME IF YOU GET LOST,CORSO,2021-10-28 15:34:00,2021-10-28,28,2021,10,1
-24,Tyler The Creator,CALL ME IF YOU GET LOST,SIR BAUDELAIRE (feat. DJ Drama),2021-10-28 15:31:00,2021-10-28,28,2021,10,1
-25,Tyler The Creator,CALL ME IF YOU GET LOST,SIR BAUDELAIRE (feat. DJ Drama),2021-10-28 15:30:00,2021-10-28,28,2021,10,1
-26,Dr. John,Desitively Bonnaroo,Go Tell the People,2021-10-27 22:19:00,2021-10-27,27,2021,10,1
-27,Dr. John,Desitively Bonnaroo,Can't Git Enuff,2021-10-27 22:16:00,2021-10-27,27,2021,10,1
-28,Dr. John,Desitively Bonnaroo,Sing Along Song,2021-10-27 22:13:00,2021-10-27,27,2021,10,1
-29,Dr. John,Desitively Bonnaroo,R U 4 Real,2021-10-27 22:10:00,2021-10-27,27,2021,10,1
-30,Dr. John,Desitively Bonnaroo,Let's Make a Better World,2021-10-27 22:06:00,2021-10-27,27,2021,10,1
-31,Dr. John,Desitively Bonnaroo,(Everybody Wanna Get Rich) Rite Away,2021-10-27 22:03:00,2021-10-27,27,2021,10,1
-32,Dr. John,Desitively Bonnaroo,Mos' Scocious,2021-10-27 22:00:00,2021-10-27,27,2021,10,1
-33,Dr. John,Desitively Bonnaroo,Me Minus You Equals Loneliness,2021-10-27 21:57:00,2021-10-27,27,2021,10,1
-34,Dr. John,Desitively Bonnaroo,What Comes Around (Goes Around),2021-10-27 21:54:00,2021-10-27,27,2021,10,1
-35,Dr. John,Desitively Bonnaroo,Stealin',2021-10-27 21:51:00,2021-10-27,27,2021,10,1
-36,Dr. John,Desitively Bonnaroo,Quitters Never Win,2021-10-27 21:47:00,2021-10-27,27,2021,10,1
-37,Dr. John,In the Right Place,Cold Cold Cold,2021-10-27 21:42:00,2021-10-27,27,2021,10,1
-38,Dr. John,In the Right Place,I Been Hoodood,2021-10-27 21:39:00,2021-10-27,27,2021,10,1
-39,Dr. John,In the Right Place,Shoo Fly Marches On,2021-10-27 21:36:00,2021-10-27,27,2021,10,1
-40,Dr. John,In the Right Place,Such A Night,2021-10-27 21:33:00,2021-10-27,27,2021,10,1
-41,Dr. John,In the Right Place,Such A Night,2021-10-27 21:30:00,2021-10-27,27,2021,10,1
-42,Dr. John,In the Right Place,LIfe,2021-10-27 21:30:00,2021-10-27,27,2021,10,1
-43,Dr. John,In the Right Place,Peace Brother Peace,2021-10-27 21:27:00,2021-10-27,27,2021,10,1
-44,Dr. John,In the Right Place,LIfe,2021-10-27 21:27:00,2021-10-27,27,2021,10,1
-45,Dr. John,In the Right Place,Such A Night,2021-10-27 21:27:00,2021-10-27,27,2021,10,1
-46,Dr. John,In the Right Place,LIfe,2021-10-27 21:25:00,2021-10-27,27,2021,10,1
-47,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:25:00,2021-10-27,27,2021,10,1
-48,Dr. John,In the Right Place,Such A Night,2021-10-27 21:24:00,2021-10-27,27,2021,10,1
-49,Dr. John,In the Right Place,LIfe,2021-10-27 21:22:00,2021-10-27,27,2021,10,1
-50,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:22:00,2021-10-27,27,2021,10,1
-51,Dr. John,In the Right Place,Qualified,2021-10-27 21:22:00,2021-10-27,27,2021,10,1
-52,Dr. John,In the Right Place,Such A Night,2021-10-27 21:21:00,2021-10-27,27,2021,10,1
-53,Dr. John,In the Right Place,LIfe,2021-10-27 21:20:00,2021-10-27,27,2021,10,1
-54,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:19:00,2021-10-27,27,2021,10,1
-55,Dr. John,In the Right Place,Such A Night,2021-10-27 21:18:00,2021-10-27,27,2021,10,1
-56,Dr. John,In the Right Place,LIfe,2021-10-27 21:17:00,2021-10-27,27,2021,10,1
-57,Dr. John,In the Right Place,Qualified,2021-10-27 21:17:00,2021-10-27,27,2021,10,1
-58,Dr. John,In the Right Place,Just the Same,2021-10-27 21:17:00,2021-10-27,27,2021,10,1
-59,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:16:00,2021-10-27,27,2021,10,1
-60,Dr. John,In the Right Place,Such A Night,2021-10-27 21:15:00,2021-10-27,27,2021,10,1
-61,Dr. John,In the Right Place,LIfe,2021-10-27 21:15:00,2021-10-27,27,2021,10,1
-62,Dr. John,In the Right Place,Same Old Same Old,2021-10-27 21:14:00,2021-10-27,27,2021,10,1
-63,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:13:00,2021-10-27,27,2021,10,1
-64,Dr. John,In the Right Place,LIfe,2021-10-27 21:12:00,2021-10-27,27,2021,10,1
-65,Dr. John,In the Right Place,Such A Night,2021-10-27 21:12:00,2021-10-27,27,2021,10,1
-66,Dr. John,In the Right Place,Qualified,2021-10-27 21:12:00,2021-10-27,27,2021,10,1
-67,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:11:00,2021-10-27,27,2021,10,1
-68,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:10:00,2021-10-27,27,2021,10,1
-69,Dr. John,In the Right Place,LIfe,2021-10-27 21:10:00,2021-10-27,27,2021,10,1
-70,Dr. John,In the Right Place,Such A Night,2021-10-27 21:09:00,2021-10-27,27,2021,10,1
-71,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:08:00,2021-10-27,27,2021,10,1
-72,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:07:00,2021-10-27,27,2021,10,1
-73,Dr. John,In the Right Place,LIfe,2021-10-27 21:07:00,2021-10-27,27,2021,10,1
-74,Dr. John,In the Right Place,Qualified,2021-10-27 21:07:00,2021-10-27,27,2021,10,1
-75,Dr. John,In the Right Place,Such A Night,2021-10-27 21:06:00,2021-10-27,27,2021,10,1
-76,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:05:00,2021-10-27,27,2021,10,1
-77,Dr. John,In the Right Place,LIfe,2021-10-27 21:05:00,2021-10-27,27,2021,10,1
-78,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:05:00,2021-10-27,27,2021,10,1
-79,Dr. John,In the Right Place,Such A Night,2021-10-27 21:03:00,2021-10-27,27,2021,10,1
-80,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
-81,Dr. John,In the Right Place,Qualified,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
-82,Dr. John,In the Right Place,LIfe,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
-83,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
-84,Dr. John,In the Right Place,Such A Night,2021-10-27 21:00:00,2021-10-27,27,2021,10,1
-85,Dr. John,In the Right Place,LIfe,2021-10-27 21:00:00,2021-10-27,27,2021,10,1
-86,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:00:00,2021-10-27,27,2021,10,1
-87,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:59:00,2021-10-27,27,2021,10,1
-88,Dr. John,In the Right Place,Qualified,2021-10-27 20:58:00,2021-10-27,27,2021,10,1
-89,Dr. John,In the Right Place,Such A Night,2021-10-27 20:57:00,2021-10-27,27,2021,10,1
-90,Dr. John,In the Right Place,LIfe,2021-10-27 20:57:00,2021-10-27,27,2021,10,1
-91,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:57:00,2021-10-27,27,2021,10,1
-92,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:56:00,2021-10-27,27,2021,10,1
-93,Dr. John,In the Right Place,LIfe,2021-10-27 20:55:00,2021-10-27,27,2021,10,1
-94,Dr. John,In the Right Place,Such A Night,2021-10-27 20:55:00,2021-10-27,27,2021,10,1
-95,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:54:00,2021-10-27,27,2021,10,1
-96,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:53:00,2021-10-27,27,2021,10,1
-97,Dr. John,In the Right Place,Qualified,2021-10-27 20:53:00,2021-10-27,27,2021,10,1
-98,Dr. John,In the Right Place,LIfe,2021-10-27 20:52:00,2021-10-27,27,2021,10,1
-99,Dr. John,In the Right Place,Such A Night,2021-10-27 20:52:00,2021-10-27,27,2021,10,1
-100,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:51:00,2021-10-27,27,2021,10,1
-101,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:50:00,2021-10-27,27,2021,10,1
-102,Dr. John,In the Right Place,LIfe,2021-10-27 20:50:00,2021-10-27,27,2021,10,1
-103,Dr. John,In the Right Place,Such A Night,2021-10-27 20:49:00,2021-10-27,27,2021,10,1
-104,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:48:00,2021-10-27,27,2021,10,1
-105,Dr. John,In the Right Place,Qualified,2021-10-27 20:48:00,2021-10-27,27,2021,10,1
-106,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:48:00,2021-10-27,27,2021,10,1
-107,Dr. John,In the Right Place,LIfe,2021-10-27 20:47:00,2021-10-27,27,2021,10,1
-108,Dr. John,In the Right Place,Such A Night,2021-10-27 20:46:00,2021-10-27,27,2021,10,1
-109,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:45:00,2021-10-27,27,2021,10,1
-110,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:45:00,2021-10-27,27,2021,10,1
-111,Dr. John,In the Right Place,LIfe,2021-10-27 20:45:00,2021-10-27,27,2021,10,1
-112,Dr. John,In the Right Place,Qualified,2021-10-27 20:43:00,2021-10-27,27,2021,10,1
-113,Dr. John,In the Right Place,Such A Night,2021-10-27 20:43:00,2021-10-27,27,2021,10,1
-114,Dr. John,In the Right Place,LIfe,2021-10-27 20:42:00,2021-10-27,27,2021,10,1
-115,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:42:00,2021-10-27,27,2021,10,1
-116,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:42:00,2021-10-27,27,2021,10,1
-117,Dr. John,In the Right Place,Such A Night,2021-10-27 20:40:00,2021-10-27,27,2021,10,1
-118,Dr. John,In the Right Place,LIfe,2021-10-27 20:40:00,2021-10-27,27,2021,10,1
-119,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:39:00,2021-10-27,27,2021,10,1
-120,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:39:00,2021-10-27,27,2021,10,1
-121,Dr. John,In the Right Place,Qualified,2021-10-27 20:38:00,2021-10-27,27,2021,10,1
-122,Dr. John,In the Right Place,Such A Night,2021-10-27 20:37:00,2021-10-27,27,2021,10,1
-123,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:36:00,2021-10-27,27,2021,10,1
-124,Dr. John,In the Right Place,Such A Night,2021-10-27 20:34:00,2021-10-27,27,2021,10,1
-125,Dr. John,In the Right Place,Qualified,2021-10-27 20:33:00,2021-10-27,27,2021,10,1
-126,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:33:00,2021-10-27,27,2021,10,1
-127,Dr. John,In the Right Place,Such A Night,2021-10-27 20:31:00,2021-10-27,27,2021,10,1
-128,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:30:00,2021-10-27,27,2021,10,1
-129,Dr. John,In the Right Place,Qualified,2021-10-27 20:29:00,2021-10-27,27,2021,10,1
-130,Dr. John,In the Right Place,Such A Night,2021-10-27 20:28:00,2021-10-27,27,2021,10,1
-131,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:27:00,2021-10-27,27,2021,10,1
-132,Dr. John,In the Right Place,Such A Night,2021-10-27 20:25:00,2021-10-27,27,2021,10,1
-133,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:25:00,2021-10-27,27,2021,10,1
-134,Dr. John,In the Right Place,Qualified,2021-10-27 20:24:00,2021-10-27,27,2021,10,1
-135,Dr. John,In the Right Place,Such A Night,2021-10-27 20:22:00,2021-10-27,27,2021,10,1
-136,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:22:00,2021-10-27,27,2021,10,1
-137,Dr. John,In the Right Place,Such A Night,2021-10-27 20:19:00,2021-10-27,27,2021,10,1
-138,Dr. John,In the Right Place,Qualified,2021-10-27 20:19:00,2021-10-27,27,2021,10,1
-139,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:19:00,2021-10-27,27,2021,10,1
-140,Dr. John,In the Right Place,Such A Night,2021-10-27 20:16:00,2021-10-27,27,2021,10,1
-141,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:16:00,2021-10-27,27,2021,10,1
-142,Dr. John,In the Right Place,Qualified,2021-10-27 20:14:00,2021-10-27,27,2021,10,1
-143,Dr. John,In the Right Place,Such A Night,2021-10-27 20:13:00,2021-10-27,27,2021,10,1
-144,Dr. John,In the Right Place,Such A Night,2021-10-27 20:10:00,2021-10-27,27,2021,10,1
-145,Dr. John,In the Right Place,Qualified,2021-10-27 20:09:00,2021-10-27,27,2021,10,1
-146,Dr. John,In the Right Place,Such A Night,2021-10-27 20:07:00,2021-10-27,27,2021,10,1
-147,Dr. John,In the Right Place,Such A Night,2021-10-27 20:04:00,2021-10-27,27,2021,10,1
-148,Dr. John,In the Right Place,Qualified,2021-10-27 20:04:00,2021-10-27,27,2021,10,1
-149,Dr. John,In the Right Place,Such A Night,2021-10-27 20:01:00,2021-10-27,27,2021,10,1
-150,Dr. John,In the Right Place,Qualified,2021-10-27 20:00:00,2021-10-27,27,2021,10,1
-151,Sturgill Simpson,The Ballad of Dood & Juanita,Ol' Dood Pt. 2,2021-10-25 19:43:00,2021-10-25,25,2021,10,1
-152,Sturgill Simpson,The Ballad of Dood & Juanita,Epilogue,2021-10-25 19:43:00,2021-10-25,25,2021,10,1
-153,Sturgill Simpson,The Ballad of Dood & Juanita,Go in Peace,2021-10-25 19:40:00,2021-10-25,25,2021,10,1
-154,Sturgill Simpson,The Ballad of Dood & Juanita,Juanita (feat. Willie Nelson),2021-10-25 19:36:00,2021-10-25,25,2021,10,1
-155,Sturgill Simpson,The Ballad of Dood & Juanita,Sam,2021-10-25 19:35:00,2021-10-25,25,2021,10,1
-156,Sturgill Simpson,The Ballad of Dood & Juanita,Played Out,2021-10-25 19:32:00,2021-10-25,25,2021,10,1
-157,Sturgill Simpson,The Ballad of Dood & Juanita,Shamrock,2021-10-25 19:27:00,2021-10-25,25,2021,10,1
-158,Sturgill Simpson,The Ballad of Dood & Juanita,One in the Saddle One on the Ground,2021-10-25 19:24:00,2021-10-25,25,2021,10,1
-159,Sturgill Simpson,The Ballad of Dood & Juanita,Ol' Dood Pt. 1,2021-10-25 19:21:00,2021-10-25,25,2021,10,1
-160,Sturgill Simpson,The Ballad of Dood & Juanita,Prologue,2021-10-25 19:20:00,2021-10-25,25,2021,10,1
-161,Taylor Swift,folklore (deluxe version),seven,2021-10-25 19:03:00,2021-10-25,25,2021,10,1
-162,Taylor Swift,folklore (deluxe version),seven,2021-10-25 19:01:00,2021-10-25,25,2021,10,1
-163,Taylor Swift,folklore (deluxe version),mirrorball,2021-10-25 18:57:00,2021-10-25,25,2021,10,1
-164,Taylor Swift,folklore (deluxe version),my tears ricochet,2021-10-25 18:53:00,2021-10-25,25,2021,10,1
-165,Taylor Swift,folklore (deluxe version),exile (feat. Bon Iver),2021-10-25 18:48:00,2021-10-25,25,2021,10,1
-166,Taylor Swift,folklore (deluxe version),the last great american dynasty,2021-10-25 18:45:00,2021-10-25,25,2021,10,1
-167,Taylor Swift,folklore (deluxe version),cardigan,2021-10-25 18:41:00,2021-10-25,25,2021,10,1
-168,Taylor Swift,folklore (deluxe version),the 1,2021-10-25 18:37:00,2021-10-25,25,2021,10,1
-169,Styx,Equinox,Lorelei,2021-10-25 18:37:00,2021-10-25,25,2021,10,1
-170,Queen,A Night at the Opera,God Save the Queen,2021-10-25 18:35:00,2021-10-25,25,2021,10,1
-171,Queen,A Night at the Opera,Bohemian Rhapsody,2021-10-25 18:29:00,2021-10-25,25,2021,10,1
-172,Queen,A Night at the Opera,Good Company,2021-10-25 18:26:00,2021-10-25,25,2021,10,1
-173,Queen,A Night at the Opera,Love of My Life,2021-10-25 18:22:00,2021-10-25,25,2021,10,1
-174,Queen,A Night at the Opera,The Prophet's Song,2021-10-25 18:14:00,2021-10-25,25,2021,10,1
-175,Queen,A Night at the Opera,Seaside Rendezvous,2021-10-25 18:12:00,2021-10-25,25,2021,10,1
-176,Queen,A Night at the Opera,Sweet Lady,2021-10-25 18:08:00,2021-10-25,25,2021,10,1
-177,Queen,A Night at the Opera,'39,2021-10-25 18:04:00,2021-10-25,25,2021,10,1
-178,Queen,A Night at the Opera,You're My Best Friend,2021-10-25 18:01:00,2021-10-25,25,2021,10,1
-179,Queen,A Night at the Opera,I'm in Love with My Car,2021-10-25 17:58:00,2021-10-25,25,2021,10,1
-180,Queen,A Night at the Opera,Lazing on a Sunday Afternoon,2021-10-25 17:57:00,2021-10-25,25,2021,10,1
-181,Queen,A Night at the Opera,Death on Two Legs (Dedicated to...),2021-10-25 17:53:00,2021-10-25,25,2021,10,1
-182,James Carr,You Got My Mind Messed Up,Dixie Belle,2021-10-25 15:37:00,2021-10-25,25,2021,10,1
-183,James Carr,You Got My Mind Messed Up,A Lucky Loser,2021-10-25 15:35:00,2021-10-25,25,2021,10,1
-184,James Carr,You Got My Mind Messed Up,There Goes My Used to Be,2021-10-25 15:33:00,2021-10-25,25,2021,10,1
-185,James Carr,You Got My Mind Messed Up,You Don't Want Me,2021-10-25 15:30:00,2021-10-25,25,2021,10,1
-186,James Carr,You Got My Mind Messed Up,These Arms of Mine,2021-10-25 15:28:00,2021-10-25,25,2021,10,1
-187,James Carr,You Got My Mind Messed Up,You've Got My Mind Messed Up,2021-10-25 15:25:00,2021-10-25,25,2021,10,1
-188,James Carr,You Got My Mind Messed Up,She's Better Than You,2021-10-25 15:23:00,2021-10-25,25,2021,10,1
-189,James Carr,You Got My Mind Messed Up,Forgetting You,2021-10-25 15:20:00,2021-10-25,25,2021,10,1
-190,James Carr,You Got My Mind Messed Up,Lovable Girl,2021-10-25 15:18:00,2021-10-25,25,2021,10,1
-191,James Carr,You Got My Mind Messed Up,I'm Going For Myself,2021-10-25 15:15:00,2021-10-25,25,2021,10,1
-192,James Carr,You Got My Mind Messed Up,The Dark End of the Street,2021-10-25 15:13:00,2021-10-25,25,2021,10,1
-193,James Carr,You Got My Mind Messed Up,These Ain't Raindrops,2021-10-25 15:10:00,2021-10-25,25,2021,10,1
-194,James Carr,You Got My Mind Messed Up,That's What I Want To Know,2021-10-25 15:08:00,2021-10-25,25,2021,10,1
-195,James Carr,You Got My Mind Messed Up,I Don't Want To Be Hurt Anymore,2021-10-25 15:06:00,2021-10-25,25,2021,10,1
-196,James Carr,You Got My Mind Messed Up,Coming Back To Me Baby,2021-10-25 15:04:00,2021-10-25,25,2021,10,1
-197,James Carr,You Got My Mind Messed Up,Love Attack,2021-10-25 15:01:00,2021-10-25,25,2021,10,1
-198,James Carr,You Got My Mind Messed Up,Pouring Water On A Drowning Man,2021-10-25 14:58:00,2021-10-25,25,2021,10,1
-199,Marvin Gaye,Let's Get It On (Remastered),Just To Keep You Satisfied,2021-10-25 14:53:00,2021-10-25,25,2021,10,1
-200,Marvin Gaye,Let's Get It On (Remastered),You Sure Love To Ball,2021-10-25 14:48:00,2021-10-25,25,2021,10,1
-201,Marvin Gaye,Let's Get It On (Remastered),Distant Lover,2021-10-25 14:44:00,2021-10-25,25,2021,10,1
-202,Marvin Gaye,Let's Get It On (Remastered),Come Get to This,2021-10-25 14:42:00,2021-10-25,25,2021,10,1
-203,Marvin Gaye,Let's Get It On (Remastered),Keep Gettin' It On,2021-10-25 14:38:00,2021-10-25,25,2021,10,1
-204,Marvin Gaye,Let's Get It On (Remastered),If I Should Die Tonight,2021-10-25 14:34:00,2021-10-25,25,2021,10,1
-205,Marvin Gaye,Let's Get It On (Remastered),Please Stay (Once You Go Away),2021-10-25 14:31:00,2021-10-25,25,2021,10,1
-206,Marvin Gaye,Let's Get It On (Remastered),Let's Get It On,2021-10-25 14:26:00,2021-10-25,25,2021,10,1
-207,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),There Goes Mister T,2021-10-25 14:25:00,2021-10-25,25,2021,10,1
-208,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Don't Mess With Mister T,2021-10-25 14:22:00,2021-10-25,25,2021,10,1
-209,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Deep-In-It,2021-10-25 14:20:00,2021-10-25,25,2021,10,1
-210,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Life Is A Gamble,2021-10-25 14:18:00,2021-10-25,25,2021,10,1
-211,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Main Theme From Trouble Man (1),2021-10-25 14:14:00,2021-10-25,25,2021,10,1
-212,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),T Stands For Trouble,2021-10-25 14:09:00,2021-10-25,25,2021,10,1
-213,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Theme From Trouble Man,2021-10-25 14:07:00,2021-10-25,25,2021,10,1
-214,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Trouble Man,2021-10-25 14:03:00,2021-10-25,25,2021,10,1
-215,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Cleo's Apartment,2021-10-25 14:01:00,2021-10-25,25,2021,10,1
-216,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),The Break In (Police Shoot Big),2021-10-25 13:59:00,2021-10-25,25,2021,10,1
-217,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Poor Abbey Walsh,2021-10-25 13:55:00,2021-10-25,25,2021,10,1
-218,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),T Plays It Cool,2021-10-25 13:50:00,2021-10-25,25,2021,10,1
-219,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Main Theme From Trouble Man (2),2021-10-25 13:48:00,2021-10-25,25,2021,10,1
-220,Lake Street Dive,Obviously,Lackluster Lover,2021-10-24 22:41:00,2021-10-24,24,2021,10,1
-221,Lake Street Dive,Obviously,Lackluster Lover,2021-10-24 22:38:00,2021-10-24,24,2021,10,1
-222,Lake Street Dive,Obviously,Lackluster Lover,2021-10-24 22:34:00,2021-10-24,24,2021,10,1
-223,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:23:00,2021-10-24,24,2021,10,1
-224,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:19:00,2021-10-24,24,2021,10,1
-225,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:19:00,2021-10-24,24,2021,10,1
-226,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:15:00,2021-10-24,24,2021,10,1
-227,Lake Street Dive,Obviously,Making Do,2021-10-24 16:15:00,2021-10-24,24,2021,10,1
-228,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:15:00,2021-10-24,24,2021,10,1
-229,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
-230,Lake Street Dive,Obviously,Making Do,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
-231,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
-232,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
-233,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:09:00,2021-10-24,24,2021,10,1
-234,Lake Street Dive,Obviously,Same Old News,2021-10-24 16:09:00,2021-10-24,24,2021,10,1
-235,Lake Street Dive,Obviously,Making Do,2021-10-24 16:08:00,2021-10-24,24,2021,10,1
-236,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:07:00,2021-10-24,24,2021,10,1
-237,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:07:00,2021-10-24,24,2021,10,1
-238,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:06:00,2021-10-24,24,2021,10,1
-239,Lake Street Dive,Obviously,Making Do,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
-240,Lake Street Dive,Obviously,Same Old News,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
-241,Lake Street Dive,Obviously,Hush Money,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
-242,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
-243,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:03:00,2021-10-24,24,2021,10,1
-244,Lake Street Dive,Obviously,Hush Money,2021-10-24 16:01:00,2021-10-24,24,2021,10,1
-245,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 16:01:00,2021-10-24,24,2021,10,1
-246,Lake Street Dive,Obviously,Making Do,2021-10-24 16:01:00,2021-10-24,24,2021,10,1
-247,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:00:00,2021-10-24,24,2021,10,1
-248,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:00:00,2021-10-24,24,2021,10,1
-249,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:59:00,2021-10-24,24,2021,10,1
-250,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:58:00,2021-10-24,24,2021,10,1
-251,Lake Street Dive,Obviously,Being A Woman,2021-10-24 15:57:00,2021-10-24,24,2021,10,1
-252,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:57:00,2021-10-24,24,2021,10,1
-253,Lake Street Dive,Obviously,Making Do,2021-10-24 15:57:00,2021-10-24,24,2021,10,1
-254,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:56:00,2021-10-24,24,2021,10,1
-255,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:55:00,2021-10-24,24,2021,10,1
-256,Lake Street Dive,Obviously,Being A Woman,2021-10-24 15:55:00,2021-10-24,24,2021,10,1
-257,Lake Street Dive,Obviously,Making Do,2021-10-24 15:54:00,2021-10-24,24,2021,10,1
-258,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:54:00,2021-10-24,24,2021,10,1
-259,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:53:00,2021-10-24,24,2021,10,1
-260,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:50:00,2021-10-24,24,2021,10,1
-261,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:50:00,2021-10-24,24,2021,10,1
-262,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:50:00,2021-10-24,24,2021,10,1
-263,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:47:00,2021-10-24,24,2021,10,1
-264,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:46:00,2021-10-24,24,2021,10,1
-265,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:46:00,2021-10-24,24,2021,10,1
-266,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:42:00,2021-10-24,24,2021,10,1
-267,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:41:00,2021-10-24,24,2021,10,1
-268,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:38:00,2021-10-24,24,2021,10,1
-269,Stevie Wonder,Songs in the Key of Life,Village Ghetto Land,2021-10-22 21:31:00,2021-10-22,22,2021,10,1
-270,Stevie Wonder,Songs in the Key of Life,Have a Talk with God,2021-10-22 21:28:00,2021-10-22,22,2021,10,1
-271,Stevie Wonder,Songs in the Key of Life,Love's in Need of Love Today,2021-10-22 21:21:00,2021-10-22,22,2021,10,1
-272,The Meters,Rejuvenation,Just Kissed My Baby,2021-10-22 21:18:00,2021-10-22,22,2021,10,1
-273,Dr. John,In the Right Place,Cold Cold Cold,2021-10-22 21:15:00,2021-10-22,22,2021,10,1
-274,Dr. John,In the Right Place,I Been Hoodood,2021-10-22 21:12:00,2021-10-22,22,2021,10,1
-275,Dr. John,In the Right Place,Shoo Fly Marches On,2021-10-22 21:08:00,2021-10-22,22,2021,10,1
-276,Dr. John,In the Right Place,Such A Night,2021-10-22 21:05:00,2021-10-22,22,2021,10,1
-277,Dr. John,In the Right Place,LIfe,2021-10-22 21:03:00,2021-10-22,22,2021,10,1
-278,Dr. John,In the Right Place,Peace Brother Peace,2021-10-22 21:00:00,2021-10-22,22,2021,10,1
-279,Dr. John,In the Right Place,Traveling Mood,2021-10-22 20:57:00,2021-10-22,22,2021,10,1
-280,Dr. John,In the Right Place,Qualified,2021-10-22 20:52:00,2021-10-22,22,2021,10,1
-281,Dr. John,In the Right Place,Just the Same,2021-10-22 20:50:00,2021-10-22,22,2021,10,1
-282,Dr. John,In the Right Place,Same Old Same Old,2021-10-22 20:47:00,2021-10-22,22,2021,10,1
-283,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-22 20:44:00,2021-10-22,22,2021,10,1
-284,David Rawlings,Poor David's Almanack,Cumberland Gap,2021-10-22 20:43:00,2021-10-22,22,2021,10,1
-285,David Rawlings,Poor David's Almanack,Money Is the Meat in the Coconut,2021-10-22 20:41:00,2021-10-22,22,2021,10,1
-286,David Rawlings,Poor David's Almanack,Midnight Train,2021-10-22 20:38:00,2021-10-22,22,2021,10,1
-287,Karen Dalton,In My Own Time,Something On Your Mind,2021-10-22 20:37:00,2021-10-22,22,2021,10,1
-288,Whiskeytown,Faithless Street,Faithless Street,2021-10-22 20:36:00,2021-10-22,22,2021,10,1
-289,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Yon Ferrets Return,2021-10-22 20:34:00,2021-10-22,22,2021,10,1
-290,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Magpie to the Morning,2021-10-22 20:31:00,2021-10-22,22,2021,10,1
-291,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Madonna of the Wasps,2021-10-22 20:28:00,2021-10-22,22,2021,10,1
-292,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Ragtime,2021-10-22 20:22:00,2021-10-22,22,2021,10,1
-293,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Where Did I Leave That Fire,2021-10-22 20:19:00,2021-10-22,22,2021,10,1
-294,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Local Girl,2021-10-22 20:16:00,2021-10-22,22,2021,10,1
-295,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Afraid,2021-10-22 20:14:00,2021-10-22,22,2021,10,1
-296,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),City Swans,2021-10-22 20:10:00,2021-10-22,22,2021,10,1
-297,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Calling Cards,2021-10-22 20:07:00,2021-10-22,22,2021,10,1
-298,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Nearly Midnight Honolulu,2021-10-22 20:04:00,2021-10-22,22,2021,10,1
-299,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Bracing for Sunday,2021-10-22 20:02:00,2021-10-22,22,2021,10,1
-300,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),I'm From Nowhere,2021-10-22 19:59:00,2021-10-22,22,2021,10,1
-301,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Man,2021-10-22 19:56:00,2021-10-22,22,2021,10,1
-302,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Night Still Comes,2021-10-22 19:52:00,2021-10-22,22,2021,10,1
-303,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Wild Creatures,2021-10-22 19:49:00,2021-10-22,22,2021,10,1
-304,Devendra Banhart,Rejoicing in the Hands,Todo Los Dolores,2021-10-22 19:45:00,2021-10-22,22,2021,10,1
-305,Devendra Banhart,Rejoicing in the Hands,Fall,2021-10-22 19:42:00,2021-10-22,22,2021,10,1
-306,Devendra Banhart,Rejoicing in the Hands,Rejoicing in the Hands,2021-10-22 19:41:00,2021-10-22,22,2021,10,1
-307,Devendra Banhart,Rejoicing in the Hands,Tit Smoking in the Temple of Artesan Mimicry,2021-10-22 19:39:00,2021-10-22,22,2021,10,1
-308,Devendra Banhart,Rejoicing in the Hands,See Saw,2021-10-22 19:36:00,2021-10-22,22,2021,10,1
-309,Devendra Banhart,Rejoicing in the Hands,This Beard Is for Siobhan,2021-10-22 19:33:00,2021-10-22,22,2021,10,1
-310,Devendra Banhart,Rejoicing in the Hands,Will Is My Friend,2021-10-22 19:30:00,2021-10-22,22,2021,10,1
-311,Devendra Banhart,Rejoicing in the Hands,Dogs They Make Up the Dark,2021-10-22 19:29:00,2021-10-22,22,2021,10,1
-312,Devendra Banhart,Rejoicing in the Hands,Poughkeepsie,2021-10-22 19:27:00,2021-10-22,22,2021,10,1
-313,Devendra Banhart,Rejoicing in the Hands,The Body Breaks,2021-10-22 19:24:00,2021-10-22,22,2021,10,1
-314,Devendra Banhart,Rejoicing in the Hands,A Sight to Behold,2021-10-22 19:22:00,2021-10-22,22,2021,10,1
-315,Devendra Banhart,Rejoicing in the Hands,This is the Way,2021-10-22 19:19:00,2021-10-22,22,2021,10,1
-316,The Internet,Hive Mind,Next Time / Humble Pie,2021-10-22 16:23:00,2021-10-22,22,2021,10,1
-317,The Internet,Hive Mind,Mood,2021-10-22 16:20:00,2021-10-22,22,2021,10,1
-318,The Internet,Hive Mind,Bravo,2021-10-22 16:17:00,2021-10-22,22,2021,10,1
-319,The Internet,Hive Mind,Stay The Night,2021-10-22 16:16:00,2021-10-22,22,2021,10,1
-320,The Internet,Hive Mind,Stay The Night,2021-10-22 16:05:00,2021-10-22,22,2021,10,1
-321,The Internet,Hive Mind,La Di Da,2021-10-22 16:01:00,2021-10-22,22,2021,10,1
-322,The Internet,Hive Mind,Come Over,2021-10-22 15:56:00,2021-10-22,22,2021,10,1
-323,The Internet,Hive Mind,Roll (Burbank Funk),2021-10-22 15:53:00,2021-10-22,22,2021,10,1
-324,The Internet,Hive Mind,Come Together,2021-10-22 15:49:00,2021-10-22,22,2021,10,1
-325,Childish Gambino,Because the Internet,3005,2021-10-22 15:48:00,2021-10-22,22,2021,10,1
-326,Kali Uchis,Isolation,Killer,2021-10-22 15:45:00,2021-10-22,22,2021,10,1
-327,Kali Uchis,Isolation,Feel Like a Fool,2021-10-22 15:42:00,2021-10-22,22,2021,10,1
-328,Kali Uchis,Isolation,After the Storm (feat. Tyler the Creator & Bootsy Collins),2021-10-22 15:39:00,2021-10-22,22,2021,10,1
-329,Kali Uchis,Isolation,Coming Home (Interlude),2021-10-22 15:36:00,2021-10-22,22,2021,10,1
-330,Kali Uchis,Isolation,Tomorrow,2021-10-22 15:33:00,2021-10-22,22,2021,10,1
-331,Kali Uchis,Isolation,Gotta Get Up (Interlude),2021-10-22 15:31:00,2021-10-22,22,2021,10,1
-332,Kali Uchis,Isolation,In My Dreams,2021-10-22 15:31:00,2021-10-22,22,2021,10,1
-333,Kali Uchis,Isolation,Nuestro Planeta (feat. Reykon),2021-10-22 15:27:00,2021-10-22,22,2021,10,1
-334,Kali Uchis,Isolation,Dead to Me,2021-10-22 15:24:00,2021-10-22,22,2021,10,1
-335,Kali Uchis,Isolation,Tyrant (feat. Jorja Smith),2021-10-22 15:20:00,2021-10-22,22,2021,10,1
-336,Kali Uchis,Isolation,Your Teeth in My Neck,2021-10-22 15:17:00,2021-10-22,22,2021,10,1
-337,Kali Uchis,Isolation,Flight 22,2021-10-22 15:14:00,2021-10-22,22,2021,10,1
-338,Kali Uchis,Isolation,Just a Stranger (feat. Steve Lacy),2021-10-22 15:11:00,2021-10-22,22,2021,10,1
-339,Kali Uchis,Isolation,Miami (feat. BIA),2021-10-22 15:07:00,2021-10-22,22,2021,10,1
-340,Kali Uchis,Isolation,Body Language (Intro),2021-10-22 15:04:00,2021-10-22,22,2021,10,1
-341,Frank Ocean,channel ORANGE,Monks,2021-10-21 19:07:00,2021-10-21,21,2021,10,1
-342,Frank Ocean,channel ORANGE,White (feat. John Mayer),2021-10-21 19:06:00,2021-10-21,21,2021,10,1
-343,Frank Ocean,channel ORANGE,Lost,2021-10-21 19:02:00,2021-10-21,21,2021,10,1
-344,Frank Ocean,channel ORANGE,Pyramids,2021-10-21 18:52:00,2021-10-21,21,2021,10,1
-345,Frank Ocean,channel ORANGE,Crack Rock,2021-10-21 18:49:00,2021-10-21,21,2021,10,1
-346,Frank Ocean,channel ORANGE,Pilot Jones,2021-10-21 18:45:00,2021-10-21,21,2021,10,1
-347,Frank Ocean,channel ORANGE,Super Rich Kids (feat. Earl Sweatshirt),2021-10-21 18:40:00,2021-10-21,21,2021,10,1
-348,Frank Ocean,channel ORANGE,Not Just Money,2021-10-21 18:39:00,2021-10-21,21,2021,10,1
-349,Frank Ocean,channel ORANGE,Sweet Life,2021-10-21 18:35:00,2021-10-21,21,2021,10,1
-350,Frank Ocean,channel ORANGE,Sierra Leone,2021-10-21 18:33:00,2021-10-21,21,2021,10,1
-351,Frank Ocean,channel ORANGE,Fertilizer,2021-10-21 18:32:00,2021-10-21,21,2021,10,1
-352,Frank Ocean,channel ORANGE,Thinkin Bout You,2021-10-21 18:29:00,2021-10-21,21,2021,10,1
-353,Frank Ocean,channel ORANGE,Start,2021-10-21 18:28:00,2021-10-21,21,2021,10,1
-354,Sir,Chasing Summer,The Recipe,2021-10-21 16:33:00,2021-10-21,21,2021,10,1
-355,Sir,Chasing Summer,Mood (feat. Zacari),2021-10-21 16:30:00,2021-10-21,21,2021,10,1
-356,Sir,Chasing Summer,Still Blue (feat. Jill Scott),2021-10-21 16:29:00,2021-10-21,21,2021,10,1
-357,Sir,Chasing Summer,Wires In The Way,2021-10-21 16:27:00,2021-10-21,21,2021,10,1
-358,Sir,Chasing Summer,Touch Down,2021-10-21 16:24:00,2021-10-21,21,2021,10,1
-359,Sir,Chasing Summer,That's Why I Love You (feat. Sabrina Claudio),2021-10-21 16:20:00,2021-10-21,21,2021,10,1
-360,Sir,Chasing Summer,Lucy's Love (feat. Lil Wayne),2021-10-21 16:17:00,2021-10-21,21,2021,10,1
-361,Sir,Chasing Summer,New Sky (feat. Kadhja Bonet),2021-10-21 16:13:00,2021-10-21,21,2021,10,1
-362,Sir,Chasing Summer,Fire,2021-10-21 16:11:00,2021-10-21,21,2021,10,1
-363,Sir,Chasing Summer,La Lisa (feat. Smino),2021-10-21 16:07:00,2021-10-21,21,2021,10,1
-364,Sir,Chasing Summer,You Can't Save Me,2021-10-21 16:04:00,2021-10-21,21,2021,10,1
-365,Sir,Chasing Summer,John Redcorn,2021-10-21 16:01:00,2021-10-21,21,2021,10,1
-366,Sir,Chasing Summer,Hair Down (feat. Kendrick Lamar),2021-10-21 15:57:00,2021-10-21,21,2021,10,1
-367,CANDYCHYLD,BLUE - EP,PROMISE,2021-10-21 15:55:00,2021-10-21,21,2021,10,1
-368,BLK ODYSSY,BLK VINTAGE,DRINKING GOOD,2021-10-21 15:50:00,2021-10-21,21,2021,10,1
-369,BLK ODYSSY,BLK VINTAGE,BLK REVOLUTION,2021-10-21 15:48:00,2021-10-21,21,2021,10,1
-370,BLK ODYSSY,BLK VINTAGE,GHOST RIDE,2021-10-21 15:46:00,2021-10-21,21,2021,10,1
-371,BLK ODYSSY,BLK VINTAGE,MURDA,2021-10-21 15:43:00,2021-10-21,21,2021,10,1
-372,BLK ODYSSY,BLK VINTAGE,YA NO PODÍA SALIR,2021-10-21 15:39:00,2021-10-21,21,2021,10,1
-373,BLK ODYSSY,BLK VINTAGE,BIG BAD WOLF/SOBER,2021-10-21 15:34:00,2021-10-21,21,2021,10,1
-374,BLK ODYSSY,BLK VINTAGE,HANG LOW (feat. James Robinson),2021-10-21 15:32:00,2021-10-21,21,2021,10,1
-375,BLK ODYSSY,BLK VINTAGE,NINETEEN EIGHTY,2021-10-21 15:29:00,2021-10-21,21,2021,10,1
-376,BLK ODYSSY,BLK VINTAGE,FUNKENTOLOGY,2021-10-21 15:27:00,2021-10-21,21,2021,10,1
-377,BLK ODYSSY,BLK VINTAGE,BLK VINTAGE (INTRO),2021-10-21 15:24:00,2021-10-21,21,2021,10,1
-378,Summer Walker & NO1-NOAH,Life On Earth - EP,White Tee,2021-10-21 15:23:00,2021-10-21,21,2021,10,1
-379,SZA,Ctrl,20 Something,2021-10-21 15:20:00,2021-10-21,21,2021,10,1
-380,SZA,Ctrl,Pretty Little Birds (feat. Isaiah Rashad),2021-10-21 15:16:00,2021-10-21,21,2021,10,1
-381,SZA,Ctrl,Normal Girl,2021-10-21 15:15:00,2021-10-21,21,2021,10,1
-382,SZA,Ctrl,Normal Girl,2021-10-21 14:54:00,2021-10-21,21,2021,10,1
-383,SZA,Ctrl,Wavy (Interlude) [feat. James Fauntleroy],2021-10-21 14:53:00,2021-10-21,21,2021,10,1
-384,SZA,Ctrl,Anything,2021-10-21 14:51:00,2021-10-21,21,2021,10,1
-385,SZA,Ctrl,Broken Clocks,2021-10-21 14:47:00,2021-10-21,21,2021,10,1
-386,SZA,Ctrl,Garden (Say It Like Dat),2021-10-21 14:43:00,2021-10-21,21,2021,10,1
-387,SZA,Ctrl,Go Gina,2021-10-21 14:40:00,2021-10-21,21,2021,10,1
-388,SZA,Ctrl,The Weekend,2021-10-21 14:36:00,2021-10-21,21,2021,10,1
-389,SZA,Ctrl,Prom,2021-10-21 14:33:00,2021-10-21,21,2021,10,1
-390,SZA,Ctrl,Drew Barrymore,2021-10-21 14:29:00,2021-10-21,21,2021,10,1
-391,SZA,Ctrl,Doves in the Wind (feat. Kendrick Lamar),2021-10-21 14:24:00,2021-10-21,21,2021,10,1
-392,SZA,Ctrl,Love Galore (feat. Travis Scott),2021-10-21 14:20:00,2021-10-21,21,2021,10,1
-393,SZA,Ctrl,Supermodel,2021-10-21 14:17:00,2021-10-21,21,2021,10,1
-394,Kamasi Washington,,Street Fighter Mas,2021-10-21 14:09:00,2021-10-21,21,2021,10,1
-395,Kamasi Washington,The Epic,Change of the Guard,2021-10-21 14:06:00,2021-10-21,21,2021,10,1
-396,Chance the Rapper,The Big Day,4 Quarters In The Black (Skit),2021-10-20 15:33:00,2021-10-20,20,2021,10,1
-397,Chance the Rapper,The Big Day,Ballin Flossin (feat. Shawn Mendes),2021-10-20 15:30:00,2021-10-20,20,2021,10,1
-398,Chance the Rapper,The Big Day,Big Fish (feat. Gucci Mane),2021-10-20 15:27:00,2021-10-20,20,2021,10,1
-399,Chance the Rapper,The Big Day,Handsome (feat. Megan Thee Stallion),2021-10-20 15:24:00,2021-10-20,20,2021,10,1
-400,Chance the Rapper,The Big Day,Let's Go on the Run (feat. Knox Fortune),2021-10-20 15:21:00,2021-10-20,20,2021,10,1
-401,Chance the Rapper,The Big Day,The Big Day (feat. Francis and the Lights),2021-10-20 15:17:00,2021-10-20,20,2021,10,1
-402,Chance the Rapper,The Big Day,Roo (feat. Taylor Bennett & CocoRosie),2021-10-20 15:16:00,2021-10-20,20,2021,10,1
-403,Chance the Rapper,The Big Day,Roo (feat. Taylor Bennett & CocoRosie),2021-10-20 14:50:00,2021-10-20,20,2021,10,1
-404,Chance the Rapper,The Big Day,Photo Ops (Skit),2021-10-20 14:49:00,2021-10-20,20,2021,10,1
-405,Chance the Rapper,The Big Day,I Got You (Always And Forever) [feat. En Vogue Ari Lennox & Kierra Sheard],2021-10-20 14:44:00,2021-10-20,20,2021,10,1
-406,Chance the Rapper,The Big Day,We Go High,2021-10-20 14:39:00,2021-10-20,20,2021,10,1
-407,Chance the Rapper,The Big Day,Hot Shower (feat. MadeinTYO & DaBaby),2021-10-20 14:36:00,2021-10-20,20,2021,10,1
-408,Chance the Rapper,The Big Day,Eternal (feat. Smino),2021-10-20 14:32:00,2021-10-20,20,2021,10,1
-409,Chance the Rapper,The Big Day,Do You Remember (feat. Death Cab for Cutie),2021-10-20 14:28:00,2021-10-20,20,2021,10,1
-410,Chance the Rapper,The Big Day,All Day Long (feat. John Legend),2021-10-20 14:17:00,2021-10-20,20,2021,10,1
-411,Mandolin Orange,Tides of a Teardrop,Lonely All the Time,2021-10-19 15:05:00,2021-10-19,19,2021,10,1
-412,Mandolin Orange,Tides of a Teardrop,Mother Deer,2021-10-19 15:02:00,2021-10-19,19,2021,10,1
-413,Mandolin Orange,Tides of a Teardrop,Like You Used To,2021-10-19 14:57:00,2021-10-19,19,2021,10,1
-414,Mandolin Orange,Tides of a Teardrop,Into the Sun,2021-10-19 14:53:00,2021-10-19,19,2021,10,1
-415,Mandolin Orange,Tides of a Teardrop,The Wolves,2021-10-19 14:49:00,2021-10-19,19,2021,10,1
-416,Mandolin Orange,Tides of a Teardrop,Golden Embers,2021-10-19 14:44:00,2021-10-19,19,2021,10,1
-417,Emi Wes,Departure - EP,All Grown Up,2021-10-19 14:44:00,2021-10-19,19,2021,10,1
-418,Mina Okabe,Better Days,Let Me Down,2021-10-19 14:41:00,2021-10-19,19,2021,10,1
-419,Mina Okabe,Better Days,Walk Away,2021-10-19 14:38:00,2021-10-19,19,2021,10,1
-420,Mina Okabe,Better Days,All My Thoughts,2021-10-19 14:35:00,2021-10-19,19,2021,10,1
-421,Mina Okabe,Better Days,Every Second,2021-10-19 14:32:00,2021-10-19,19,2021,10,1
-422,Mina Okabe,Better Days,Play Pretend,2021-10-19 14:28:00,2021-10-19,19,2021,10,1
-423,Mina Okabe,Better Days,Like Other People,2021-10-19 14:25:00,2021-10-19,19,2021,10,1
-424,Mina Okabe,Better Days,I'm Done,2021-10-19 14:22:00,2021-10-19,19,2021,10,1
-425,Mina Okabe,Better Days,Give A Little Less,2021-10-19 14:18:00,2021-10-19,19,2021,10,1
-426,Mina Okabe,Better Days,Critical,2021-10-19 14:15:00,2021-10-19,19,2021,10,1
-427,Mina Okabe,Better Days,Miss Those Days,2021-10-19 14:12:00,2021-10-19,19,2021,10,1
-428,Mina Okabe,Better Days,Miss Those Days,2021-10-19 14:12:00,2021-10-19,19,2021,10,1
-429,Sturgill Simpson,Metamodern Sounds in Country Music,Panbowl (Bonus Track),2021-10-15 13:42:00,2021-10-15,15,2021,10,1
-430,Sturgill Simpson,Metamodern Sounds in Country Music,It Ain't All Flowers,2021-10-15 13:39:00,2021-10-15,15,2021,10,1
-431,Sturgill Simpson,Metamodern Sounds in Country Music,Just Let Go,2021-10-15 13:32:00,2021-10-15,15,2021,10,1
-432,Sturgill Simpson,Metamodern Sounds in Country Music,A Little Light,2021-10-15 13:30:00,2021-10-15,15,2021,10,1
-433,Sturgill Simpson,Metamodern Sounds in Country Music,The Promise,2021-10-15 13:28:00,2021-10-15,15,2021,10,1
-434,Sturgill Simpson,Metamodern Sounds in Country Music,Long White Line,2021-10-15 13:24:00,2021-10-15,15,2021,10,1
-435,Sturgill Simpson,Metamodern Sounds in Country Music,Voices,2021-10-15 13:20:00,2021-10-15,15,2021,10,1
-436,Sturgill Simpson,Metamodern Sounds in Country Music,Living the Dream,2021-10-15 13:17:00,2021-10-15,15,2021,10,1
-437,Sturgill Simpson,Metamodern Sounds in Country Music,Life of Sin,2021-10-15 13:13:00,2021-10-15,15,2021,10,1
-438,Sturgill Simpson,Metamodern Sounds in Country Music,Turtles All the Way Down,2021-10-15 13:11:00,2021-10-15,15,2021,10,1
-439,Bill Withers,The Best Of Bill Withers: Lean On Me,Lovely Day,2021-10-13 20:52:00,2021-10-13,13,2021,10,1
-440,Justin Bieber,My World 2.0 (Bonus Track Version),Baby,2021-10-12 15:49:00,2021-10-12,12,2021,10,1
-441,Mina Okabe,Better Days,Let Me Down,2021-10-12 15:46:00,2021-10-12,12,2021,10,1
-442,Mina Okabe,Better Days,Walk Away,2021-10-12 15:43:00,2021-10-12,12,2021,10,1
-443,Mina Okabe,Better Days,All My Thoughts,2021-10-12 15:40:00,2021-10-12,12,2021,10,1
-444,Mina Okabe,Better Days,Every Second,2021-10-12 15:37:00,2021-10-12,12,2021,10,1
-445,Mina Okabe,Better Days,Play Pretend,2021-10-12 15:34:00,2021-10-12,12,2021,10,1
-446,Mina Okabe,Better Days,Like Other People,2021-10-12 15:30:00,2021-10-12,12,2021,10,1
-447,Mina Okabe,Better Days,I'm Done,2021-10-12 15:27:00,2021-10-12,12,2021,10,1
-448,Mina Okabe,Better Days,Give A Little Less,2021-10-12 15:24:00,2021-10-12,12,2021,10,1
-449,Mina Okabe,Better Days,Critical,2021-10-12 15:20:00,2021-10-12,12,2021,10,1
-450,Mina Okabe,Better Days,Miss Those Days,2021-10-12 15:18:00,2021-10-12,12,2021,10,1
-451,Rachael Price,The Good Hours,That Old Black Magic,2021-10-11 15:54:00,2021-10-11,11,2021,10,1
-452,Vulfpeck,Thrill of the Arts,Back Pocket,2021-10-11 15:51:00,2021-10-11,11,2021,10,1
-453,Caroline Smith,Half About Being a Woman,Child of Moving On,2021-10-11 15:47:00,2021-10-11,11,2021,10,1
-454,Lake Street Dive,Side Pony,Saving All My Sinning,2021-10-11 15:43:00,2021-10-11,11,2021,10,1
-455,Lake Street Dive,Side Pony,Can't Stop,2021-10-11 15:40:00,2021-10-11,11,2021,10,1
-456,Lake Street Dive,Side Pony,Mistakes,2021-10-11 15:36:00,2021-10-11,11,2021,10,1
-457,Lake Street Dive,Side Pony,Hell Yeah,2021-10-11 15:32:00,2021-10-11,11,2021,10,1
-458,Lake Street Dive,Side Pony,Side Pony,2021-10-11 15:29:00,2021-10-11,11,2021,10,1
-459,Lake Street Dive,Side Pony,How Good It Feels,2021-10-11 15:27:00,2021-10-11,11,2021,10,1
-460,Lake Street Dive,Side Pony,So Long,2021-10-11 15:24:00,2021-10-11,11,2021,10,1
-461,Lake Street Dive,Side Pony,I Don't Care About You,2021-10-11 15:21:00,2021-10-11,11,2021,10,1
-462,Lake Street Dive,Side Pony,Spectacular Failure,2021-10-11 15:18:00,2021-10-11,11,2021,10,1
-463,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-10-11 15:15:00,2021-10-11,11,2021,10,1
-464,Lake Street Dive,Side Pony,Close To Me,2021-10-11 15:10:00,2021-10-11,11,2021,10,1
-465,Lake Street Dive,Side Pony,Godawful Things,2021-10-11 15:06:00,2021-10-11,11,2021,10,1
-466,Bon Iver,For Emma Forever Ago,re: stacks,2021-10-09 16:29:00,2021-10-09,9,2021,10,1
-467,Bon Iver,For Emma Forever Ago,For Emma,2021-10-09 16:26:00,2021-10-09,9,2021,10,1
-468,Bon Iver,For Emma Forever Ago,Team,2021-10-09 16:24:00,2021-10-09,9,2021,10,1
-469,Bon Iver,For Emma Forever Ago,Creature Fear,2021-10-09 16:21:00,2021-10-09,9,2021,10,1
-470,Bon Iver,For Emma Forever Ago,Blindsided,2021-10-09 16:15:00,2021-10-09,9,2021,10,1
-471,Bon Iver,For Emma Forever Ago,The Wolves (Act I and II),2021-10-09 16:10:00,2021-10-09,9,2021,10,1
-472,Bon Iver,For Emma Forever Ago,Skinny Love,2021-10-09 16:06:00,2021-10-09,9,2021,10,1
-473,Bon Iver,For Emma Forever Ago,Lump Sum,2021-10-09 16:02:00,2021-10-09,9,2021,10,1
-474,Bon Iver,For Emma Forever Ago,Flume,2021-10-09 15:59:00,2021-10-09,9,2021,10,1
-475,King Gizzard & The Lizard Wizard,Flying Microtonal Banana,Rattlesnake,2021-10-08 21:14:00,2021-10-08,8,2021,10,1
-476,Flume,Skin,Never Be Like You (feat. Kai),2021-10-08 21:10:00,2021-10-08,8,2021,10,1
-477,GZA/Genius,Liquid Swords (Expanded Edition),Gold,2021-10-08 19:52:00,2021-10-08,8,2021,10,1
-478,GZA/Genius,Liquid Swords (Expanded Edition),Living in the World Today,2021-10-08 19:47:00,2021-10-08,8,2021,10,1
-479,GZA/Genius,Liquid Swords (Expanded Edition),Duel Of The Iron Mic (feat. Masta Killa Dreddy Kruger Inspectah Deck & Ol' Dirty Bastard),2021-10-08 19:43:00,2021-10-08,8,2021,10,1
-480,GZA/Genius,Liquid Swords (Expanded Edition),Liquid Swords,2021-10-08 19:38:00,2021-10-08,8,2021,10,1
-481,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Neighborhood,2021-10-08 19:37:00,2021-10-08,8,2021,10,1
-482,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Shine,2021-10-08 19:34:00,2021-10-08,8,2021,10,1
-483,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,I Got No Time,2021-10-08 19:30:00,2021-10-08,8,2021,10,1
-484,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Hip Hop Misfits,2021-10-08 19:29:00,2021-10-08,8,2021,10,1
-485,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Knows That I,2021-10-08 19:25:00,2021-10-08,8,2021,10,1
-486,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Driftin',2021-10-08 19:22:00,2021-10-08,8,2021,10,1
-487,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Believe,2021-10-08 19:18:00,2021-10-08,8,2021,10,1
-488,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Check the Level,2021-10-08 19:17:00,2021-10-08,8,2021,10,1
-489,Dirty Heads Stan Frazier & Steve Fox,Any Port in a Storm,Chelsea,2021-10-08 19:14:00,2021-10-08,8,2021,10,1
-490,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Stand Tall,2021-10-08 19:11:00,2021-10-08,8,2021,10,1
-491,Dirty Heads Steve Fox Stan Frazier & Roman Ramirez,Any Port in a Storm,Lay Me Down (feat. Rome),2021-10-08 19:07:00,2021-10-08,8,2021,10,1
-492,Romero Mosley,Ro's Colored Glasses,You (feat. Amanda Leigh & CARRTOONS),2021-10-08 19:06:00,2021-10-08,8,2021,10,1
-493,BLK ODYSSY,BLK VINTAGE,DRINKING GOOD,2021-10-08 19:01:00,2021-10-08,8,2021,10,1
-494,BLK ODYSSY,BLK VINTAGE,BLK REVOLUTION,2021-10-08 19:00:00,2021-10-08,8,2021,10,1
-495,BLK ODYSSY,BLK VINTAGE,GHOST RIDE,2021-10-08 18:57:00,2021-10-08,8,2021,10,1
-496,BLK ODYSSY,BLK VINTAGE,MURDA,2021-10-08 18:55:00,2021-10-08,8,2021,10,1
-497,BLK ODYSSY,BLK VINTAGE,YA NO PODÍA SALIR,2021-10-08 18:51:00,2021-10-08,8,2021,10,1
-498,BLK ODYSSY,BLK VINTAGE,BIG BAD WOLF/SOBER,2021-10-08 18:46:00,2021-10-08,8,2021,10,1
-499,BLK ODYSSY,BLK VINTAGE,HANG LOW (feat. James Robinson),2021-10-08 18:43:00,2021-10-08,8,2021,10,1
-500,BLK ODYSSY,BLK VINTAGE,NINETEEN EIGHTY,2021-10-08 18:41:00,2021-10-08,8,2021,10,1
-501,BLK ODYSSY,BLK VINTAGE,FUNKENTOLOGY,2021-10-08 18:38:00,2021-10-08,8,2021,10,1
-502,BLK ODYSSY,BLK VINTAGE,BLK VINTAGE (INTRO),2021-10-08 18:35:00,2021-10-08,8,2021,10,1
-503,Dirty Heads Steve Fox Stan Frazier & Roman Ramirez,Any Port in a Storm,Lay Me Down (feat. Rome),2021-10-08 17:31:00,2021-10-08,8,2021,10,1
-504,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),I'll Be Around,2021-10-08 17:19:00,2021-10-08,8,2021,10,1
-505,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Light Skin Girl From London,2021-10-08 17:16:00,2021-10-08,8,2021,10,1
-506,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Butterfly,2021-10-08 17:14:00,2021-10-08,8,2021,10,1
-507,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),What The .... Are We Saying?,2021-10-08 17:09:00,2021-10-08,8,2021,10,1
-508,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),When The Morning Turns To Night,2021-10-08 17:06:00,2021-10-08,8,2021,10,1
-509,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),All I Ever Wanted,2021-10-08 17:02:00,2021-10-08,8,2021,10,1
-510,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Fields Of Joy (Reprise),2021-10-08 16:58:00,2021-10-08,8,2021,10,1
-511,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Flowers For Zoë,2021-10-08 16:55:00,2021-10-08,8,2021,10,1
-512,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Stop Draggin' Around,2021-10-08 16:52:00,2021-10-08,8,2021,10,1
-513,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),The Difference Is Why,2021-10-08 16:47:00,2021-10-08,8,2021,10,1
-514,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),What Goes Around Comes Around,2021-10-08 16:42:00,2021-10-08,8,2021,10,1
-515,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),More Than Anything In This World,2021-10-08 16:39:00,2021-10-08,8,2021,10,1
-516,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),It Ain't Over 'til It's Over,2021-10-08 16:35:00,2021-10-08,8,2021,10,1
-517,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Stand by My Woman,2021-10-08 16:31:00,2021-10-08,8,2021,10,1
-518,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Always on the Run,2021-10-08 16:27:00,2021-10-08,8,2021,10,1
-519,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Fields Of Joy,2021-10-08 16:23:00,2021-10-08,8,2021,10,1
-520,Tyler The Creator,IGOR,WHAT'S GOOD,2021-10-07 22:17:00,2021-10-07,7,2021,10,1
-521,Tyler The Creator,IGOR,PUPPET,2021-10-07 22:16:00,2021-10-07,7,2021,10,1
-522,Tyler The Creator,IGOR,PUPPET,2021-10-07 21:51:00,2021-10-07,7,2021,10,1
-523,Tyler the Creator,IGOR,A BOY IS A GUN,2021-10-07 21:49:00,2021-10-07,7,2021,10,1
-524,Tyler the Creator,IGOR,A BOY IS A GUN,2021-10-07 21:34:00,2021-10-07,7,2021,10,1
-525,Tyler The Creator,IGOR,NEW MAGIC WAND,2021-10-07 21:31:00,2021-10-07,7,2021,10,1
-526,Tyler The Creator,IGOR,RUNNING OUT OF TIME,2021-10-07 21:28:00,2021-10-07,7,2021,10,1
-527,Tyler The Creator,IGOR,Exactly What You Run From You End Up Chasing,2021-10-07 21:28:00,2021-10-07,7,2021,10,1
-528,Tyler The Creator,IGOR,I THINK,2021-10-07 21:24:00,2021-10-07,7,2021,10,1
-529,Tyler The Creator,IGOR,EARFQUAKE,2021-10-07 21:21:00,2021-10-07,7,2021,10,1
-530,Tyler The Creator,IGOR,IGOR'S THEME,2021-10-07 21:18:00,2021-10-07,7,2021,10,1
-531,Lake Street Dive,Bad Self Portraits,You Go Down Smooth,2021-10-07 21:12:00,2021-10-07,7,2021,10,1
-532,Lake Street Dive,Fun Machine - EP,Rich Girl,2021-10-07 21:09:00,2021-10-07,7,2021,10,1
-533,Maggie Rogers,Heard It In A Past Life,Retrograde,2021-10-07 21:07:00,2021-10-07,7,2021,10,1
-534,Caroline Smith,Half About Being a Woman,Child of Moving On,2021-10-07 21:03:00,2021-10-07,7,2021,10,1
-535,Lake Street Dive,Obviously,Sarah,2021-10-07 21:00:00,2021-10-07,7,2021,10,1
-536,Lake Street Dive,Obviously,Feels Like The Last Time,2021-10-07 20:57:00,2021-10-07,7,2021,10,1
-537,Lake Street Dive,Obviously,Anymore,2021-10-07 20:53:00,2021-10-07,7,2021,10,1
-538,Lake Street Dive,Obviously,Lackluster Lover,2021-10-07 20:49:00,2021-10-07,7,2021,10,1
-539,Lake Street Dive,Obviously,Know That I Know,2021-10-07 20:45:00,2021-10-07,7,2021,10,1
-540,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-07 20:42:00,2021-10-07,7,2021,10,1
-541,Lake Street Dive,Obviously,Making Do,2021-10-07 20:38:00,2021-10-07,7,2021,10,1
-542,Lake Street Dive,Obviously,Being A Woman,2021-10-07 20:35:00,2021-10-07,7,2021,10,1
-543,Lake Street Dive,Obviously,Same Old News,2021-10-07 20:31:00,2021-10-07,7,2021,10,1
-544,Lake Street Dive,Obviously,Hush Money,2021-10-07 20:28:00,2021-10-07,7,2021,10,1
-545,Lake Street Dive,Obviously,Hypotheticals,2021-10-07 20:24:00,2021-10-07,7,2021,10,1
-546,The J.B.'s,Funky Good Time: The Anthology,My Brother,2021-10-07 20:17:00,2021-10-07,7,2021,10,1
-547,The Meters,The Meters,Sing a Simple Song,2021-10-07 20:14:00,2021-10-07,7,2021,10,1
-548,The Meters,The Meters,Stormy,2021-10-07 20:10:00,2021-10-07,7,2021,10,1
-549,The Meters,The Meters,Ann,2021-10-07 20:07:00,2021-10-07,7,2021,10,1
-550,The Meters,The Meters,Sehorn's Farm,2021-10-07 20:05:00,2021-10-07,7,2021,10,1
-551,The Meters,The Meters,6V6 LA,2021-10-07 20:02:00,2021-10-07,7,2021,10,1
-552,The Meters,The Meters,Ease Back,2021-10-07 19:59:00,2021-10-07,7,2021,10,1
-553,The Meters,The Meters,Sophisticated Cissy,2021-10-07 19:56:00,2021-10-07,7,2021,10,1
-554,The Meters,The Meters,Art,2021-10-07 19:54:00,2021-10-07,7,2021,10,1
-555,The Meters,The Meters,Live Wire,2021-10-07 19:51:00,2021-10-07,7,2021,10,1
-556,The Meters,The Meters,Cardova,2021-10-07 19:46:00,2021-10-07,7,2021,10,1
-557,The Meters,The Meters,Here Comes the Meter Man,2021-10-07 19:43:00,2021-10-07,7,2021,10,1
-558,The Meters,The Meters,Cissy Strut,2021-10-07 19:40:00,2021-10-07,7,2021,10,1
-559,Leon Bridges,Coming Home (Deluxe),Coming Home,2021-10-07 19:36:00,2021-10-07,7,2021,10,1
-560,Dan Auerbach,Keep It Hid,Goin' Home,2021-10-07 19:31:00,2021-10-07,7,2021,10,1
-561,Dan Auerbach,Keep It Hid,Street Walkin',2021-10-07 19:26:00,2021-10-07,7,2021,10,1
-562,Dan Auerbach,Keep It Hid,When I Left The Room,2021-10-07 19:22:00,2021-10-07,7,2021,10,1
-563,Dan Auerbach,Keep It Hid,My Last Mistake,2021-10-07 19:19:00,2021-10-07,7,2021,10,1
-564,Dan Auerbach,Keep It Hid,Keep It Hid,2021-10-07 19:15:00,2021-10-07,7,2021,10,1
-565,Dan Auerbach,Keep It Hid,The Prowl,2021-10-07 19:12:00,2021-10-07,7,2021,10,1
-566,Dan Auerbach,Keep It Hid,Mean Monsoon,2021-10-07 19:08:00,2021-10-07,7,2021,10,1
-567,Dan Auerbach,Keep It Hid,When The Night Comes,2021-10-07 19:04:00,2021-10-07,7,2021,10,1
-568,Dan Auerbach,Keep It Hid,Real Desire,2021-10-07 18:59:00,2021-10-07,7,2021,10,1
-569,Dan Auerbach,Keep It Hid,Whispered Words (Pretty Lies),2021-10-07 18:55:00,2021-10-07,7,2021,10,1
-570,Dan Auerbach,Keep It Hid,Because I Should,2021-10-07 18:54:00,2021-10-07,7,2021,10,1
-571,Dan Auerbach,Keep It Hid,Heartbroken In Disrepair,2021-10-07 18:51:00,2021-10-07,7,2021,10,1
-572,Dan Auerbach,Keep It Hid,I Want Some More,2021-10-07 18:47:00,2021-10-07,7,2021,10,1
-573,Dan Auerbach,Keep It Hid,Trouble Weighs A Ton,2021-10-07 18:45:00,2021-10-07,7,2021,10,1
-574,The Avalanches,We Will Always Love You,Take Care In Your Dreaming (feat. Denzel Curry Tricky & Sampa The Great),2021-10-07 18:43:00,2021-10-07,7,2021,10,1
-575,Sault,5,B.A.B.E,2021-10-07 18:39:00,2021-10-07,7,2021,10,1
-576,Sault,5,Wild Hundreds Pt. 55,2021-10-07 18:38:00,2021-10-07,7,2021,10,1
-577,Sault,5,We Are the Sun,2021-10-07 18:34:00,2021-10-07,7,2021,10,1
-578,Sault,5,Wild Hundreds Pt. 5,2021-10-07 18:33:00,2021-10-07,7,2021,10,1
-579,Sault,5,Think About It,2021-10-07 18:30:00,2021-10-07,7,2021,10,1
-580,Sault,5,Something's in the Air,2021-10-07 18:27:00,2021-10-07,7,2021,10,1
-581,Sault,5,Add a Little Bit of Sault,2021-10-07 18:27:00,2021-10-07,7,2021,10,1
-582,Sault,5,Masterpiece,2021-10-07 18:21:00,2021-10-07,7,2021,10,1
-583,Sault,5,Let Me Go,2021-10-07 18:18:00,2021-10-07,7,2021,10,1
-584,Sault,5,Pink Sands,2021-10-07 18:16:00,2021-10-07,7,2021,10,1
-585,Sault,5,Why Why Why Why Why,2021-10-07 18:12:00,2021-10-07,7,2021,10,1
-586,Sault,5,Foot on Necks,2021-10-07 18:09:00,2021-10-07,7,2021,10,1
-587,Sault,5,Don't Waste My Time,2021-10-07 18:05:00,2021-10-07,7,2021,10,1
-588,Sault,5,Up All Night,2021-10-07 18:01:00,2021-10-07,7,2021,10,1
-589,Sammy Rae & The Friends,The Good Life - EP,Talk It Up,2021-10-07 18:00:00,2021-10-07,7,2021,10,1
-590,Lake Street Dive,Side Pony,Saving All My Sinning,2021-10-07 17:56:00,2021-10-07,7,2021,10,1
-591,Lake Street Dive,Side Pony,Can't Stop,2021-10-07 17:53:00,2021-10-07,7,2021,10,1
-592,Lake Street Dive,Side Pony,Mistakes,2021-10-07 17:48:00,2021-10-07,7,2021,10,1
-593,Lake Street Dive,Side Pony,Hell Yeah,2021-10-07 17:45:00,2021-10-07,7,2021,10,1
-594,Lake Street Dive,Side Pony,Side Pony,2021-10-07 17:42:00,2021-10-07,7,2021,10,1
-595,Lake Street Dive,Side Pony,How Good It Feels,2021-10-07 17:40:00,2021-10-07,7,2021,10,1
-596,Lake Street Dive,Side Pony,So Long,2021-10-07 17:37:00,2021-10-07,7,2021,10,1
-597,Lake Street Dive,Side Pony,I Don't Care About You,2021-10-07 17:33:00,2021-10-07,7,2021,10,1
-598,Lake Street Dive,Side Pony,Spectacular Failure,2021-10-07 17:31:00,2021-10-07,7,2021,10,1
-599,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-10-07 17:06:00,2021-10-07,7,2021,10,1
-600,Lake Street Dive,Side Pony,Close To Me,2021-10-07 17:02:00,2021-10-07,7,2021,10,1
-601,Lake Street Dive,Side Pony,Godawful Things,2021-10-07 16:58:00,2021-10-07,7,2021,10,1
-602,Anderson .Paak,Malibu,The Season / Carry Me,2021-10-07 16:57:00,2021-10-07,7,2021,10,1
-603,Jungle,Loving In Stereo,Can't Stop the Stars,2021-10-07 16:53:00,2021-10-07,7,2021,10,1
-604,Jungle,Loving In Stereo,Goodbye My Love (feat. Priya Ragu),2021-10-07 16:50:00,2021-10-07,7,2021,10,1
-605,Jungle,Loving In Stereo,Just Fly Don't Worry,2021-10-07 16:48:00,2021-10-07,7,2021,10,1
-606,Jungle,Loving In Stereo,What D'You Know About Me?,2021-10-07 16:46:00,2021-10-07,7,2021,10,1
-607,Jungle,Loving In Stereo,Truth,2021-10-07 16:43:00,2021-10-07,7,2021,10,1
-608,Jungle,Loving In Stereo,No Rules,2021-10-07 16:40:00,2021-10-07,7,2021,10,1
-609,Jungle,Loving In Stereo,Talk About It,2021-10-07 16:37:00,2021-10-07,7,2021,10,1
-610,Jungle,Loving In Stereo,Fire,2021-10-07 16:34:00,2021-10-07,7,2021,10,1
-611,Jungle,Loving In Stereo,Bonnie Hill,2021-10-07 16:31:00,2021-10-07,7,2021,10,1
-612,Jungle,Loving In Stereo,Lifting You,2021-10-07 16:28:00,2021-10-07,7,2021,10,1
-613,Jungle,Loving In Stereo,Romeo (feat. Bas),2021-10-07 16:25:00,2021-10-07,7,2021,10,1
-614,Jungle,Loving In Stereo,All of the Time,2021-10-07 16:22:00,2021-10-07,7,2021,10,1
-615,Jungle,Loving In Stereo,Keep Moving,2021-10-07 16:18:00,2021-10-07,7,2021,10,1
-616,Jungle,Loving In Stereo,Dry Your Tears,2021-10-07 16:17:00,2021-10-07,7,2021,10,1
-617,The Beach Boys,Pet Sounds,Caroline No,2021-10-07 16:15:00,2021-10-07,7,2021,10,1
-618,The Beach Boys,Pet Sounds,Caroline No,2021-10-07 16:10:00,2021-10-07,7,2021,10,1
-619,The Beach Boys,Pet Sounds,Pet Sounds,2021-10-07 16:08:00,2021-10-07,7,2021,10,1
-620,The Beach Boys,Pet Sounds,I Just Wasn't Made for These Times,2021-10-07 16:04:00,2021-10-07,7,2021,10,1
-621,The Beach Boys,Pet Sounds,Here Today,2021-10-07 16:01:00,2021-10-07,7,2021,10,1
-622,The Beach Boys,Pet Sounds,I Know There's an Answer,2021-10-07 15:58:00,2021-10-07,7,2021,10,1
-623,The Beach Boys,Pet Sounds,God Only Knows,2021-10-07 15:55:00,2021-10-07,7,2021,10,1
-624,The Beach Boys,Pet Sounds,Sloop John B,2021-10-07 15:52:00,2021-10-07,7,2021,10,1
-625,The Beach Boys,Pet Sounds,Let's Go Away for Awhile,2021-10-07 15:49:00,2021-10-07,7,2021,10,1
-626,The Beach Boys,Pet Sounds,I'm Waiting for the Day,2021-10-07 15:46:00,2021-10-07,7,2021,10,1
-627,The Beach Boys,Pet Sounds,Don't Talk (Put Your Head on My Shoulder),2021-10-07 15:43:00,2021-10-07,7,2021,10,1
-628,The Beach Boys,Pet Sounds,That's Not Me,2021-10-07 15:41:00,2021-10-07,7,2021,10,1
-629,The Beach Boys,Pet Sounds,You Still Believe in Me,2021-10-07 15:38:00,2021-10-07,7,2021,10,1
-630,The Beach Boys,Pet Sounds,Wouldn't It Be Nice,2021-10-07 15:35:00,2021-10-07,7,2021,10,1
-631,Prince & The Revolution,Purple Rain (Soundtrack),Purple Rain,2021-10-07 15:26:00,2021-10-07,7,2021,10,1
-632,Prince & The Revolution,Purple Rain (Soundtrack),Baby I'm a Star,2021-10-07 15:21:00,2021-10-07,7,2021,10,1
-633,Prince & The Revolution,Purple Rain (Soundtrack),I Would Die 4 U,2021-10-07 15:18:00,2021-10-07,7,2021,10,1
-634,Prince & The Revolution,Purple Rain (Soundtrack),When Doves Cry,2021-10-07 15:12:00,2021-10-07,7,2021,10,1
-635,Prince & The Revolution,Purple Rain (Soundtrack),Darling Nikki,2021-10-07 15:08:00,2021-10-07,7,2021,10,1
-636,Prince & The Revolution,Purple Rain (Soundtrack),Computer Blue,2021-10-07 15:04:00,2021-10-07,7,2021,10,1
-637,Prince & The Revolution,Purple Rain (Soundtrack),The Beautiful Ones,2021-10-07 14:59:00,2021-10-07,7,2021,10,1
-638,Prince & The Revolution,Purple Rain (Soundtrack),Take Me With U,2021-10-07 14:55:00,2021-10-07,7,2021,10,1
-639,Prince & The Revolution,Purple Rain (Soundtrack),Let's Go Crazy,2021-10-07 14:50:00,2021-10-07,7,2021,10,1
-640,Anderson .Paak,Malibu,The Season / Carry Me,2021-10-06 17:53:00,2021-10-06,6,2021,10,1
-641,Anderson .Paak,Malibu,The Season / Carry Me,2021-10-06 15:11:00,2021-10-06,6,2021,10,1
-642,Anderson .Paak,Malibu,The Waters (feat. BJ The Chicago Kid),2021-10-06 15:08:00,2021-10-06,6,2021,10,1
-643,Anderson .Paak,Malibu,Heart Don't Stand A Chance,2021-10-06 15:02:00,2021-10-06,6,2021,10,1
-644,Anderson .Paak,Malibu,The Bird,2021-10-06 14:59:00,2021-10-06,6,2021,10,1
-645,Anderson .Paak,Malibu,Come Down,2021-10-06 14:58:00,2021-10-06,6,2021,10,1
-646,Jungle,Loving In Stereo,Can't Stop the Stars,2021-10-06 14:54:00,2021-10-06,6,2021,10,1
-647,Jungle,Loving In Stereo,Goodbye My Love (feat. Priya Ragu),2021-10-06 14:51:00,2021-10-06,6,2021,10,1
-648,Jungle,Loving In Stereo,Just Fly Don't Worry,2021-10-06 14:49:00,2021-10-06,6,2021,10,1
-649,Jungle,Loving In Stereo,What D'You Know About Me?,2021-10-06 14:46:00,2021-10-06,6,2021,10,1
-650,Jungle,Loving In Stereo,Truth,2021-10-06 14:46:00,2021-10-06,6,2021,10,1
-651,Jungle,Loving In Stereo,Truth,2021-10-06 14:42:00,2021-10-06,6,2021,10,1
-652,Jungle,Loving In Stereo,No Rules,2021-10-06 14:40:00,2021-10-06,6,2021,10,1
-653,Jungle,Loving In Stereo,Talk About It,2021-10-06 14:36:00,2021-10-06,6,2021,10,1
-654,Betty Davis,They Say I'm Different,They Say I'm Different,2021-10-05 23:27:00,2021-10-05,5,2021,10,1
-655,Tyler Childers,Long Violent History,Sludge River Stomp,2021-10-05 19:32:00,2021-10-05,5,2021,10,1
-656,Tyler Childers,Long Violent History,Squirrel Hunter,2021-10-05 19:28:00,2021-10-05,5,2021,10,1
-657,Tyler Childers,Long Violent History,Zollie's Retreat,2021-10-05 19:26:00,2021-10-05,5,2021,10,1
-658,Tyler Childers,Long Violent History,Send in the Clowns,2021-10-05 19:22:00,2021-10-05,5,2021,10,1
+1,Santana & Chris Stapleton,Blessings and Miracles,Joy,2021-11-09 14:54:00,2021-11-09,9,2021,11,1
+2,Asdru Sierra Salvador Santana & Santana,Blessings and Miracles,Rumbalero,2021-11-09 14:50:00,2021-11-09,9,2021,11,1
+3,Santana,Blessings and Miracles,Santana Celebration,2021-11-09 14:47:00,2021-11-09,9,2021,11,1
+4,Santana,Blessings and Miracles,Ghost of Future Pull / New Light,2021-11-09 14:45:00,2021-11-09,9,2021,11,1
+5,Genesis Owusu & Kirin J Callinan,Smiling with No Teeth,Drown,2021-11-08 20:22:00,2021-11-08,8,2021,11,1
+6,Genesis Owusu,Smiling with No Teeth,Don't Need You,2021-11-08 20:19:00,2021-11-08,8,2021,11,1
+7,Genesis Owusu,Smiling with No Teeth,Waitin' on Ya,2021-11-08 20:16:00,2021-11-08,8,2021,11,1
+8,Genesis Owusu,Smiling with No Teeth,Centrefold,2021-11-08 20:10:00,2021-11-08,8,2021,11,1
+9,Genesis Owusu,Smiling with No Teeth,The Other Black Dog,2021-11-08 20:07:00,2021-11-08,8,2021,11,1
+10,Genesis Owusu,Smiling with No Teeth,On the Move!,2021-11-08 20:02:00,2021-11-08,8,2021,11,1
+11,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Starlight Ethereal Silence,2021-11-08 15:52:00,2021-11-08,8,2021,11,1
+12,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Home Inside,2021-11-08 15:49:00,2021-11-08,8,2021,11,1
+13,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Why the Bright Stars Glow,2021-11-08 15:45:00,2021-11-08,8,2021,11,1
+14,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Two Roads,2021-11-08 15:41:00,2021-11-08,8,2021,11,1
+15,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Within You,2021-11-08 15:36:00,2021-11-08,8,2021,11,1
+16,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Smile,2021-11-08 15:33:00,2021-11-08,8,2021,11,1
+17,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Fallin',2021-11-08 15:29:00,2021-11-08,8,2021,11,1
+18,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Call Me A Fool (feat. Carla Thomas),2021-11-08 15:26:00,2021-11-08,8,2021,11,1
+19,Valerie June,The Moon And Stars: Prescriptions For Dreamers,African Proverb (feat. Carla Thomas),2021-11-08 15:25:00,2021-11-08,8,2021,11,1
+20,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Stardust Scattering,2021-11-08 15:21:00,2021-11-08,8,2021,11,1
+21,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Colors,2021-11-08 15:16:00,2021-11-08,8,2021,11,1
+22,Valerie June,The Moon And Stars: Prescriptions For Dreamers,You And I,2021-11-08 15:13:00,2021-11-08,8,2021,11,1
+23,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Stay Meditation,2021-11-08 15:12:00,2021-11-08,8,2021,11,1
+24,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Stay,2021-11-08 15:09:00,2021-11-08,8,2021,11,1
+25,Prince,Controversy,Jack U Off,2021-11-08 14:55:00,2021-11-08,8,2021,11,1
+26,Prince,Controversy,Annie Christian,2021-11-08 14:52:00,2021-11-08,8,2021,11,1
+27,Prince,Controversy,Let's Work,2021-11-08 14:47:00,2021-11-08,8,2021,11,1
+28,Prince,Controversy,Ronnie Talk To Russia,2021-11-08 14:43:00,2021-11-08,8,2021,11,1
+29,Prince,Controversy,Private Joy,2021-11-08 14:41:00,2021-11-08,8,2021,11,1
+30,Prince,Controversy,Do Me Baby,2021-11-08 14:37:00,2021-11-08,8,2021,11,1
+31,Prince,Controversy,Sexuality,2021-11-08 14:29:00,2021-11-08,8,2021,11,1
+32,Prince,Controversy,Controversy,2021-11-08 14:25:00,2021-11-08,8,2021,11,1
+33,Prince,1999,Lady Cab Driver,2021-11-08 03:31:00,2021-11-08,8,2021,11,1
+34,Prince,1999,Free,2021-11-08 03:23:00,2021-11-08,8,2021,11,1
+35,Prince,1999,Something In The Water (Does Not Compute),2021-11-08 03:18:00,2021-11-08,8,2021,11,1
+36,Prince,1999,Automatic,2021-11-08 03:14:00,2021-11-08,8,2021,11,1
+37,Prince,1999,D.M.S.R.,2021-11-08 03:04:00,2021-11-08,8,2021,11,1
+38,Prince,1999,Let's Pretend We're Married,2021-11-08 02:56:00,2021-11-08,8,2021,11,1
+39,Prince,1999,Delirious,2021-11-08 02:48:00,2021-11-08,8,2021,11,1
+40,Prince,1999,Little Red Corvette,2021-11-08 02:44:00,2021-11-08,8,2021,11,1
+41,Prince,1999,1999,2021-11-08 02:39:00,2021-11-08,8,2021,11,1
+42,Prince and the New Power Generation,Diamonds and Pearls,Push,2021-11-08 02:33:00,2021-11-08,8,2021,11,1
+43,Prince and the New Power Generation,Diamonds and Pearls,Money Don't Matter 2 Night,2021-11-08 02:27:00,2021-11-08,8,2021,11,1
+44,Prince and the New Power Generation,Diamonds and Pearls,Jughead,2021-11-08 02:22:00,2021-11-08,8,2021,11,1
+45,Prince and the New Power Generation,Diamonds and Pearls,Walk Don't Walk,2021-11-08 02:17:00,2021-11-08,8,2021,11,1
+46,Prince and the New Power Generation,Diamonds and Pearls,Gett Off (with Eric Leeds),2021-11-08 02:14:00,2021-11-08,8,2021,11,1
+47,Prince and the New Power Generation,Diamonds and Pearls,Willing and Able,2021-11-08 02:09:00,2021-11-08,8,2021,11,1
+48,Prince and the New Power Generation,Diamonds and Pearls,Strollin',2021-11-08 02:04:00,2021-11-08,8,2021,11,1
+49,Prince and the New Power Generation,Diamonds and Pearls,Cream,2021-11-08 02:01:00,2021-11-08,8,2021,11,1
+50,Prince and the New Power Generation,Diamonds and Pearls,Diamonds and Pearls,2021-11-08 01:56:00,2021-11-08,8,2021,11,1
+51,Prince and the New Power Generation,Diamonds and Pearls,Daddy Pop,2021-11-08 01:52:00,2021-11-08,8,2021,11,1
+52,Prince and the New Power Generation,Diamonds and Pearls,Thunder,2021-11-08 01:46:00,2021-11-08,8,2021,11,1
+53,The Internet,Hive Mind,Wanna Be,2021-11-08 01:40:00,2021-11-08,8,2021,11,1
+54,The Internet,Hive Mind,Look What U Started,2021-11-08 01:36:00,2021-11-08,8,2021,11,1
+55,The Internet,Hive Mind,It Gets Better (With Time),2021-11-08 01:31:00,2021-11-08,8,2021,11,1
+56,The Internet,Hive Mind,Next Time / Humble Pie,2021-11-08 01:26:00,2021-11-08,8,2021,11,1
+57,The Internet,Hive Mind,Mood,2021-11-08 01:20:00,2021-11-08,8,2021,11,1
+58,The Internet,Hive Mind,Bravo,2021-11-08 01:17:00,2021-11-08,8,2021,11,1
+59,The Internet,Hive Mind,Stay The Night,2021-11-08 01:13:00,2021-11-08,8,2021,11,1
+60,The Internet,Hive Mind,La Di Da,2021-11-08 01:09:00,2021-11-08,8,2021,11,1
+61,The Internet,Hive Mind,Come Over,2021-11-08 01:06:00,2021-11-08,8,2021,11,1
+62,The Internet,Hive Mind,Roll (Burbank Funk),2021-11-08 01:00:00,2021-11-08,8,2021,11,1
+63,The Internet,Hive Mind,Come Together,2021-11-08 00:57:00,2021-11-08,8,2021,11,1
+64,Stevie Wonder,Songs in the Key of Life,Village Ghetto Land,2021-11-07 19:26:00,2021-11-07,7,2021,11,1
+65,Stevie Wonder,Songs in the Key of Life,Have a Talk with God,2021-11-07 05:21:00,2021-11-07,7,2021,11,1
+66,Stevie Wonder,Songs in the Key of Life,Love's in Need of Love Today,2021-11-07 05:18:00,2021-11-07,7,2021,11,1
+67,Sharon Jones and the Dap-Kings,Soul Of A Woman,Call On God,2021-11-05 19:43:00,2021-11-05,5,2021,11,1
+68,Sharon Jones & The Dap-Kings,Soul Of A Woman,Girl! (You Got To Forgive Him),2021-11-05 19:39:00,2021-11-05,5,2021,11,1
+69,Sharon Jones & The Dap-Kings,Soul Of A Woman,When I Saw Your Face,2021-11-05 19:35:00,2021-11-05,5,2021,11,1
+70,Sharon Jones & The Dap-Kings,Soul Of A Woman,These Tears (No Longer For You),2021-11-05 19:32:00,2021-11-05,5,2021,11,1
+71,Sharon Jones & The Dap-Kings,Soul Of A Woman,Searching for a New Day,2021-11-05 19:28:00,2021-11-05,5,2021,11,1
+72,Sharon Jones & The Dap-Kings,Soul Of A Woman,Pass Me By,2021-11-05 19:25:00,2021-11-05,5,2021,11,1
+73,Sharon Jones & The Dap-Kings,Soul Of A Woman,Rumors,2021-11-05 19:22:00,2021-11-05,5,2021,11,1
+74,Sharon Jones & The Dap-Kings,Soul Of A Woman,Come and Be a Winner,2021-11-05 19:20:00,2021-11-05,5,2021,11,1
+75,Sharon Jones & The Dap-Kings,Soul Of A Woman,Just Give Me Your Time,2021-11-05 19:17:00,2021-11-05,5,2021,11,1
+76,Sharon Jones & The Dap-Kings,Soul Of A Woman,Sail On!,2021-11-05 19:14:00,2021-11-05,5,2021,11,1
+77,Sharon Jones & The Dap-Kings,Soul Of A Woman,Matter Of Time,2021-11-05 19:11:00,2021-11-05,5,2021,11,1
+78,Nathaniel Rateliff & the Night Sweats,The Future,Love Don’t,2021-11-05 19:05:00,2021-11-05,5,2021,11,1
+79,Nathaniel Rateliff & the Night Sweats,The Future,Oh I,2021-11-05 19:01:00,2021-11-05,5,2021,11,1
+80,Nathaniel Rateliff & the Night Sweats,The Future,So Put Out,2021-11-05 18:58:00,2021-11-05,5,2021,11,1
+81,Nathaniel Rateliff & the Night Sweats,The Future,I’m on Your Side,2021-11-05 18:55:00,2021-11-05,5,2021,11,1
+82,Nathaniel Rateliff & the Night Sweats,The Future,What If I,2021-11-05 18:51:00,2021-11-05,5,2021,11,1
+83,Nathaniel Rateliff & the Night Sweats,The Future,Baby I Got Your Number,2021-11-05 18:48:00,2021-11-05,5,2021,11,1
+84,Nathaniel Rateliff & the Night Sweats,The Future,Love Me Till I’m Gone,2021-11-05 18:44:00,2021-11-05,5,2021,11,1
+85,Nathaniel Rateliff & the Night Sweats,The Future,Something Ain’t Right,2021-11-05 18:40:00,2021-11-05,5,2021,11,1
+86,Nathaniel Rateliff & the Night Sweats,The Future,Face Down in the Moment,2021-11-05 18:36:00,2021-11-05,5,2021,11,1
+87,Nathaniel Rateliff & the Night Sweats,The Future,Survivor,2021-11-05 18:32:00,2021-11-05,5,2021,11,1
+88,Nathaniel Rateliff & the Night Sweats,The Future,The Future,2021-11-05 18:28:00,2021-11-05,5,2021,11,1
+89,Sharon Jones and the Dap-Kings,Naturally,How Long Do I Have To Wait For You?,2021-11-05 18:27:00,2021-11-05,5,2021,11,1
+90,Curtis Harding,If Words Were Flowers,I Won't Let You Down,2021-11-05 18:23:00,2021-11-05,5,2021,11,1
+91,Curtis Harding,If Words Were Flowers,It's A Wonder,2021-11-05 18:19:00,2021-11-05,5,2021,11,1
+92,Curtis Harding,If Words Were Flowers,Forever More,2021-11-05 18:16:00,2021-11-05,5,2021,11,1
+93,Curtis Harding,If Words Were Flowers,So Low,2021-11-05 18:13:00,2021-11-05,5,2021,11,1
+94,Curtis Harding,If Words Were Flowers,The One,2021-11-05 18:09:00,2021-11-05,5,2021,11,1
+95,Curtis Harding,If Words Were Flowers,Where's The Love,2021-11-05 18:05:00,2021-11-05,5,2021,11,1
+96,Curtis Harding,If Words Were Flowers,Explore,2021-11-05 18:01:00,2021-11-05,5,2021,11,1
+97,Curtis Harding,If Words Were Flowers,With You,2021-11-05 17:57:00,2021-11-05,5,2021,11,1
+98,Curtis Harding,If Words Were Flowers,Can't Hide It,2021-11-05 17:53:00,2021-11-05,5,2021,11,1
+99,Curtis Harding,If Words Were Flowers,Hopeful,2021-11-05 17:48:00,2021-11-05,5,2021,11,1
+100,Curtis Harding,If Words Were Flowers,If Words Were Flowers,2021-11-05 17:45:00,2021-11-05,5,2021,11,1
+101,Dr. John,In the Right Place,Shoo Fly Marches On,2021-11-04 17:56:00,2021-11-04,4,2021,11,1
+102,Dr. John,In the Right Place,Such A Night,2021-11-04 17:53:00,2021-11-04,4,2021,11,1
+103,Dr. John,In the Right Place,LIfe,2021-11-04 17:50:00,2021-11-04,4,2021,11,1
+104,Dr. John,In the Right Place,Peace Brother Peace,2021-11-04 17:47:00,2021-11-04,4,2021,11,1
+105,Dr. John,In the Right Place,Traveling Mood,2021-11-04 17:44:00,2021-11-04,4,2021,11,1
+106,Dr. John,In the Right Place,Qualified,2021-11-04 17:40:00,2021-11-04,4,2021,11,1
+107,Dr. John,In the Right Place,Just the Same,2021-11-04 17:37:00,2021-11-04,4,2021,11,1
+108,Dr. John,In the Right Place,Same Old Same Old,2021-11-04 17:34:00,2021-11-04,4,2021,11,1
+109,Dr. John,In the Right Place,Right Place Wrong Time,2021-11-04 17:31:00,2021-11-04,4,2021,11,1
+110,Valerie June,Pushin' Against A Stone,Twined & Twisted,2021-11-04 15:06:00,2021-11-04,4,2021,11,1
+111,Valerie June,Pushin' Against A Stone,The Hour,2021-11-04 15:03:00,2021-11-04,4,2021,11,1
+112,Valerie June,Pushin' Against A Stone,Somebody To Love,2021-11-04 14:59:00,2021-11-04,4,2021,11,1
+113,Valerie June,Pushin' Against A Stone,Workin' Woman Blues,2021-11-04 14:56:00,2021-11-04,4,2021,11,1
+114,Brittany Howard,Jaime,Short and Sweet,2021-11-04 14:53:00,2021-11-04,4,2021,11,1
+115,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Starlight Ethereal Silence,2021-11-04 14:52:00,2021-11-04,4,2021,11,1
+116,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Home Inside,2021-11-04 14:49:00,2021-11-04,4,2021,11,1
+117,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Why the Bright Stars Glow,2021-11-04 14:45:00,2021-11-04,4,2021,11,1
+118,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Two Roads,2021-11-04 14:41:00,2021-11-04,4,2021,11,1
+119,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Within You,2021-11-04 14:36:00,2021-11-04,4,2021,11,1
+120,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Smile,2021-11-04 14:33:00,2021-11-04,4,2021,11,1
+121,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Fallin',2021-11-04 14:29:00,2021-11-04,4,2021,11,1
+122,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Call Me A Fool (feat. Carla Thomas),2021-11-04 14:26:00,2021-11-04,4,2021,11,1
+123,Valerie June,The Moon And Stars: Prescriptions For Dreamers,African Proverb (feat. Carla Thomas),2021-11-04 14:25:00,2021-11-04,4,2021,11,1
+124,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Stardust Scattering,2021-11-04 14:21:00,2021-11-04,4,2021,11,1
+125,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Colors,2021-11-04 14:16:00,2021-11-04,4,2021,11,1
+126,Valerie June,The Moon And Stars: Prescriptions For Dreamers,You And I,2021-11-04 14:13:00,2021-11-04,4,2021,11,1
+127,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Stay Meditation,2021-11-04 14:12:00,2021-11-04,4,2021,11,1
+128,Valerie June,The Moon And Stars: Prescriptions For Dreamers,Stay,2021-11-04 14:09:00,2021-11-04,4,2021,11,1
+129,Dr. John,Desitively Bonnaroo,(Everybody Wanna Get Rich) Rite Away,2021-11-03 20:31:00,2021-11-03,3,2021,11,1
+130,Dr. John,Desitively Bonnaroo,Mos' Scocious,2021-11-03 20:28:00,2021-11-03,3,2021,11,1
+131,Dr. John,Desitively Bonnaroo,Me Minus You Equals Loneliness,2021-11-03 20:25:00,2021-11-03,3,2021,11,1
+132,Dr. John,Desitively Bonnaroo,What Comes Around (Goes Around),2021-11-03 20:22:00,2021-11-03,3,2021,11,1
+133,Dr. John,Desitively Bonnaroo,Stealin',2021-11-03 20:18:00,2021-11-03,3,2021,11,1
+134,Dr. John,Desitively Bonnaroo,Quitters Never Win,2021-11-03 20:15:00,2021-11-03,3,2021,11,1
+135,Big Thief,Change - EP,Sparrow,2021-11-03 19:28:00,2021-11-03,3,2021,11,1
+136,Big Thief,Change - EP,Little Things,2021-11-03 19:23:00,2021-11-03,3,2021,11,1
+137,Big Thief,Change - EP,Certainty,2021-11-03 19:19:00,2021-11-03,3,2021,11,1
+138,Big Thief,Capacity,Mary,2021-11-03 19:18:00,2021-11-03,3,2021,11,1
+139,Big Thief,Change - EP,Change,2021-11-03 19:13:00,2021-11-03,3,2021,11,1
+140,Norah Jones,Come Away With Me (Deluxe Edition),Something Is Calling You (Original Demo Version),2021-11-03 18:25:00,2021-11-03,3,2021,11,1
+141,Norah Jones,Come Away With Me (Deluxe Edition),I'll Be Your Baby Tonight,2021-11-03 18:22:00,2021-11-03,3,2021,11,1
+142,Norah Jones,Come Away With Me (Deluxe Edition),The Nearness of You,2021-11-03 18:18:00,2021-11-03,3,2021,11,1
+143,Norah Jones,Come Away With Me (Deluxe Edition),The Long Day Is Over,2021-11-03 18:16:00,2021-11-03,3,2021,11,1
+144,Norah Jones,Come Away With Me (Deluxe Edition),Nightingale,2021-11-03 18:11:00,2021-11-03,3,2021,11,1
+145,Norah Jones,Come Away With Me (Deluxe Edition),One Flight Down,2021-11-03 18:08:00,2021-11-03,3,2021,11,1
+146,Norah Jones,Come Away With Me (Deluxe Edition),Painter Song,2021-11-03 18:06:00,2021-11-03,3,2021,11,1
+147,Norah Jones,Come Away With Me (Deluxe Edition),I've Got to See You Again,2021-11-03 18:01:00,2021-11-03,3,2021,11,1
+148,Norah Jones,Come Away With Me (Deluxe Edition),Lonestar,2021-11-03 16:21:00,2021-11-03,3,2021,11,1
+149,Norah Jones,Come Away With Me (Deluxe Edition),Turn Me On,2021-11-03 16:18:00,2021-11-03,3,2021,11,1
+150,Norah Jones,Come Away With Me (Deluxe Edition),Shoot the Moon,2021-11-03 16:15:00,2021-11-03,3,2021,11,1
+151,Norah Jones,Come Away With Me (Deluxe Edition),Come Away with Me,2021-11-03 16:11:00,2021-11-03,3,2021,11,1
+152,Norah Jones,Come Away With Me (Deluxe Edition),Feelin' the Same Way,2021-11-03 16:08:00,2021-11-03,3,2021,11,1
+153,Norah Jones,Come Away With Me (Deluxe Edition),Cold Cold Heart,2021-11-03 16:05:00,2021-11-03,3,2021,11,1
+154,Norah Jones,Come Away With Me (Deluxe Edition),Seven Years,2021-11-03 16:02:00,2021-11-03,3,2021,11,1
+155,Norah Jones,Come Away With Me (Deluxe Edition),Don't Know Why,2021-11-03 15:59:00,2021-11-03,3,2021,11,1
+156,Joss Stone,The Soul Sessions,For the Love of You,2021-11-03 15:50:00,2021-11-03,3,2021,11,1
+157,Joss Stone,The Soul Sessions,All the King's Horses,2021-11-03 15:47:00,2021-11-03,3,2021,11,1
+158,Joss Stone,The Soul Sessions,I Had a Dream,2021-11-03 15:44:00,2021-11-03,3,2021,11,1
+159,Joss Stone,The Soul Sessions,I've Fallen in Love With You,2021-11-03 15:39:00,2021-11-03,3,2021,11,1
+160,Joss Stone,The Soul Sessions,Some Kind of Wonderful,2021-11-03 15:35:00,2021-11-03,3,2021,11,1
+161,Joss Stone,The Soul Sessions,Dirty Man,2021-11-03 15:32:00,2021-11-03,3,2021,11,1
+162,Joss Stone,The Soul Sessions,Victim of a Foolish Heart,2021-11-03 15:27:00,2021-11-03,3,2021,11,1
+163,Joss Stone,The Soul Sessions,Fell in Love with a Boy,2021-11-03 15:23:00,2021-11-03,3,2021,11,1
+164,Joss Stone,The Soul Sessions,Super Duper Love,2021-11-03 15:19:00,2021-11-03,3,2021,11,1
+165,Joss Stone,The Soul Sessions,The Chokin' Kind,2021-11-03 15:17:00,2021-11-03,3,2021,11,1
+166,Joss Stone,The Soul Sessions,The Chokin' Kind,2021-11-03 14:57:00,2021-11-03,3,2021,11,1
+167,Tyler the Creator,CALL ME IF YOU GET LOST,SAFARI,2021-11-02 23:26:00,2021-11-02,2,2021,11,1
+168,Tyler The Creator,CALL ME IF YOU GET LOST,WILSHIRE,2021-11-02 23:23:00,2021-11-02,2,2021,11,1
+169,Tyler The Creator,CALL ME IF YOU GET LOST,JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),2021-11-02 23:14:00,2021-11-02,2,2021,11,1
+170,Tyler the Creator,CALL ME IF YOU GET LOST,BLESSED,2021-11-02 23:12:00,2021-11-02,2,2021,11,1
+171,Tyler the Creator,CALL ME IF YOU GET LOST,BLESSED,2021-11-02 23:11:00,2021-11-02,2,2021,11,1
+172,Tyler The Creator,CALL ME IF YOU GET LOST,RISE! (feat. DAISY WORLD),2021-11-02 23:11:00,2021-11-02,2,2021,11,1
+173,Tyler The Creator,CALL ME IF YOU GET LOST,RISE! (feat. DAISY WORLD),2021-11-02 23:08:00,2021-11-02,2,2021,11,1
+174,Tyler The Creator,CALL ME IF YOU GET LOST,MOMMA TALK,2021-11-02 23:07:00,2021-11-02,2,2021,11,1
+175,Tyler The Creator,CALL ME IF YOU GET LOST,MOMMA TALK,2021-11-02 23:06:00,2021-11-02,2,2021,11,1
+176,Tyler The Creator,CALL ME IF YOU GET LOST,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),2021-11-02 23:06:00,2021-11-02,2,2021,11,1
+177,Tyler The Creator,CALL ME IF YOU GET LOST,MANIFESTO (feat. Domo Genesis),2021-11-02 22:57:00,2021-11-02,2,2021,11,1
+178,Tyler The Creator,CALL ME IF YOU GET LOST,MANIFESTO (feat. Domo Genesis),2021-11-02 22:54:00,2021-11-02,2,2021,11,1
+179,Tyler The Creator,CALL ME IF YOU GET LOST,RUNITUP (feat. Teezo Touchdown),2021-11-02 22:54:00,2021-11-02,2,2021,11,1
+180,Tyler The Creator,CALL ME IF YOU GET LOST,MASSA,2021-11-02 22:50:00,2021-11-02,2,2021,11,1
+181,Tyler The Creator,CALL ME IF YOU GET LOST,RUNITUP (feat. Teezo Touchdown),2021-11-02 22:50:00,2021-11-02,2,2021,11,1
+182,Tyler The Creator,CALL ME IF YOU GET LOST,MASSA,2021-11-02 22:46:00,2021-11-02,2,2021,11,1
+183,Tyler The Creator,CALL ME IF YOU GET LOST,HOT WIND BLOWS (feat. Lil Wayne),2021-11-02 22:46:00,2021-11-02,2,2021,11,1
+184,Tyler The Creator,CALL ME IF YOU GET LOST,LUMBERJACK,2021-11-02 22:43:00,2021-11-02,2,2021,11,1
+185,Tyler The Creator,CALL ME IF YOU GET LOST,HOT WIND BLOWS (feat. Lil Wayne),2021-11-02 22:43:00,2021-11-02,2,2021,11,1
+186,Tyler The Creator,CALL ME IF YOU GET LOST,LUMBERJACK,2021-11-02 22:41:00,2021-11-02,2,2021,11,1
+187,Tyler The Creator,CALL ME IF YOU GET LOST,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),2021-11-02 22:41:00,2021-11-02,2,2021,11,1
+188,Tyler The Creator,CALL ME IF YOU GET LOST,LEMONHEAD (feat. 42 Dugg),2021-11-02 22:39:00,2021-11-02,2,2021,11,1
+189,Tyler The Creator,CALL ME IF YOU GET LOST,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),2021-11-02 22:39:00,2021-11-02,2,2021,11,1
+190,Tyler The Creator,CALL ME IF YOU GET LOST,LEMONHEAD (feat. 42 Dugg),2021-11-02 22:37:00,2021-11-02,2,2021,11,1
+191,Tyler The Creator,CALL ME IF YOU GET LOST,CORSO,2021-11-02 22:37:00,2021-11-02,2,2021,11,1
+192,Tyler The Creator,CALL ME IF YOU GET LOST,CORSO,2021-11-02 22:35:00,2021-11-02,2,2021,11,1
+193,Tyler The Creator,CALL ME IF YOU GET LOST,SIR BAUDELAIRE (feat. DJ Drama),2021-11-02 22:34:00,2021-11-02,2,2021,11,1
+194,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:58:00,2021-11-02,2,2021,11,1
+195,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:54:00,2021-11-02,2,2021,11,1
+196,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:54:00,2021-11-02,2,2021,11,1
+197,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:51:00,2021-11-02,2,2021,11,1
+198,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:51:00,2021-11-02,2,2021,11,1
+199,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:50:00,2021-11-02,2,2021,11,1
+200,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:47:00,2021-11-02,2,2021,11,1
+202,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:47:00,2021-11-02,2,2021,11,1
+203,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:47:00,2021-11-02,2,2021,11,1
+204,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:47:00,2021-11-02,2,2021,11,1
+205,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:44:00,2021-11-02,2,2021,11,1
+206,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:43:00,2021-11-02,2,2021,11,1
+207,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:43:00,2021-11-02,2,2021,11,1
+208,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:43:00,2021-11-02,2,2021,11,1
+209,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:42:00,2021-11-02,2,2021,11,1
+210,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:41:00,2021-11-02,2,2021,11,1
+211,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:40:00,2021-11-02,2,2021,11,1
+212,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:40:00,2021-11-02,2,2021,11,1
+213,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:40:00,2021-11-02,2,2021,11,1
+214,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:39:00,2021-11-02,2,2021,11,1
+215,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:38:00,2021-11-02,2,2021,11,1
+216,Lake Street Dive,Side Pony,So Long,2021-11-02 21:38:00,2021-11-02,2,2021,11,1
+217,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:38:00,2021-11-02,2,2021,11,1
+218,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:37:00,2021-11-02,2,2021,11,1
+219,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:37:00,2021-11-02,2,2021,11,1
+220,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:36:00,2021-11-02,2,2021,11,1
+221,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:36:00,2021-11-02,2,2021,11,1
+222,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:36:00,2021-11-02,2,2021,11,1
+223,Lake Street Dive,Side Pony,So Long,2021-11-02 21:35:00,2021-11-02,2,2021,11,1
+224,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:35:00,2021-11-02,2,2021,11,1
+225,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:34:00,2021-11-02,2,2021,11,1
+226,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:34:00,2021-11-02,2,2021,11,1
+227,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:34:00,2021-11-02,2,2021,11,1
+228,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:33:00,2021-11-02,2,2021,11,1
+229,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:33:00,2021-11-02,2,2021,11,1
+230,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:32:00,2021-11-02,2,2021,11,1
+231,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:32:00,2021-11-02,2,2021,11,1
+232,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:32:00,2021-11-02,2,2021,11,1
+233,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:31:00,2021-11-02,2,2021,11,1
+234,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:31:00,2021-11-02,2,2021,11,1
+235,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:30:00,2021-11-02,2,2021,11,1
+236,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:30:00,2021-11-02,2,2021,11,1
+237,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:30:00,2021-11-02,2,2021,11,1
+238,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:29:00,2021-11-02,2,2021,11,1
+239,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:29:00,2021-11-02,2,2021,11,1
+240,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:29:00,2021-11-02,2,2021,11,1
+241,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:28:00,2021-11-02,2,2021,11,1
+242,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:28:00,2021-11-02,2,2021,11,1
+243,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:28:00,2021-11-02,2,2021,11,1
+244,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:27:00,2021-11-02,2,2021,11,1
+245,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:27:00,2021-11-02,2,2021,11,1
+246,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:27:00,2021-11-02,2,2021,11,1
+247,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:26:00,2021-11-02,2,2021,11,1
+248,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:26:00,2021-11-02,2,2021,11,1
+249,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:26:00,2021-11-02,2,2021,11,1
+250,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:26:00,2021-11-02,2,2021,11,1
+251,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:25:00,2021-11-02,2,2021,11,1
+252,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:25:00,2021-11-02,2,2021,11,1
+253,Lake Street Dive,Side Pony,Saving All My Sinning,2021-11-02 21:24:00,2021-11-02,2,2021,11,1
+254,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:24:00,2021-11-02,2,2021,11,1
+255,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:24:00,2021-11-02,2,2021,11,1
+256,Lake Street Dive,Side Pony,Can't Stop,2021-11-02 21:24:00,2021-11-02,2,2021,11,1
+257,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:23:00,2021-11-02,2,2021,11,1
+258,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:22:00,2021-11-02,2,2021,11,1
+259,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:22:00,2021-11-02,2,2021,11,1
+260,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:22:00,2021-11-02,2,2021,11,1
+261,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:22:00,2021-11-02,2,2021,11,1
+262,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:22:00,2021-11-02,2,2021,11,1
+263,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:21:00,2021-11-02,2,2021,11,1
+264,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 21:21:00,2021-11-02,2,2021,11,1
+265,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:21:00,2021-11-02,2,2021,11,1
+266,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:20:00,2021-11-02,2,2021,11,1
+267,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:20:00,2021-11-02,2,2021,11,1
+268,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:19:00,2021-11-02,2,2021,11,1
+269,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:19:00,2021-11-02,2,2021,11,1
+270,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:19:00,2021-11-02,2,2021,11,1
+271,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:18:00,2021-11-02,2,2021,11,1
+272,Lake Street Dive,Side Pony,Mistakes,2021-11-02 21:18:00,2021-11-02,2,2021,11,1
+273,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 21:17:00,2021-11-02,2,2021,11,1
+274,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:17:00,2021-11-02,2,2021,11,1
+275,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:17:00,2021-11-02,2,2021,11,1
+276,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:16:00,2021-11-02,2,2021,11,1
+277,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:16:00,2021-11-02,2,2021,11,1
+278,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:16:00,2021-11-02,2,2021,11,1
+279,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:16:00,2021-11-02,2,2021,11,1
+280,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:15:00,2021-11-02,2,2021,11,1
+281,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:14:00,2021-11-02,2,2021,11,1
+282,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 21:14:00,2021-11-02,2,2021,11,1
+283,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:13:00,2021-11-02,2,2021,11,1
+284,Lake Street Dive,Side Pony,How Good It Feels,2021-11-02 21:13:00,2021-11-02,2,2021,11,1
+285,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:13:00,2021-11-02,2,2021,11,1
+286,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:13:00,2021-11-02,2,2021,11,1
+287,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:13:00,2021-11-02,2,2021,11,1
+288,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:12:00,2021-11-02,2,2021,11,1
+289,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:11:00,2021-11-02,2,2021,11,1
+290,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 21:10:00,2021-11-02,2,2021,11,1
+291,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:10:00,2021-11-02,2,2021,11,1
+292,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:10:00,2021-11-02,2,2021,11,1
+293,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:09:00,2021-11-02,2,2021,11,1
+294,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:09:00,2021-11-02,2,2021,11,1
+295,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:09:00,2021-11-02,2,2021,11,1
+296,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:08:00,2021-11-02,2,2021,11,1
+297,Lake Street Dive,Side Pony,Side Pony,2021-11-02 21:07:00,2021-11-02,2,2021,11,1
+298,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:06:00,2021-11-02,2,2021,11,1
+299,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:06:00,2021-11-02,2,2021,11,1
+300,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 21:06:00,2021-11-02,2,2021,11,1
+301,Lake Street Dive,Side Pony,Hell Yeah,2021-11-02 21:06:00,2021-11-02,2,2021,11,1
+302,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:05:00,2021-11-02,2,2021,11,1
+303,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:04:00,2021-11-02,2,2021,11,1
+304,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:04:00,2021-11-02,2,2021,11,1
+305,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 21:03:00,2021-11-02,2,2021,11,1
+306,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 21:02:00,2021-11-02,2,2021,11,1
+307,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 21:02:00,2021-11-02,2,2021,11,1
+308,Lake Street Dive,Side Pony,Spectacular Failure,2021-11-02 21:01:00,2021-11-02,2,2021,11,1
+309,Lake Street Dive,Side Pony,Close To Me,2021-11-02 21:00:00,2021-11-02,2,2021,11,1
+310,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 20:59:00,2021-11-02,2,2021,11,1
+311,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:59:00,2021-11-02,2,2021,11,1
+312,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 20:58:00,2021-11-02,2,2021,11,1
+313,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:56:00,2021-11-02,2,2021,11,1
+314,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 20:55:00,2021-11-02,2,2021,11,1
+315,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 20:55:00,2021-11-02,2,2021,11,1
+316,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:55:00,2021-11-02,2,2021,11,1
+317,Lake Street Dive,Side Pony,I Don't Care About You,2021-11-02 20:52:00,2021-11-02,2,2021,11,1
+318,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 20:51:00,2021-11-02,2,2021,11,1
+319,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:51:00,2021-11-02,2,2021,11,1
+320,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:51:00,2021-11-02,2,2021,11,1
+321,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 20:48:00,2021-11-02,2,2021,11,1
+322,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:47:00,2021-11-02,2,2021,11,1
+323,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:47:00,2021-11-02,2,2021,11,1
+324,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-11-02 20:45:00,2021-11-02,2,2021,11,1
+325,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:43:00,2021-11-02,2,2021,11,1
+326,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:43:00,2021-11-02,2,2021,11,1
+327,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:40:00,2021-11-02,2,2021,11,1
+328,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:38:00,2021-11-02,2,2021,11,1
+329,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:36:00,2021-11-02,2,2021,11,1
+330,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:34:00,2021-11-02,2,2021,11,1
+331,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:32:00,2021-11-02,2,2021,11,1
+332,Lake Street Dive,Side Pony,Close To Me,2021-11-02 20:30:00,2021-11-02,2,2021,11,1
+333,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:28:00,2021-11-02,2,2021,11,1
+334,Lake Street Dive,Side Pony,Godawful Things,2021-11-02 20:25:00,2021-11-02,2,2021,11,1
+335,Better Than Ezra,Closer,Recognize (featuring DJ Swamp),2021-11-02 17:26:00,2021-11-02,2,2021,11,1
+336,Better Than Ezra,Closer,A Lifetime,2021-11-02 17:26:00,2021-11-02,2,2021,11,1
+337,Better Than Ezra,Closer,A Lifetime,2021-11-02 14:51:00,2021-11-02,2,2021,11,1
+338,Better Than Ezra,Closer,Rolling (featuring Toddy),2021-11-02 14:47:00,2021-11-02,2,2021,11,1
+339,Better Than Ezra,Closer,Closer,2021-11-02 14:43:00,2021-11-02,2,2021,11,1
+340,Better Than Ezra,Closer,Extra Ordinary (featuring DJ Swamp),2021-11-02 14:39:00,2021-11-02,2,2021,11,1
+341,Better Than Ezra,Closer,Misunderstood,2021-11-02 14:35:00,2021-11-02,2,2021,11,1
+342,Joss Stone,The Soul Sessions,The Chokin' Kind,2021-11-02 14:33:00,2021-11-02,2,2021,11,1
+343,Amy Winehouse,Back to Black,Addicted,2021-11-02 14:30:00,2021-11-02,2,2021,11,1
+344,Amy Winehouse,Back to Black,He Can Only Hold Her,2021-11-02 14:27:00,2021-11-02,2,2021,11,1
+345,Amy Winehouse,Back to Black,Some Unholy War,2021-11-02 14:25:00,2021-11-02,2,2021,11,1
+346,Amy Winehouse,Back to Black,Wake Up Alone,2021-11-02 14:21:00,2021-11-02,2,2021,11,1
+347,Amy Winehouse,Back to Black,Tears Dry on Their Own,2021-11-02 14:18:00,2021-11-02,2,2021,11,1
+348,Amy Winehouse,Back to Black,Love Is a Losing Game,2021-11-02 14:16:00,2021-11-02,2,2021,11,1
+349,Amy Winehouse,Back to Black,Back to Black,2021-11-02 14:11:00,2021-11-02,2,2021,11,1
+350,Amy Winehouse,Back to Black,Just Friends,2021-11-02 14:08:00,2021-11-02,2,2021,11,1
+351,Amy Winehouse,Back to Black,Me & Mr Jones,2021-11-02 14:06:00,2021-11-02,2,2021,11,1
+352,Amy Winehouse,Back to Black,You Know I'm No Good,2021-11-02 14:01:00,2021-11-02,2,2021,11,1
+353,Amy Winehouse,Back to Black,Rehab,2021-11-02 13:58:00,2021-11-02,2,2021,11,1
+354,The Meters,Rejuvenation,Africa,2021-11-01 21:54:00,2021-11-01,1,2021,11,1
+355,The Meters,Rejuvenation,Loving You Is on My Mind,2021-11-01 21:50:00,2021-11-01,1,2021,11,1
+356,The Meters,Rejuvenation,It Ain't No Use,2021-11-01 21:47:00,2021-11-01,1,2021,11,1
+357,The Meters,Rejuvenation,Hey Pocky A-Way,2021-11-01 21:35:00,2021-11-01,1,2021,11,1
+358,The Meters,Rejuvenation,Jungle Man,2021-11-01 21:31:00,2021-11-01,1,2021,11,1
+359,The Meters,Rejuvenation,What'cha Say,2021-11-01 21:27:00,2021-11-01,1,2021,11,1
+360,The Meters,Rejuvenation,Just Kissed My Baby,2021-11-01 21:24:00,2021-11-01,1,2021,11,1
+361,The Meters,Rejuvenation,Love Is for Me,2021-11-01 21:19:00,2021-11-01,1,2021,11,1
+362,The Meters,Rejuvenation,People Say,2021-11-01 21:15:00,2021-11-01,1,2021,11,1
+363,Lake Street Dive,Lake Street Dive,Don't Make Me Hold Your Hand (Reprise),2021-11-01 20:41:00,2021-11-01,1,2021,11,1
+364,Lake Street Dive,Lake Street Dive,We All Love the Same Songs,2021-11-01 20:41:00,2021-11-01,1,2021,11,1
+365,Lake Street Dive,Lake Street Dive,Got Me Fooled,2021-11-01 20:37:00,2021-11-01,1,2021,11,1
+366,Lake Street Dive,Lake Street Dive,Neighbor Song,2021-11-01 20:33:00,2021-11-01,1,2021,11,1
+367,Lake Street Dive,Lake Street Dive,Funny Not to Care,2021-11-01 20:29:00,2021-11-01,1,2021,11,1
+368,Lake Street Dive,Lake Street Dive,Elijah,2021-11-01 20:25:00,2021-11-01,1,2021,11,1
+369,Lake Street Dive,Lake Street Dive,Miss Disregard,2021-11-01 20:22:00,2021-11-01,1,2021,11,1
+370,Lake Street Dive,Lake Street Dive,I Don't Really See You Anymore,2021-11-01 20:19:00,2021-11-01,1,2021,11,1
+371,Lake Street Dive,Lake Street Dive,My Heart's In The Right Place,2021-11-01 20:16:00,2021-11-01,1,2021,11,1
+372,Lake Street Dive,Lake Street Dive,Henriette,2021-11-01 20:12:00,2021-11-01,1,2021,11,1
+373,Lake Street Dive,Lake Street Dive,Don't Make Me Hold Your Hand,2021-11-01 20:09:00,2021-11-01,1,2021,11,1
+374,Lake Street Dive,Lake Street Dive,Hello? Goodbye!,2021-11-01 20:03:00,2021-11-01,1,2021,11,1
+375,Lake Street Dive,Obviously,Sarah,2021-11-01 19:58:00,2021-11-01,1,2021,11,1
+376,Lake Street Dive,Obviously,Feels Like The Last Time,2021-11-01 19:55:00,2021-11-01,1,2021,11,1
+377,Lake Street Dive,Obviously,Anymore,2021-11-01 19:52:00,2021-11-01,1,2021,11,1
+378,Lake Street Dive,Obviously,Lackluster Lover,2021-11-01 19:48:00,2021-11-01,1,2021,11,1
+379,Lake Street Dive,Obviously,Know That I Know,2021-11-01 19:44:00,2021-11-01,1,2021,11,1
+380,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-11-01 19:40:00,2021-11-01,1,2021,11,1
+381,Lake Street Dive,Obviously,Making Do,2021-11-01 19:36:00,2021-11-01,1,2021,11,1
+382,Lake Street Dive,Obviously,Being A Woman,2021-11-01 19:33:00,2021-11-01,1,2021,11,1
+383,Lake Street Dive,Obviously,Same Old News,2021-11-01 19:30:00,2021-11-01,1,2021,11,1
+384,Lake Street Dive,Obviously,Hush Money,2021-11-01 19:25:00,2021-11-01,1,2021,11,1
+385,Lake Street Dive,Obviously,Hypotheticals,2021-11-01 19:23:00,2021-11-01,1,2021,11,1
+386,Charles Bradley,Victim of Love (feat. Menahan Street Band),Through the Storm (feat. Menahan Street Band),2021-11-01 14:57:00,2021-11-01,1,2021,11,1
+387,Charles Bradley,Victim of Love (feat. Menahan Street Band),Hurricane (feat. Menahan Street Band),2021-11-01 14:53:00,2021-11-01,1,2021,11,1
+388,Charles Bradley,Victim of Love (feat. Menahan Street Band),Crying in the Chapel (feat. Menahan Street Band),2021-11-01 14:49:00,2021-11-01,1,2021,11,1
+389,Charles Bradley,Victim of Love (feat. Menahan Street Band),Where Do We Go from Here (feat. Menahan Street Band),2021-11-01 14:46:00,2021-11-01,1,2021,11,1
+390,Charles Bradley,Victim of Love (feat. Menahan Street Band),Confusion (feat. Menahan Street Band),2021-11-01 14:42:00,2021-11-01,1,2021,11,1
+391,Charles Bradley,Victim of Love (feat. Menahan Street Band),Dusty Blue (feat. Menahan Street Band),2021-11-01 14:39:00,2021-11-01,1,2021,11,1
+392,Charles Bradley,Victim of Love (feat. Menahan Street Band),Love Bug Blues (feat. Menahan Street Band),2021-11-01 14:36:00,2021-11-01,1,2021,11,1
+393,Charles Bradley,Victim of Love (feat. Menahan Street Band),Victim of Love (feat. Menahan Street Band),2021-11-01 14:32:00,2021-11-01,1,2021,11,1
+394,Charles Bradley,Victim of Love (feat. Menahan Street Band),Let Love Stand a Chance (feat. Menahan Street Band),2021-11-01 14:28:00,2021-11-01,1,2021,11,1
+395,Charles Bradley,Victim of Love (feat. Menahan Street Band),You Put the Flame On It (feat. Menahan Street Band),2021-11-01 14:25:00,2021-11-01,1,2021,11,1
+396,Charles Bradley,Victim of Love (feat. Menahan Street Band),Strictly Reserved For You (feat. Menahan Street Band),2021-11-01 14:21:00,2021-11-01,1,2021,11,1
+397,The Meters,Rejuvenation,It Ain't No Use,2021-10-29 14:17:00,2021-10-29,29,2021,10,1
+398,The Meters,Rejuvenation,Hey Pocky A-Way,2021-10-29 14:13:00,2021-10-29,29,2021,10,1
+399,The Meters,Rejuvenation,Jungle Man,2021-10-29 14:09:00,2021-10-29,29,2021,10,1
+400,The Meters,Rejuvenation,What'cha Say,2021-10-29 14:06:00,2021-10-29,29,2021,10,1
+401,The Meters,Rejuvenation,Just Kissed My Baby,2021-10-29 14:01:00,2021-10-29,29,2021,10,1
+403,The Meters,Rejuvenation,Just Kissed My Baby,2021-10-29 14:01:00,2021-10-29,29,2021,10,1
+404,The Meters,Rejuvenation,Love Is for Me,2021-10-29 13:57:00,2021-10-29,29,2021,10,1
+405,The Meters,Rejuvenation,People Say,2021-10-29 13:52:00,2021-10-29,29,2021,10,1
+406,The Meters,The Meters,Cissy Strut,2021-10-29 13:51:00,2021-10-29,29,2021,10,1
+407,The Wild Tchoupitoulas,The Wild Tchoupitoulas,Big Chief Got A Golden Crown,2021-10-29 13:47:00,2021-10-29,29,2021,10,1
+408,Dr. John,Gris-Gris,I Walk On Guilded Splinters,2021-10-29 13:40:00,2021-10-29,29,2021,10,1
+409,Dr. John,Gris-Gris,Jump Sturdy,2021-10-29 13:37:00,2021-10-29,29,2021,10,1
+410,Dr. John,Gris-Gris,Croker Courtbullion,2021-10-29 13:31:00,2021-10-29,29,2021,10,1
+411,Dr. John,Gris-Gris,Danse Fambeaux,2021-10-29 13:26:00,2021-10-29,29,2021,10,1
+412,Dr. John,Gris-Gris,Mama Roux,2021-10-29 13:23:00,2021-10-29,29,2021,10,1
+413,Dr. John,Gris-Gris,Danse Kalinda Ba Doom,2021-10-29 13:20:00,2021-10-29,29,2021,10,1
+414,Dr. John,Gris-Gris,Gris-Gris Gumbo Ya Ya,2021-10-29 13:14:00,2021-10-29,29,2021,10,1
+415,Howlin' Wolf,The Definitive Collection,Goin' Down Slow,2021-10-29 13:10:00,2021-10-29,29,2021,10,1
+416,The Meters,Fire On The Bayou,Fire on the Bayou,2021-10-29 13:06:00,2021-10-29,29,2021,10,1
+417,Dr. John,In the Right Place,Cold Cold Cold,2021-10-29 13:05:00,2021-10-29,29,2021,10,1
+418,Dr. John,In the Right Place,Cold Cold Cold,2021-10-29 13:03:00,2021-10-29,29,2021,10,1
+419,Dr. John,In the Right Place,I Been Hoodood,2021-10-29 13:00:00,2021-10-29,29,2021,10,1
+420,Dr. John,In the Right Place,Shoo Fly Marches On,2021-10-29 12:57:00,2021-10-29,29,2021,10,1
+421,Dr. John,In the Right Place,Such A Night,2021-10-29 12:54:00,2021-10-29,29,2021,10,1
+422,Dr. John,In the Right Place,LIfe,2021-10-29 12:51:00,2021-10-29,29,2021,10,1
+423,Dr. John,In the Right Place,Peace Brother Peace,2021-10-29 12:48:00,2021-10-29,29,2021,10,1
+424,Dr. John,In the Right Place,Traveling Mood,2021-10-29 12:45:00,2021-10-29,29,2021,10,1
+425,Dr. John,In the Right Place,Qualified,2021-10-29 12:41:00,2021-10-29,29,2021,10,1
+426,Dr. John,In the Right Place,Just the Same,2021-10-29 12:38:00,2021-10-29,29,2021,10,1
+427,Dr. John,In the Right Place,Same Old Same Old,2021-10-29 12:35:00,2021-10-29,29,2021,10,1
+428,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-29 12:32:00,2021-10-29,29,2021,10,1
+429,Dua Lipa,Future Nostalgia,Good in Bed,2021-10-28 21:24:00,2021-10-28,28,2021,10,1
+430,Dua Lipa,Future Nostalgia,Break My Heart,2021-10-28 20:58:00,2021-10-28,28,2021,10,1
+431,Dua Lipa,Future Nostalgia,Love Again,2021-10-28 20:54:00,2021-10-28,28,2021,10,1
+432,Dua Lipa,Future Nostalgia,Hallucinate,2021-10-28 20:50:00,2021-10-28,28,2021,10,1
+433,Dua Lipa,Future Nostalgia,Pretty Please,2021-10-28 20:46:00,2021-10-28,28,2021,10,1
+434,Dua Lipa,Future Nostalgia,Levitating,2021-10-28 20:43:00,2021-10-28,28,2021,10,1
+435,Dua Lipa,Future Nostalgia,Physical,2021-10-28 20:39:00,2021-10-28,28,2021,10,1
+436,Dua Lipa,Future Nostalgia,Cool,2021-10-28 20:34:00,2021-10-28,28,2021,10,1
+437,Dua Lipa,Future Nostalgia,Don't Start Now,2021-10-28 20:18:00,2021-10-28,28,2021,10,1
+438,Dua Lipa,Future Nostalgia,Future Nostalgia,2021-10-28 20:15:00,2021-10-28,28,2021,10,1
+439,Mac Miller,Swimming,Jet Fuel,2021-10-28 18:41:00,2021-10-28,28,2021,10,1
+440,Mac Miller,Swimming,Dunno,2021-10-28 18:35:00,2021-10-28,28,2021,10,1
+441,Mac Miller,Swimming,Conversation Pt. 1,2021-10-28 18:31:00,2021-10-28,28,2021,10,1
+442,Mac Miller,Swimming,Small Worlds,2021-10-28 18:28:00,2021-10-28,28,2021,10,1
+443,Mac Miller,Swimming,Ladders,2021-10-28 18:23:00,2021-10-28,28,2021,10,1
+444,Mac Miller,Swimming,Wings,2021-10-28 18:19:00,2021-10-28,28,2021,10,1
+445,Mac Miller,Swimming,Self Care,2021-10-28 18:14:00,2021-10-28,28,2021,10,1
+446,Mac Miller,Swimming,Perfecto,2021-10-28 17:12:00,2021-10-28,28,2021,10,1
+447,Mac Miller,Swimming,What's the Use?,2021-10-28 17:08:00,2021-10-28,28,2021,10,1
+448,Mac Miller,Swimming,Hurt Feelings,2021-10-28 17:03:00,2021-10-28,28,2021,10,1
+449,Mac Miller,Swimming,Come Back to Earth,2021-10-28 16:59:00,2021-10-28,28,2021,10,1
+450,Tyler The Creator,CALL ME IF YOU GET LOST,WILSHIRE,2021-10-28 16:56:00,2021-10-28,28,2021,10,1
+451,Tyler The Creator,CALL ME IF YOU GET LOST,JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),2021-10-28 16:48:00,2021-10-28,28,2021,10,1
+452,Tyler the Creator,CALL ME IF YOU GET LOST,BLESSED,2021-10-28 16:45:00,2021-10-28,28,2021,10,1
+453,Tyler The Creator,CALL ME IF YOU GET LOST,RISE! (feat. DAISY WORLD),2021-10-28 16:44:00,2021-10-28,28,2021,10,1
+454,Tyler The Creator,CALL ME IF YOU GET LOST,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),2021-10-28 16:40:00,2021-10-28,28,2021,10,1
+455,Tyler The Creator,CALL ME IF YOU GET LOST,MANIFESTO (feat. Domo Genesis),2021-10-28 15:53:00,2021-10-28,28,2021,10,1
+456,Tyler The Creator,CALL ME IF YOU GET LOST,RUNITUP (feat. Teezo Touchdown),2021-10-28 15:50:00,2021-10-28,28,2021,10,1
+457,Tyler The Creator,CALL ME IF YOU GET LOST,MASSA,2021-10-28 15:46:00,2021-10-28,28,2021,10,1
+458,Tyler The Creator,CALL ME IF YOU GET LOST,HOT WIND BLOWS (feat. Lil Wayne),2021-10-28 15:43:00,2021-10-28,28,2021,10,1
+459,Tyler The Creator,CALL ME IF YOU GET LOST,LUMBERJACK,2021-10-28 15:40:00,2021-10-28,28,2021,10,1
+460,Tyler The Creator,CALL ME IF YOU GET LOST,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),2021-10-28 15:38:00,2021-10-28,28,2021,10,1
+461,Tyler The Creator,CALL ME IF YOU GET LOST,LEMONHEAD (feat. 42 Dugg),2021-10-28 15:36:00,2021-10-28,28,2021,10,1
+462,Tyler The Creator,CALL ME IF YOU GET LOST,CORSO,2021-10-28 15:34:00,2021-10-28,28,2021,10,1
+463,Tyler The Creator,CALL ME IF YOU GET LOST,SIR BAUDELAIRE (feat. DJ Drama),2021-10-28 15:31:00,2021-10-28,28,2021,10,1
+464,Tyler The Creator,CALL ME IF YOU GET LOST,SIR BAUDELAIRE (feat. DJ Drama),2021-10-28 15:30:00,2021-10-28,28,2021,10,1
+465,Dr. John,Desitively Bonnaroo,Go Tell the People,2021-10-27 22:19:00,2021-10-27,27,2021,10,1
+466,Dr. John,Desitively Bonnaroo,Can't Git Enuff,2021-10-27 22:16:00,2021-10-27,27,2021,10,1
+467,Dr. John,Desitively Bonnaroo,Sing Along Song,2021-10-27 22:13:00,2021-10-27,27,2021,10,1
+468,Dr. John,Desitively Bonnaroo,R U 4 Real,2021-10-27 22:10:00,2021-10-27,27,2021,10,1
+469,Dr. John,Desitively Bonnaroo,Let's Make a Better World,2021-10-27 22:06:00,2021-10-27,27,2021,10,1
+470,Dr. John,Desitively Bonnaroo,(Everybody Wanna Get Rich) Rite Away,2021-10-27 22:03:00,2021-10-27,27,2021,10,1
+471,Dr. John,Desitively Bonnaroo,Mos' Scocious,2021-10-27 22:00:00,2021-10-27,27,2021,10,1
+472,Dr. John,Desitively Bonnaroo,Me Minus You Equals Loneliness,2021-10-27 21:57:00,2021-10-27,27,2021,10,1
+473,Dr. John,Desitively Bonnaroo,What Comes Around (Goes Around),2021-10-27 21:54:00,2021-10-27,27,2021,10,1
+474,Dr. John,Desitively Bonnaroo,Stealin',2021-10-27 21:51:00,2021-10-27,27,2021,10,1
+475,Dr. John,Desitively Bonnaroo,Quitters Never Win,2021-10-27 21:47:00,2021-10-27,27,2021,10,1
+476,Dr. John,In the Right Place,Cold Cold Cold,2021-10-27 21:42:00,2021-10-27,27,2021,10,1
+477,Dr. John,In the Right Place,I Been Hoodood,2021-10-27 21:39:00,2021-10-27,27,2021,10,1
+478,Dr. John,In the Right Place,Shoo Fly Marches On,2021-10-27 21:36:00,2021-10-27,27,2021,10,1
+479,Dr. John,In the Right Place,Such A Night,2021-10-27 21:33:00,2021-10-27,27,2021,10,1
+480,Dr. John,In the Right Place,Such A Night,2021-10-27 21:30:00,2021-10-27,27,2021,10,1
+481,Dr. John,In the Right Place,LIfe,2021-10-27 21:30:00,2021-10-27,27,2021,10,1
+482,Dr. John,In the Right Place,Peace Brother Peace,2021-10-27 21:27:00,2021-10-27,27,2021,10,1
+483,Dr. John,In the Right Place,LIfe,2021-10-27 21:27:00,2021-10-27,27,2021,10,1
+484,Dr. John,In the Right Place,Such A Night,2021-10-27 21:27:00,2021-10-27,27,2021,10,1
+485,Dr. John,In the Right Place,LIfe,2021-10-27 21:25:00,2021-10-27,27,2021,10,1
+486,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:25:00,2021-10-27,27,2021,10,1
+487,Dr. John,In the Right Place,Such A Night,2021-10-27 21:24:00,2021-10-27,27,2021,10,1
+488,Dr. John,In the Right Place,LIfe,2021-10-27 21:22:00,2021-10-27,27,2021,10,1
+489,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:22:00,2021-10-27,27,2021,10,1
+490,Dr. John,In the Right Place,Qualified,2021-10-27 21:22:00,2021-10-27,27,2021,10,1
+491,Dr. John,In the Right Place,Such A Night,2021-10-27 21:21:00,2021-10-27,27,2021,10,1
+492,Dr. John,In the Right Place,LIfe,2021-10-27 21:20:00,2021-10-27,27,2021,10,1
+493,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:19:00,2021-10-27,27,2021,10,1
+494,Dr. John,In the Right Place,Such A Night,2021-10-27 21:18:00,2021-10-27,27,2021,10,1
+495,Dr. John,In the Right Place,LIfe,2021-10-27 21:17:00,2021-10-27,27,2021,10,1
+496,Dr. John,In the Right Place,Qualified,2021-10-27 21:17:00,2021-10-27,27,2021,10,1
+497,Dr. John,In the Right Place,Just the Same,2021-10-27 21:17:00,2021-10-27,27,2021,10,1
+498,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:16:00,2021-10-27,27,2021,10,1
+499,Dr. John,In the Right Place,Such A Night,2021-10-27 21:15:00,2021-10-27,27,2021,10,1
+500,Dr. John,In the Right Place,LIfe,2021-10-27 21:15:00,2021-10-27,27,2021,10,1
+501,Dr. John,In the Right Place,Same Old Same Old,2021-10-27 21:14:00,2021-10-27,27,2021,10,1
+502,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:13:00,2021-10-27,27,2021,10,1
+503,Dr. John,In the Right Place,LIfe,2021-10-27 21:12:00,2021-10-27,27,2021,10,1
+504,Dr. John,In the Right Place,Such A Night,2021-10-27 21:12:00,2021-10-27,27,2021,10,1
+505,Dr. John,In the Right Place,Qualified,2021-10-27 21:12:00,2021-10-27,27,2021,10,1
+506,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:11:00,2021-10-27,27,2021,10,1
+507,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:10:00,2021-10-27,27,2021,10,1
+508,Dr. John,In the Right Place,LIfe,2021-10-27 21:10:00,2021-10-27,27,2021,10,1
+509,Dr. John,In the Right Place,Such A Night,2021-10-27 21:09:00,2021-10-27,27,2021,10,1
+510,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:08:00,2021-10-27,27,2021,10,1
+511,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:07:00,2021-10-27,27,2021,10,1
+512,Dr. John,In the Right Place,LIfe,2021-10-27 21:07:00,2021-10-27,27,2021,10,1
+513,Dr. John,In the Right Place,Qualified,2021-10-27 21:07:00,2021-10-27,27,2021,10,1
+514,Dr. John,In the Right Place,Such A Night,2021-10-27 21:06:00,2021-10-27,27,2021,10,1
+515,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:05:00,2021-10-27,27,2021,10,1
+516,Dr. John,In the Right Place,LIfe,2021-10-27 21:05:00,2021-10-27,27,2021,10,1
+517,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:05:00,2021-10-27,27,2021,10,1
+518,Dr. John,In the Right Place,Such A Night,2021-10-27 21:03:00,2021-10-27,27,2021,10,1
+519,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
+520,Dr. John,In the Right Place,Qualified,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
+521,Dr. John,In the Right Place,LIfe,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
+522,Dr. John,In the Right Place,Traveling Mood,2021-10-27 21:02:00,2021-10-27,27,2021,10,1
+523,Dr. John,In the Right Place,Such A Night,2021-10-27 21:00:00,2021-10-27,27,2021,10,1
+524,Dr. John,In the Right Place,LIfe,2021-10-27 21:00:00,2021-10-27,27,2021,10,1
+525,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 21:00:00,2021-10-27,27,2021,10,1
+526,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:59:00,2021-10-27,27,2021,10,1
+527,Dr. John,In the Right Place,Qualified,2021-10-27 20:58:00,2021-10-27,27,2021,10,1
+528,Dr. John,In the Right Place,Such A Night,2021-10-27 20:57:00,2021-10-27,27,2021,10,1
+529,Dr. John,In the Right Place,LIfe,2021-10-27 20:57:00,2021-10-27,27,2021,10,1
+530,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:57:00,2021-10-27,27,2021,10,1
+531,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:56:00,2021-10-27,27,2021,10,1
+532,Dr. John,In the Right Place,LIfe,2021-10-27 20:55:00,2021-10-27,27,2021,10,1
+533,Dr. John,In the Right Place,Such A Night,2021-10-27 20:55:00,2021-10-27,27,2021,10,1
+534,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:54:00,2021-10-27,27,2021,10,1
+535,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:53:00,2021-10-27,27,2021,10,1
+536,Dr. John,In the Right Place,Qualified,2021-10-27 20:53:00,2021-10-27,27,2021,10,1
+537,Dr. John,In the Right Place,LIfe,2021-10-27 20:52:00,2021-10-27,27,2021,10,1
+538,Dr. John,In the Right Place,Such A Night,2021-10-27 20:52:00,2021-10-27,27,2021,10,1
+539,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:51:00,2021-10-27,27,2021,10,1
+540,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:50:00,2021-10-27,27,2021,10,1
+541,Dr. John,In the Right Place,LIfe,2021-10-27 20:50:00,2021-10-27,27,2021,10,1
+542,Dr. John,In the Right Place,Such A Night,2021-10-27 20:49:00,2021-10-27,27,2021,10,1
+543,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:48:00,2021-10-27,27,2021,10,1
+544,Dr. John,In the Right Place,Qualified,2021-10-27 20:48:00,2021-10-27,27,2021,10,1
+545,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:48:00,2021-10-27,27,2021,10,1
+546,Dr. John,In the Right Place,LIfe,2021-10-27 20:47:00,2021-10-27,27,2021,10,1
+547,Dr. John,In the Right Place,Such A Night,2021-10-27 20:46:00,2021-10-27,27,2021,10,1
+548,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:45:00,2021-10-27,27,2021,10,1
+549,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:45:00,2021-10-27,27,2021,10,1
+550,Dr. John,In the Right Place,LIfe,2021-10-27 20:45:00,2021-10-27,27,2021,10,1
+551,Dr. John,In the Right Place,Qualified,2021-10-27 20:43:00,2021-10-27,27,2021,10,1
+552,Dr. John,In the Right Place,Such A Night,2021-10-27 20:43:00,2021-10-27,27,2021,10,1
+553,Dr. John,In the Right Place,LIfe,2021-10-27 20:42:00,2021-10-27,27,2021,10,1
+554,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:42:00,2021-10-27,27,2021,10,1
+555,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:42:00,2021-10-27,27,2021,10,1
+556,Dr. John,In the Right Place,Such A Night,2021-10-27 20:40:00,2021-10-27,27,2021,10,1
+557,Dr. John,In the Right Place,LIfe,2021-10-27 20:40:00,2021-10-27,27,2021,10,1
+558,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:39:00,2021-10-27,27,2021,10,1
+559,Dr. John,In the Right Place,Traveling Mood,2021-10-27 20:39:00,2021-10-27,27,2021,10,1
+560,Dr. John,In the Right Place,Qualified,2021-10-27 20:38:00,2021-10-27,27,2021,10,1
+561,Dr. John,In the Right Place,Such A Night,2021-10-27 20:37:00,2021-10-27,27,2021,10,1
+562,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:36:00,2021-10-27,27,2021,10,1
+563,Dr. John,In the Right Place,Such A Night,2021-10-27 20:34:00,2021-10-27,27,2021,10,1
+564,Dr. John,In the Right Place,Qualified,2021-10-27 20:33:00,2021-10-27,27,2021,10,1
+565,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:33:00,2021-10-27,27,2021,10,1
+566,Dr. John,In the Right Place,Such A Night,2021-10-27 20:31:00,2021-10-27,27,2021,10,1
+567,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:30:00,2021-10-27,27,2021,10,1
+568,Dr. John,In the Right Place,Qualified,2021-10-27 20:29:00,2021-10-27,27,2021,10,1
+569,Dr. John,In the Right Place,Such A Night,2021-10-27 20:28:00,2021-10-27,27,2021,10,1
+570,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:27:00,2021-10-27,27,2021,10,1
+571,Dr. John,In the Right Place,Such A Night,2021-10-27 20:25:00,2021-10-27,27,2021,10,1
+572,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:25:00,2021-10-27,27,2021,10,1
+573,Dr. John,In the Right Place,Qualified,2021-10-27 20:24:00,2021-10-27,27,2021,10,1
+574,Dr. John,In the Right Place,Such A Night,2021-10-27 20:22:00,2021-10-27,27,2021,10,1
+575,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:22:00,2021-10-27,27,2021,10,1
+576,Dr. John,In the Right Place,Such A Night,2021-10-27 20:19:00,2021-10-27,27,2021,10,1
+577,Dr. John,In the Right Place,Qualified,2021-10-27 20:19:00,2021-10-27,27,2021,10,1
+578,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:19:00,2021-10-27,27,2021,10,1
+579,Dr. John,In the Right Place,Such A Night,2021-10-27 20:16:00,2021-10-27,27,2021,10,1
+580,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-27 20:16:00,2021-10-27,27,2021,10,1
+581,Dr. John,In the Right Place,Qualified,2021-10-27 20:14:00,2021-10-27,27,2021,10,1
+582,Dr. John,In the Right Place,Such A Night,2021-10-27 20:13:00,2021-10-27,27,2021,10,1
+583,Dr. John,In the Right Place,Such A Night,2021-10-27 20:10:00,2021-10-27,27,2021,10,1
+584,Dr. John,In the Right Place,Qualified,2021-10-27 20:09:00,2021-10-27,27,2021,10,1
+585,Dr. John,In the Right Place,Such A Night,2021-10-27 20:07:00,2021-10-27,27,2021,10,1
+586,Dr. John,In the Right Place,Such A Night,2021-10-27 20:04:00,2021-10-27,27,2021,10,1
+587,Dr. John,In the Right Place,Qualified,2021-10-27 20:04:00,2021-10-27,27,2021,10,1
+588,Dr. John,In the Right Place,Such A Night,2021-10-27 20:01:00,2021-10-27,27,2021,10,1
+589,Dr. John,In the Right Place,Qualified,2021-10-27 20:00:00,2021-10-27,27,2021,10,1
+590,Sturgill Simpson,The Ballad of Dood & Juanita,Ol' Dood Pt. 2,2021-10-25 19:43:00,2021-10-25,25,2021,10,1
+591,Sturgill Simpson,The Ballad of Dood & Juanita,Epilogue,2021-10-25 19:43:00,2021-10-25,25,2021,10,1
+592,Sturgill Simpson,The Ballad of Dood & Juanita,Go in Peace,2021-10-25 19:40:00,2021-10-25,25,2021,10,1
+593,Sturgill Simpson,The Ballad of Dood & Juanita,Juanita (feat. Willie Nelson),2021-10-25 19:36:00,2021-10-25,25,2021,10,1
+594,Sturgill Simpson,The Ballad of Dood & Juanita,Sam,2021-10-25 19:35:00,2021-10-25,25,2021,10,1
+595,Sturgill Simpson,The Ballad of Dood & Juanita,Played Out,2021-10-25 19:32:00,2021-10-25,25,2021,10,1
+596,Sturgill Simpson,The Ballad of Dood & Juanita,Shamrock,2021-10-25 19:27:00,2021-10-25,25,2021,10,1
+597,Sturgill Simpson,The Ballad of Dood & Juanita,One in the Saddle One on the Ground,2021-10-25 19:24:00,2021-10-25,25,2021,10,1
+598,Sturgill Simpson,The Ballad of Dood & Juanita,Ol' Dood Pt. 1,2021-10-25 19:21:00,2021-10-25,25,2021,10,1
+599,Sturgill Simpson,The Ballad of Dood & Juanita,Prologue,2021-10-25 19:20:00,2021-10-25,25,2021,10,1
+600,Taylor Swift,folklore (deluxe version),seven,2021-10-25 19:03:00,2021-10-25,25,2021,10,1
+601,Taylor Swift,folklore (deluxe version),seven,2021-10-25 19:01:00,2021-10-25,25,2021,10,1
+602,Taylor Swift,folklore (deluxe version),mirrorball,2021-10-25 18:57:00,2021-10-25,25,2021,10,1
+604,Taylor Swift,folklore (deluxe version),my tears ricochet,2021-10-25 18:53:00,2021-10-25,25,2021,10,1
+605,Taylor Swift,folklore (deluxe version),exile (feat. Bon Iver),2021-10-25 18:48:00,2021-10-25,25,2021,10,1
+606,Taylor Swift,folklore (deluxe version),the last great american dynasty,2021-10-25 18:45:00,2021-10-25,25,2021,10,1
+607,Taylor Swift,folklore (deluxe version),cardigan,2021-10-25 18:41:00,2021-10-25,25,2021,10,1
+608,Taylor Swift,folklore (deluxe version),the 1,2021-10-25 18:37:00,2021-10-25,25,2021,10,1
+609,Styx,Equinox,Lorelei,2021-10-25 18:37:00,2021-10-25,25,2021,10,1
+610,Queen,A Night at the Opera,God Save the Queen,2021-10-25 18:35:00,2021-10-25,25,2021,10,1
+611,Queen,A Night at the Opera,Bohemian Rhapsody,2021-10-25 18:29:00,2021-10-25,25,2021,10,1
+612,Queen,A Night at the Opera,Good Company,2021-10-25 18:26:00,2021-10-25,25,2021,10,1
+613,Queen,A Night at the Opera,Love of My Life,2021-10-25 18:22:00,2021-10-25,25,2021,10,1
+614,Queen,A Night at the Opera,The Prophet's Song,2021-10-25 18:14:00,2021-10-25,25,2021,10,1
+615,Queen,A Night at the Opera,Seaside Rendezvous,2021-10-25 18:12:00,2021-10-25,25,2021,10,1
+616,Queen,A Night at the Opera,Sweet Lady,2021-10-25 18:08:00,2021-10-25,25,2021,10,1
+617,Queen,A Night at the Opera,'39,2021-10-25 18:04:00,2021-10-25,25,2021,10,1
+618,Queen,A Night at the Opera,You're My Best Friend,2021-10-25 18:01:00,2021-10-25,25,2021,10,1
+619,Queen,A Night at the Opera,I'm in Love with My Car,2021-10-25 17:58:00,2021-10-25,25,2021,10,1
+620,Queen,A Night at the Opera,Lazing on a Sunday Afternoon,2021-10-25 17:57:00,2021-10-25,25,2021,10,1
+621,Queen,A Night at the Opera,Death on Two Legs (Dedicated to...),2021-10-25 17:53:00,2021-10-25,25,2021,10,1
+622,James Carr,You Got My Mind Messed Up,Dixie Belle,2021-10-25 15:37:00,2021-10-25,25,2021,10,1
+623,James Carr,You Got My Mind Messed Up,A Lucky Loser,2021-10-25 15:35:00,2021-10-25,25,2021,10,1
+624,James Carr,You Got My Mind Messed Up,There Goes My Used to Be,2021-10-25 15:33:00,2021-10-25,25,2021,10,1
+625,James Carr,You Got My Mind Messed Up,You Don't Want Me,2021-10-25 15:30:00,2021-10-25,25,2021,10,1
+626,James Carr,You Got My Mind Messed Up,These Arms of Mine,2021-10-25 15:28:00,2021-10-25,25,2021,10,1
+627,James Carr,You Got My Mind Messed Up,You've Got My Mind Messed Up,2021-10-25 15:25:00,2021-10-25,25,2021,10,1
+628,James Carr,You Got My Mind Messed Up,She's Better Than You,2021-10-25 15:23:00,2021-10-25,25,2021,10,1
+629,James Carr,You Got My Mind Messed Up,Forgetting You,2021-10-25 15:20:00,2021-10-25,25,2021,10,1
+630,James Carr,You Got My Mind Messed Up,Lovable Girl,2021-10-25 15:18:00,2021-10-25,25,2021,10,1
+631,James Carr,You Got My Mind Messed Up,I'm Going For Myself,2021-10-25 15:15:00,2021-10-25,25,2021,10,1
+632,James Carr,You Got My Mind Messed Up,The Dark End of the Street,2021-10-25 15:13:00,2021-10-25,25,2021,10,1
+633,James Carr,You Got My Mind Messed Up,These Ain't Raindrops,2021-10-25 15:10:00,2021-10-25,25,2021,10,1
+634,James Carr,You Got My Mind Messed Up,That's What I Want To Know,2021-10-25 15:08:00,2021-10-25,25,2021,10,1
+635,James Carr,You Got My Mind Messed Up,I Don't Want To Be Hurt Anymore,2021-10-25 15:06:00,2021-10-25,25,2021,10,1
+636,James Carr,You Got My Mind Messed Up,Coming Back To Me Baby,2021-10-25 15:04:00,2021-10-25,25,2021,10,1
+637,James Carr,You Got My Mind Messed Up,Love Attack,2021-10-25 15:01:00,2021-10-25,25,2021,10,1
+638,James Carr,You Got My Mind Messed Up,Pouring Water On A Drowning Man,2021-10-25 14:58:00,2021-10-25,25,2021,10,1
+639,Marvin Gaye,Let's Get It On (Remastered),Just To Keep You Satisfied,2021-10-25 14:53:00,2021-10-25,25,2021,10,1
+640,Marvin Gaye,Let's Get It On (Remastered),You Sure Love To Ball,2021-10-25 14:48:00,2021-10-25,25,2021,10,1
+641,Marvin Gaye,Let's Get It On (Remastered),Distant Lover,2021-10-25 14:44:00,2021-10-25,25,2021,10,1
+642,Marvin Gaye,Let's Get It On (Remastered),Come Get to This,2021-10-25 14:42:00,2021-10-25,25,2021,10,1
+643,Marvin Gaye,Let's Get It On (Remastered),Keep Gettin' It On,2021-10-25 14:38:00,2021-10-25,25,2021,10,1
+644,Marvin Gaye,Let's Get It On (Remastered),If I Should Die Tonight,2021-10-25 14:34:00,2021-10-25,25,2021,10,1
+645,Marvin Gaye,Let's Get It On (Remastered),Please Stay (Once You Go Away),2021-10-25 14:31:00,2021-10-25,25,2021,10,1
+646,Marvin Gaye,Let's Get It On (Remastered),Let's Get It On,2021-10-25 14:26:00,2021-10-25,25,2021,10,1
+647,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),There Goes Mister T,2021-10-25 14:25:00,2021-10-25,25,2021,10,1
+648,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Don't Mess With Mister T,2021-10-25 14:22:00,2021-10-25,25,2021,10,1
+649,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Deep-In-It,2021-10-25 14:20:00,2021-10-25,25,2021,10,1
+650,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Life Is A Gamble,2021-10-25 14:18:00,2021-10-25,25,2021,10,1
+651,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Main Theme From Trouble Man (1),2021-10-25 14:14:00,2021-10-25,25,2021,10,1
+652,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),T Stands For Trouble,2021-10-25 14:09:00,2021-10-25,25,2021,10,1
+653,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Theme From Trouble Man,2021-10-25 14:07:00,2021-10-25,25,2021,10,1
+654,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Trouble Man,2021-10-25 14:03:00,2021-10-25,25,2021,10,1
+655,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Cleo's Apartment,2021-10-25 14:01:00,2021-10-25,25,2021,10,1
+656,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),The Break In (Police Shoot Big),2021-10-25 13:59:00,2021-10-25,25,2021,10,1
+657,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Poor Abbey Walsh,2021-10-25 13:55:00,2021-10-25,25,2021,10,1
+658,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),T Plays It Cool,2021-10-25 13:50:00,2021-10-25,25,2021,10,1
+659,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),Main Theme From Trouble Man (2),2021-10-25 13:48:00,2021-10-25,25,2021,10,1
+660,Lake Street Dive,Obviously,Lackluster Lover,2021-10-24 22:41:00,2021-10-24,24,2021,10,1
+661,Lake Street Dive,Obviously,Lackluster Lover,2021-10-24 22:38:00,2021-10-24,24,2021,10,1
+662,Lake Street Dive,Obviously,Lackluster Lover,2021-10-24 22:34:00,2021-10-24,24,2021,10,1
+663,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:23:00,2021-10-24,24,2021,10,1
+664,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:19:00,2021-10-24,24,2021,10,1
+665,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:19:00,2021-10-24,24,2021,10,1
+666,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:15:00,2021-10-24,24,2021,10,1
+667,Lake Street Dive,Obviously,Making Do,2021-10-24 16:15:00,2021-10-24,24,2021,10,1
+668,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:15:00,2021-10-24,24,2021,10,1
+669,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
+670,Lake Street Dive,Obviously,Making Do,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
+671,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
+672,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:11:00,2021-10-24,24,2021,10,1
+673,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:09:00,2021-10-24,24,2021,10,1
+674,Lake Street Dive,Obviously,Same Old News,2021-10-24 16:09:00,2021-10-24,24,2021,10,1
+675,Lake Street Dive,Obviously,Making Do,2021-10-24 16:08:00,2021-10-24,24,2021,10,1
+676,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:07:00,2021-10-24,24,2021,10,1
+677,Lake Street Dive,Obviously,Know That I Know,2021-10-24 16:07:00,2021-10-24,24,2021,10,1
+678,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:06:00,2021-10-24,24,2021,10,1
+679,Lake Street Dive,Obviously,Making Do,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
+680,Lake Street Dive,Obviously,Same Old News,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
+681,Lake Street Dive,Obviously,Hush Money,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
+682,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:04:00,2021-10-24,24,2021,10,1
+683,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:03:00,2021-10-24,24,2021,10,1
+684,Lake Street Dive,Obviously,Hush Money,2021-10-24 16:01:00,2021-10-24,24,2021,10,1
+685,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 16:01:00,2021-10-24,24,2021,10,1
+686,Lake Street Dive,Obviously,Making Do,2021-10-24 16:01:00,2021-10-24,24,2021,10,1
+687,Lake Street Dive,Obviously,Being A Woman,2021-10-24 16:00:00,2021-10-24,24,2021,10,1
+688,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-24 16:00:00,2021-10-24,24,2021,10,1
+689,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:59:00,2021-10-24,24,2021,10,1
+690,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:58:00,2021-10-24,24,2021,10,1
+691,Lake Street Dive,Obviously,Being A Woman,2021-10-24 15:57:00,2021-10-24,24,2021,10,1
+692,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:57:00,2021-10-24,24,2021,10,1
+693,Lake Street Dive,Obviously,Making Do,2021-10-24 15:57:00,2021-10-24,24,2021,10,1
+694,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:56:00,2021-10-24,24,2021,10,1
+695,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:55:00,2021-10-24,24,2021,10,1
+696,Lake Street Dive,Obviously,Being A Woman,2021-10-24 15:55:00,2021-10-24,24,2021,10,1
+697,Lake Street Dive,Obviously,Making Do,2021-10-24 15:54:00,2021-10-24,24,2021,10,1
+698,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:54:00,2021-10-24,24,2021,10,1
+699,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:53:00,2021-10-24,24,2021,10,1
+700,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:50:00,2021-10-24,24,2021,10,1
+701,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:50:00,2021-10-24,24,2021,10,1
+702,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:50:00,2021-10-24,24,2021,10,1
+703,Lake Street Dive,Obviously,Hush Money,2021-10-24 15:47:00,2021-10-24,24,2021,10,1
+704,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:46:00,2021-10-24,24,2021,10,1
+705,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:46:00,2021-10-24,24,2021,10,1
+706,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:42:00,2021-10-24,24,2021,10,1
+707,Lake Street Dive,Obviously,Same Old News,2021-10-24 15:41:00,2021-10-24,24,2021,10,1
+708,Lake Street Dive,Obviously,Hypotheticals,2021-10-24 15:38:00,2021-10-24,24,2021,10,1
+709,Stevie Wonder,Songs in the Key of Life,Village Ghetto Land,2021-10-22 21:31:00,2021-10-22,22,2021,10,1
+710,Stevie Wonder,Songs in the Key of Life,Have a Talk with God,2021-10-22 21:28:00,2021-10-22,22,2021,10,1
+711,Stevie Wonder,Songs in the Key of Life,Love's in Need of Love Today,2021-10-22 21:21:00,2021-10-22,22,2021,10,1
+712,The Meters,Rejuvenation,Just Kissed My Baby,2021-10-22 21:18:00,2021-10-22,22,2021,10,1
+713,Dr. John,In the Right Place,Cold Cold Cold,2021-10-22 21:15:00,2021-10-22,22,2021,10,1
+714,Dr. John,In the Right Place,I Been Hoodood,2021-10-22 21:12:00,2021-10-22,22,2021,10,1
+715,Dr. John,In the Right Place,Shoo Fly Marches On,2021-10-22 21:08:00,2021-10-22,22,2021,10,1
+716,Dr. John,In the Right Place,Such A Night,2021-10-22 21:05:00,2021-10-22,22,2021,10,1
+717,Dr. John,In the Right Place,LIfe,2021-10-22 21:03:00,2021-10-22,22,2021,10,1
+718,Dr. John,In the Right Place,Peace Brother Peace,2021-10-22 21:00:00,2021-10-22,22,2021,10,1
+719,Dr. John,In the Right Place,Traveling Mood,2021-10-22 20:57:00,2021-10-22,22,2021,10,1
+720,Dr. John,In the Right Place,Qualified,2021-10-22 20:52:00,2021-10-22,22,2021,10,1
+721,Dr. John,In the Right Place,Just the Same,2021-10-22 20:50:00,2021-10-22,22,2021,10,1
+722,Dr. John,In the Right Place,Same Old Same Old,2021-10-22 20:47:00,2021-10-22,22,2021,10,1
+723,Dr. John,In the Right Place,Right Place Wrong Time,2021-10-22 20:44:00,2021-10-22,22,2021,10,1
+724,David Rawlings,Poor David's Almanack,Cumberland Gap,2021-10-22 20:43:00,2021-10-22,22,2021,10,1
+725,David Rawlings,Poor David's Almanack,Money Is the Meat in the Coconut,2021-10-22 20:41:00,2021-10-22,22,2021,10,1
+726,David Rawlings,Poor David's Almanack,Midnight Train,2021-10-22 20:38:00,2021-10-22,22,2021,10,1
+727,Karen Dalton,In My Own Time,Something On Your Mind,2021-10-22 20:37:00,2021-10-22,22,2021,10,1
+728,Whiskeytown,Faithless Street,Faithless Street,2021-10-22 20:36:00,2021-10-22,22,2021,10,1
+729,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Yon Ferrets Return,2021-10-22 20:34:00,2021-10-22,22,2021,10,1
+730,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Magpie to the Morning,2021-10-22 20:31:00,2021-10-22,22,2021,10,1
+731,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Madonna of the Wasps,2021-10-22 20:28:00,2021-10-22,22,2021,10,1
+732,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Ragtime,2021-10-22 20:22:00,2021-10-22,22,2021,10,1
+733,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Where Did I Leave That Fire,2021-10-22 20:19:00,2021-10-22,22,2021,10,1
+734,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Local Girl,2021-10-22 20:16:00,2021-10-22,22,2021,10,1
+735,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Afraid,2021-10-22 20:14:00,2021-10-22,22,2021,10,1
+736,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),City Swans,2021-10-22 20:10:00,2021-10-22,22,2021,10,1
+737,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Calling Cards,2021-10-22 20:07:00,2021-10-22,22,2021,10,1
+738,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Nearly Midnight Honolulu,2021-10-22 20:04:00,2021-10-22,22,2021,10,1
+739,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Bracing for Sunday,2021-10-22 20:02:00,2021-10-22,22,2021,10,1
+740,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),I'm From Nowhere,2021-10-22 19:59:00,2021-10-22,22,2021,10,1
+741,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Man,2021-10-22 19:56:00,2021-10-22,22,2021,10,1
+742,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Night Still Comes,2021-10-22 19:52:00,2021-10-22,22,2021,10,1
+743,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),Wild Creatures,2021-10-22 19:49:00,2021-10-22,22,2021,10,1
+744,Devendra Banhart,Rejoicing in the Hands,Todo Los Dolores,2021-10-22 19:45:00,2021-10-22,22,2021,10,1
+745,Devendra Banhart,Rejoicing in the Hands,Fall,2021-10-22 19:42:00,2021-10-22,22,2021,10,1
+746,Devendra Banhart,Rejoicing in the Hands,Rejoicing in the Hands,2021-10-22 19:41:00,2021-10-22,22,2021,10,1
+747,Devendra Banhart,Rejoicing in the Hands,Tit Smoking in the Temple of Artesan Mimicry,2021-10-22 19:39:00,2021-10-22,22,2021,10,1
+748,Devendra Banhart,Rejoicing in the Hands,See Saw,2021-10-22 19:36:00,2021-10-22,22,2021,10,1
+749,Devendra Banhart,Rejoicing in the Hands,This Beard Is for Siobhan,2021-10-22 19:33:00,2021-10-22,22,2021,10,1
+750,Devendra Banhart,Rejoicing in the Hands,Will Is My Friend,2021-10-22 19:30:00,2021-10-22,22,2021,10,1
+751,Devendra Banhart,Rejoicing in the Hands,Dogs They Make Up the Dark,2021-10-22 19:29:00,2021-10-22,22,2021,10,1
+752,Devendra Banhart,Rejoicing in the Hands,Poughkeepsie,2021-10-22 19:27:00,2021-10-22,22,2021,10,1
+753,Devendra Banhart,Rejoicing in the Hands,The Body Breaks,2021-10-22 19:24:00,2021-10-22,22,2021,10,1
+754,Devendra Banhart,Rejoicing in the Hands,A Sight to Behold,2021-10-22 19:22:00,2021-10-22,22,2021,10,1
+755,Devendra Banhart,Rejoicing in the Hands,This is the Way,2021-10-22 19:19:00,2021-10-22,22,2021,10,1
+756,The Internet,Hive Mind,Next Time / Humble Pie,2021-10-22 16:23:00,2021-10-22,22,2021,10,1
+757,The Internet,Hive Mind,Mood,2021-10-22 16:20:00,2021-10-22,22,2021,10,1
+758,The Internet,Hive Mind,Bravo,2021-10-22 16:17:00,2021-10-22,22,2021,10,1
+759,The Internet,Hive Mind,Stay The Night,2021-10-22 16:16:00,2021-10-22,22,2021,10,1
+760,The Internet,Hive Mind,Stay The Night,2021-10-22 16:05:00,2021-10-22,22,2021,10,1
+761,The Internet,Hive Mind,La Di Da,2021-10-22 16:01:00,2021-10-22,22,2021,10,1
+762,The Internet,Hive Mind,Come Over,2021-10-22 15:56:00,2021-10-22,22,2021,10,1
+763,The Internet,Hive Mind,Roll (Burbank Funk),2021-10-22 15:53:00,2021-10-22,22,2021,10,1
+764,The Internet,Hive Mind,Come Together,2021-10-22 15:49:00,2021-10-22,22,2021,10,1
+765,Childish Gambino,Because the Internet,3005,2021-10-22 15:48:00,2021-10-22,22,2021,10,1
+766,Kali Uchis,Isolation,Killer,2021-10-22 15:45:00,2021-10-22,22,2021,10,1
+767,Kali Uchis,Isolation,Feel Like a Fool,2021-10-22 15:42:00,2021-10-22,22,2021,10,1
+768,Kali Uchis,Isolation,After the Storm (feat. Tyler the Creator & Bootsy Collins),2021-10-22 15:39:00,2021-10-22,22,2021,10,1
+769,Kali Uchis,Isolation,Coming Home (Interlude),2021-10-22 15:36:00,2021-10-22,22,2021,10,1
+770,Kali Uchis,Isolation,Tomorrow,2021-10-22 15:33:00,2021-10-22,22,2021,10,1
+771,Kali Uchis,Isolation,Gotta Get Up (Interlude),2021-10-22 15:31:00,2021-10-22,22,2021,10,1
+772,Kali Uchis,Isolation,In My Dreams,2021-10-22 15:31:00,2021-10-22,22,2021,10,1
+773,Kali Uchis,Isolation,Nuestro Planeta (feat. Reykon),2021-10-22 15:27:00,2021-10-22,22,2021,10,1
+774,Kali Uchis,Isolation,Dead to Me,2021-10-22 15:24:00,2021-10-22,22,2021,10,1
+775,Kali Uchis,Isolation,Tyrant (feat. Jorja Smith),2021-10-22 15:20:00,2021-10-22,22,2021,10,1
+776,Kali Uchis,Isolation,Your Teeth in My Neck,2021-10-22 15:17:00,2021-10-22,22,2021,10,1
+777,Kali Uchis,Isolation,Flight 22,2021-10-22 15:14:00,2021-10-22,22,2021,10,1
+778,Kali Uchis,Isolation,Just a Stranger (feat. Steve Lacy),2021-10-22 15:11:00,2021-10-22,22,2021,10,1
+779,Kali Uchis,Isolation,Miami (feat. BIA),2021-10-22 15:07:00,2021-10-22,22,2021,10,1
+780,Kali Uchis,Isolation,Body Language (Intro),2021-10-22 15:04:00,2021-10-22,22,2021,10,1
+781,Frank Ocean,channel ORANGE,Monks,2021-10-21 19:07:00,2021-10-21,21,2021,10,1
+782,Frank Ocean,channel ORANGE,White (feat. John Mayer),2021-10-21 19:06:00,2021-10-21,21,2021,10,1
+783,Frank Ocean,channel ORANGE,Lost,2021-10-21 19:02:00,2021-10-21,21,2021,10,1
+784,Frank Ocean,channel ORANGE,Pyramids,2021-10-21 18:52:00,2021-10-21,21,2021,10,1
+785,Frank Ocean,channel ORANGE,Crack Rock,2021-10-21 18:49:00,2021-10-21,21,2021,10,1
+786,Frank Ocean,channel ORANGE,Pilot Jones,2021-10-21 18:45:00,2021-10-21,21,2021,10,1
+787,Frank Ocean,channel ORANGE,Super Rich Kids (feat. Earl Sweatshirt),2021-10-21 18:40:00,2021-10-21,21,2021,10,1
+788,Frank Ocean,channel ORANGE,Not Just Money,2021-10-21 18:39:00,2021-10-21,21,2021,10,1
+789,Frank Ocean,channel ORANGE,Sweet Life,2021-10-21 18:35:00,2021-10-21,21,2021,10,1
+790,Frank Ocean,channel ORANGE,Sierra Leone,2021-10-21 18:33:00,2021-10-21,21,2021,10,1
+791,Frank Ocean,channel ORANGE,Fertilizer,2021-10-21 18:32:00,2021-10-21,21,2021,10,1
+792,Frank Ocean,channel ORANGE,Thinkin Bout You,2021-10-21 18:29:00,2021-10-21,21,2021,10,1
+793,Frank Ocean,channel ORANGE,Start,2021-10-21 18:28:00,2021-10-21,21,2021,10,1
+794,Sir,Chasing Summer,The Recipe,2021-10-21 16:33:00,2021-10-21,21,2021,10,1
+795,Sir,Chasing Summer,Mood (feat. Zacari),2021-10-21 16:30:00,2021-10-21,21,2021,10,1
+796,Sir,Chasing Summer,Still Blue (feat. Jill Scott),2021-10-21 16:29:00,2021-10-21,21,2021,10,1
+797,Sir,Chasing Summer,Wires In The Way,2021-10-21 16:27:00,2021-10-21,21,2021,10,1
+798,Sir,Chasing Summer,Touch Down,2021-10-21 16:24:00,2021-10-21,21,2021,10,1
+799,Sir,Chasing Summer,That's Why I Love You (feat. Sabrina Claudio),2021-10-21 16:20:00,2021-10-21,21,2021,10,1
+800,Sir,Chasing Summer,Lucy's Love (feat. Lil Wayne),2021-10-21 16:17:00,2021-10-21,21,2021,10,1
+801,Sir,Chasing Summer,New Sky (feat. Kadhja Bonet),2021-10-21 16:13:00,2021-10-21,21,2021,10,1
+802,Sir,Chasing Summer,Fire,2021-10-21 16:11:00,2021-10-21,21,2021,10,1
+803,Sir,Chasing Summer,La Lisa (feat. Smino),2021-10-21 16:07:00,2021-10-21,21,2021,10,1
+805,Sir,Chasing Summer,You Can't Save Me,2021-10-21 16:04:00,2021-10-21,21,2021,10,1
+806,Sir,Chasing Summer,John Redcorn,2021-10-21 16:01:00,2021-10-21,21,2021,10,1
+807,Sir,Chasing Summer,Hair Down (feat. Kendrick Lamar),2021-10-21 15:57:00,2021-10-21,21,2021,10,1
+808,CANDYCHYLD,BLUE - EP,PROMISE,2021-10-21 15:55:00,2021-10-21,21,2021,10,1
+809,BLK ODYSSY,BLK VINTAGE,DRINKING GOOD,2021-10-21 15:50:00,2021-10-21,21,2021,10,1
+810,BLK ODYSSY,BLK VINTAGE,BLK REVOLUTION,2021-10-21 15:48:00,2021-10-21,21,2021,10,1
+811,BLK ODYSSY,BLK VINTAGE,GHOST RIDE,2021-10-21 15:46:00,2021-10-21,21,2021,10,1
+812,BLK ODYSSY,BLK VINTAGE,MURDA,2021-10-21 15:43:00,2021-10-21,21,2021,10,1
+813,BLK ODYSSY,BLK VINTAGE,YA NO PODÍA SALIR,2021-10-21 15:39:00,2021-10-21,21,2021,10,1
+814,BLK ODYSSY,BLK VINTAGE,BIG BAD WOLF/SOBER,2021-10-21 15:34:00,2021-10-21,21,2021,10,1
+815,BLK ODYSSY,BLK VINTAGE,HANG LOW (feat. James Robinson),2021-10-21 15:32:00,2021-10-21,21,2021,10,1
+816,BLK ODYSSY,BLK VINTAGE,NINETEEN EIGHTY,2021-10-21 15:29:00,2021-10-21,21,2021,10,1
+817,BLK ODYSSY,BLK VINTAGE,FUNKENTOLOGY,2021-10-21 15:27:00,2021-10-21,21,2021,10,1
+818,BLK ODYSSY,BLK VINTAGE,BLK VINTAGE (INTRO),2021-10-21 15:24:00,2021-10-21,21,2021,10,1
+819,Summer Walker & NO1-NOAH,Life On Earth - EP,White Tee,2021-10-21 15:23:00,2021-10-21,21,2021,10,1
+820,SZA,Ctrl,20 Something,2021-10-21 15:20:00,2021-10-21,21,2021,10,1
+821,SZA,Ctrl,Pretty Little Birds (feat. Isaiah Rashad),2021-10-21 15:16:00,2021-10-21,21,2021,10,1
+822,SZA,Ctrl,Normal Girl,2021-10-21 15:15:00,2021-10-21,21,2021,10,1
+823,SZA,Ctrl,Normal Girl,2021-10-21 14:54:00,2021-10-21,21,2021,10,1
+824,SZA,Ctrl,Wavy (Interlude) [feat. James Fauntleroy],2021-10-21 14:53:00,2021-10-21,21,2021,10,1
+825,SZA,Ctrl,Anything,2021-10-21 14:51:00,2021-10-21,21,2021,10,1
+826,SZA,Ctrl,Broken Clocks,2021-10-21 14:47:00,2021-10-21,21,2021,10,1
+827,SZA,Ctrl,Garden (Say It Like Dat),2021-10-21 14:43:00,2021-10-21,21,2021,10,1
+828,SZA,Ctrl,Go Gina,2021-10-21 14:40:00,2021-10-21,21,2021,10,1
+829,SZA,Ctrl,The Weekend,2021-10-21 14:36:00,2021-10-21,21,2021,10,1
+830,SZA,Ctrl,Prom,2021-10-21 14:33:00,2021-10-21,21,2021,10,1
+831,SZA,Ctrl,Drew Barrymore,2021-10-21 14:29:00,2021-10-21,21,2021,10,1
+832,SZA,Ctrl,Doves in the Wind (feat. Kendrick Lamar),2021-10-21 14:24:00,2021-10-21,21,2021,10,1
+833,SZA,Ctrl,Love Galore (feat. Travis Scott),2021-10-21 14:20:00,2021-10-21,21,2021,10,1
+834,SZA,Ctrl,Supermodel,2021-10-21 14:17:00,2021-10-21,21,2021,10,1
+835,Kamasi Washington,,Street Fighter Mas,2021-10-21 14:09:00,2021-10-21,21,2021,10,1
+836,Kamasi Washington,The Epic,Change of the Guard,2021-10-21 14:06:00,2021-10-21,21,2021,10,1
+837,Chance the Rapper,The Big Day,4 Quarters In The Black (Skit),2021-10-20 15:33:00,2021-10-20,20,2021,10,1
+838,Chance the Rapper,The Big Day,Ballin Flossin (feat. Shawn Mendes),2021-10-20 15:30:00,2021-10-20,20,2021,10,1
+839,Chance the Rapper,The Big Day,Big Fish (feat. Gucci Mane),2021-10-20 15:27:00,2021-10-20,20,2021,10,1
+840,Chance the Rapper,The Big Day,Handsome (feat. Megan Thee Stallion),2021-10-20 15:24:00,2021-10-20,20,2021,10,1
+841,Chance the Rapper,The Big Day,Let's Go on the Run (feat. Knox Fortune),2021-10-20 15:21:00,2021-10-20,20,2021,10,1
+842,Chance the Rapper,The Big Day,The Big Day (feat. Francis and the Lights),2021-10-20 15:17:00,2021-10-20,20,2021,10,1
+843,Chance the Rapper,The Big Day,Roo (feat. Taylor Bennett & CocoRosie),2021-10-20 15:16:00,2021-10-20,20,2021,10,1
+844,Chance the Rapper,The Big Day,Roo (feat. Taylor Bennett & CocoRosie),2021-10-20 14:50:00,2021-10-20,20,2021,10,1
+845,Chance the Rapper,The Big Day,Photo Ops (Skit),2021-10-20 14:49:00,2021-10-20,20,2021,10,1
+846,Chance the Rapper,The Big Day,I Got You (Always And Forever) [feat. En Vogue Ari Lennox & Kierra Sheard],2021-10-20 14:44:00,2021-10-20,20,2021,10,1
+847,Chance the Rapper,The Big Day,We Go High,2021-10-20 14:39:00,2021-10-20,20,2021,10,1
+848,Chance the Rapper,The Big Day,Hot Shower (feat. MadeinTYO & DaBaby),2021-10-20 14:36:00,2021-10-20,20,2021,10,1
+849,Chance the Rapper,The Big Day,Eternal (feat. Smino),2021-10-20 14:32:00,2021-10-20,20,2021,10,1
+850,Chance the Rapper,The Big Day,Do You Remember (feat. Death Cab for Cutie),2021-10-20 14:28:00,2021-10-20,20,2021,10,1
+851,Chance the Rapper,The Big Day,All Day Long (feat. John Legend),2021-10-20 14:17:00,2021-10-20,20,2021,10,1
+852,Mandolin Orange,Tides of a Teardrop,Lonely All the Time,2021-10-19 15:05:00,2021-10-19,19,2021,10,1
+853,Mandolin Orange,Tides of a Teardrop,Mother Deer,2021-10-19 15:02:00,2021-10-19,19,2021,10,1
+854,Mandolin Orange,Tides of a Teardrop,Like You Used To,2021-10-19 14:57:00,2021-10-19,19,2021,10,1
+855,Mandolin Orange,Tides of a Teardrop,Into the Sun,2021-10-19 14:53:00,2021-10-19,19,2021,10,1
+856,Mandolin Orange,Tides of a Teardrop,The Wolves,2021-10-19 14:49:00,2021-10-19,19,2021,10,1
+857,Mandolin Orange,Tides of a Teardrop,Golden Embers,2021-10-19 14:44:00,2021-10-19,19,2021,10,1
+858,Emi Wes,Departure - EP,All Grown Up,2021-10-19 14:44:00,2021-10-19,19,2021,10,1
+859,Mina Okabe,Better Days,Let Me Down,2021-10-19 14:41:00,2021-10-19,19,2021,10,1
+860,Mina Okabe,Better Days,Walk Away,2021-10-19 14:38:00,2021-10-19,19,2021,10,1
+861,Mina Okabe,Better Days,All My Thoughts,2021-10-19 14:35:00,2021-10-19,19,2021,10,1
+862,Mina Okabe,Better Days,Every Second,2021-10-19 14:32:00,2021-10-19,19,2021,10,1
+863,Mina Okabe,Better Days,Play Pretend,2021-10-19 14:28:00,2021-10-19,19,2021,10,1
+864,Mina Okabe,Better Days,Like Other People,2021-10-19 14:25:00,2021-10-19,19,2021,10,1
+865,Mina Okabe,Better Days,I'm Done,2021-10-19 14:22:00,2021-10-19,19,2021,10,1
+866,Mina Okabe,Better Days,Give A Little Less,2021-10-19 14:18:00,2021-10-19,19,2021,10,1
+867,Mina Okabe,Better Days,Critical,2021-10-19 14:15:00,2021-10-19,19,2021,10,1
+868,Mina Okabe,Better Days,Miss Those Days,2021-10-19 14:12:00,2021-10-19,19,2021,10,1
+869,Mina Okabe,Better Days,Miss Those Days,2021-10-19 14:12:00,2021-10-19,19,2021,10,1
+870,Sturgill Simpson,Metamodern Sounds in Country Music,Panbowl (Bonus Track),2021-10-15 13:42:00,2021-10-15,15,2021,10,1
+871,Sturgill Simpson,Metamodern Sounds in Country Music,It Ain't All Flowers,2021-10-15 13:39:00,2021-10-15,15,2021,10,1
+872,Sturgill Simpson,Metamodern Sounds in Country Music,Just Let Go,2021-10-15 13:32:00,2021-10-15,15,2021,10,1
+873,Sturgill Simpson,Metamodern Sounds in Country Music,A Little Light,2021-10-15 13:30:00,2021-10-15,15,2021,10,1
+874,Sturgill Simpson,Metamodern Sounds in Country Music,The Promise,2021-10-15 13:28:00,2021-10-15,15,2021,10,1
+875,Sturgill Simpson,Metamodern Sounds in Country Music,Long White Line,2021-10-15 13:24:00,2021-10-15,15,2021,10,1
+876,Sturgill Simpson,Metamodern Sounds in Country Music,Voices,2021-10-15 13:20:00,2021-10-15,15,2021,10,1
+877,Sturgill Simpson,Metamodern Sounds in Country Music,Living the Dream,2021-10-15 13:17:00,2021-10-15,15,2021,10,1
+878,Sturgill Simpson,Metamodern Sounds in Country Music,Life of Sin,2021-10-15 13:13:00,2021-10-15,15,2021,10,1
+879,Sturgill Simpson,Metamodern Sounds in Country Music,Turtles All the Way Down,2021-10-15 13:11:00,2021-10-15,15,2021,10,1
+880,Bill Withers,The Best Of Bill Withers: Lean On Me,Lovely Day,2021-10-13 20:52:00,2021-10-13,13,2021,10,1
+881,Justin Bieber,My World 2.0 (Bonus Track Version),Baby,2021-10-12 15:49:00,2021-10-12,12,2021,10,1
+882,Mina Okabe,Better Days,Let Me Down,2021-10-12 15:46:00,2021-10-12,12,2021,10,1
+883,Mina Okabe,Better Days,Walk Away,2021-10-12 15:43:00,2021-10-12,12,2021,10,1
+884,Mina Okabe,Better Days,All My Thoughts,2021-10-12 15:40:00,2021-10-12,12,2021,10,1
+885,Mina Okabe,Better Days,Every Second,2021-10-12 15:37:00,2021-10-12,12,2021,10,1
+886,Mina Okabe,Better Days,Play Pretend,2021-10-12 15:34:00,2021-10-12,12,2021,10,1
+887,Mina Okabe,Better Days,Like Other People,2021-10-12 15:30:00,2021-10-12,12,2021,10,1
+888,Mina Okabe,Better Days,I'm Done,2021-10-12 15:27:00,2021-10-12,12,2021,10,1
+889,Mina Okabe,Better Days,Give A Little Less,2021-10-12 15:24:00,2021-10-12,12,2021,10,1
+890,Mina Okabe,Better Days,Critical,2021-10-12 15:20:00,2021-10-12,12,2021,10,1
+891,Mina Okabe,Better Days,Miss Those Days,2021-10-12 15:18:00,2021-10-12,12,2021,10,1
+892,Rachael Price,The Good Hours,That Old Black Magic,2021-10-11 15:54:00,2021-10-11,11,2021,10,1
+893,Vulfpeck,Thrill of the Arts,Back Pocket,2021-10-11 15:51:00,2021-10-11,11,2021,10,1
+894,Caroline Smith,Half About Being a Woman,Child of Moving On,2021-10-11 15:47:00,2021-10-11,11,2021,10,1
+895,Lake Street Dive,Side Pony,Saving All My Sinning,2021-10-11 15:43:00,2021-10-11,11,2021,10,1
+896,Lake Street Dive,Side Pony,Can't Stop,2021-10-11 15:40:00,2021-10-11,11,2021,10,1
+897,Lake Street Dive,Side Pony,Mistakes,2021-10-11 15:36:00,2021-10-11,11,2021,10,1
+898,Lake Street Dive,Side Pony,Hell Yeah,2021-10-11 15:32:00,2021-10-11,11,2021,10,1
+899,Lake Street Dive,Side Pony,Side Pony,2021-10-11 15:29:00,2021-10-11,11,2021,10,1
+900,Lake Street Dive,Side Pony,How Good It Feels,2021-10-11 15:27:00,2021-10-11,11,2021,10,1
+901,Lake Street Dive,Side Pony,So Long,2021-10-11 15:24:00,2021-10-11,11,2021,10,1
+902,Lake Street Dive,Side Pony,I Don't Care About You,2021-10-11 15:21:00,2021-10-11,11,2021,10,1
+903,Lake Street Dive,Side Pony,Spectacular Failure,2021-10-11 15:18:00,2021-10-11,11,2021,10,1
+904,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-10-11 15:15:00,2021-10-11,11,2021,10,1
+905,Lake Street Dive,Side Pony,Close To Me,2021-10-11 15:10:00,2021-10-11,11,2021,10,1
+906,Lake Street Dive,Side Pony,Godawful Things,2021-10-11 15:06:00,2021-10-11,11,2021,10,1
+907,Bon Iver,For Emma Forever Ago,re: stacks,2021-10-09 16:29:00,2021-10-09,9,2021,10,1
+908,Bon Iver,For Emma Forever Ago,For Emma,2021-10-09 16:26:00,2021-10-09,9,2021,10,1
+909,Bon Iver,For Emma Forever Ago,Team,2021-10-09 16:24:00,2021-10-09,9,2021,10,1
+910,Bon Iver,For Emma Forever Ago,Creature Fear,2021-10-09 16:21:00,2021-10-09,9,2021,10,1
+911,Bon Iver,For Emma Forever Ago,Blindsided,2021-10-09 16:15:00,2021-10-09,9,2021,10,1
+912,Bon Iver,For Emma Forever Ago,The Wolves (Act I and II),2021-10-09 16:10:00,2021-10-09,9,2021,10,1
+913,Bon Iver,For Emma Forever Ago,Skinny Love,2021-10-09 16:06:00,2021-10-09,9,2021,10,1
+914,Bon Iver,For Emma Forever Ago,Lump Sum,2021-10-09 16:02:00,2021-10-09,9,2021,10,1
+915,Bon Iver,For Emma Forever Ago,Flume,2021-10-09 15:59:00,2021-10-09,9,2021,10,1
+916,King Gizzard & The Lizard Wizard,Flying Microtonal Banana,Rattlesnake,2021-10-08 21:14:00,2021-10-08,8,2021,10,1
+917,Flume,Skin,Never Be Like You (feat. Kai),2021-10-08 21:10:00,2021-10-08,8,2021,10,1
+918,GZA/Genius,Liquid Swords (Expanded Edition),Gold,2021-10-08 19:52:00,2021-10-08,8,2021,10,1
+919,GZA/Genius,Liquid Swords (Expanded Edition),Living in the World Today,2021-10-08 19:47:00,2021-10-08,8,2021,10,1
+920,GZA/Genius,Liquid Swords (Expanded Edition),Duel Of The Iron Mic (feat. Masta Killa Dreddy Kruger Inspectah Deck & Ol' Dirty Bastard),2021-10-08 19:43:00,2021-10-08,8,2021,10,1
+921,GZA/Genius,Liquid Swords (Expanded Edition),Liquid Swords,2021-10-08 19:38:00,2021-10-08,8,2021,10,1
+922,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Neighborhood,2021-10-08 19:37:00,2021-10-08,8,2021,10,1
+923,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Shine,2021-10-08 19:34:00,2021-10-08,8,2021,10,1
+924,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,I Got No Time,2021-10-08 19:30:00,2021-10-08,8,2021,10,1
+925,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Hip Hop Misfits,2021-10-08 19:29:00,2021-10-08,8,2021,10,1
+926,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Knows That I,2021-10-08 19:25:00,2021-10-08,8,2021,10,1
+927,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Driftin',2021-10-08 19:22:00,2021-10-08,8,2021,10,1
+928,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Believe,2021-10-08 19:18:00,2021-10-08,8,2021,10,1
+929,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,Check the Level,2021-10-08 19:17:00,2021-10-08,8,2021,10,1
+930,Dirty Heads Stan Frazier & Steve Fox,Any Port in a Storm,Chelsea,2021-10-08 19:14:00,2021-10-08,8,2021,10,1
+931,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,Stand Tall,2021-10-08 19:11:00,2021-10-08,8,2021,10,1
+932,Dirty Heads Steve Fox Stan Frazier & Roman Ramirez,Any Port in a Storm,Lay Me Down (feat. Rome),2021-10-08 19:07:00,2021-10-08,8,2021,10,1
+933,Romero Mosley,Ro's Colored Glasses,You (feat. Amanda Leigh & CARRTOONS),2021-10-08 19:06:00,2021-10-08,8,2021,10,1
+934,BLK ODYSSY,BLK VINTAGE,DRINKING GOOD,2021-10-08 19:01:00,2021-10-08,8,2021,10,1
+935,BLK ODYSSY,BLK VINTAGE,BLK REVOLUTION,2021-10-08 19:00:00,2021-10-08,8,2021,10,1
+936,BLK ODYSSY,BLK VINTAGE,GHOST RIDE,2021-10-08 18:57:00,2021-10-08,8,2021,10,1
+937,BLK ODYSSY,BLK VINTAGE,MURDA,2021-10-08 18:55:00,2021-10-08,8,2021,10,1
+938,BLK ODYSSY,BLK VINTAGE,YA NO PODÍA SALIR,2021-10-08 18:51:00,2021-10-08,8,2021,10,1
+939,BLK ODYSSY,BLK VINTAGE,BIG BAD WOLF/SOBER,2021-10-08 18:46:00,2021-10-08,8,2021,10,1
+940,BLK ODYSSY,BLK VINTAGE,HANG LOW (feat. James Robinson),2021-10-08 18:43:00,2021-10-08,8,2021,10,1
+941,BLK ODYSSY,BLK VINTAGE,NINETEEN EIGHTY,2021-10-08 18:41:00,2021-10-08,8,2021,10,1
+942,BLK ODYSSY,BLK VINTAGE,FUNKENTOLOGY,2021-10-08 18:38:00,2021-10-08,8,2021,10,1
+943,BLK ODYSSY,BLK VINTAGE,BLK VINTAGE (INTRO),2021-10-08 18:35:00,2021-10-08,8,2021,10,1
+944,Dirty Heads Steve Fox Stan Frazier & Roman Ramirez,Any Port in a Storm,Lay Me Down (feat. Rome),2021-10-08 17:31:00,2021-10-08,8,2021,10,1
+945,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),I'll Be Around,2021-10-08 17:19:00,2021-10-08,8,2021,10,1
+946,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Light Skin Girl From London,2021-10-08 17:16:00,2021-10-08,8,2021,10,1
+947,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Butterfly,2021-10-08 17:14:00,2021-10-08,8,2021,10,1
+948,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),What The .... Are We Saying?,2021-10-08 17:09:00,2021-10-08,8,2021,10,1
+949,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),When The Morning Turns To Night,2021-10-08 17:06:00,2021-10-08,8,2021,10,1
+950,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),All I Ever Wanted,2021-10-08 17:02:00,2021-10-08,8,2021,10,1
+951,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Fields Of Joy (Reprise),2021-10-08 16:58:00,2021-10-08,8,2021,10,1
+952,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Flowers For Zoë,2021-10-08 16:55:00,2021-10-08,8,2021,10,1
+953,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Stop Draggin' Around,2021-10-08 16:52:00,2021-10-08,8,2021,10,1
+954,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),The Difference Is Why,2021-10-08 16:47:00,2021-10-08,8,2021,10,1
+955,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),What Goes Around Comes Around,2021-10-08 16:42:00,2021-10-08,8,2021,10,1
+956,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),More Than Anything In This World,2021-10-08 16:39:00,2021-10-08,8,2021,10,1
+957,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),It Ain't Over 'til It's Over,2021-10-08 16:35:00,2021-10-08,8,2021,10,1
+958,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Stand by My Woman,2021-10-08 16:31:00,2021-10-08,8,2021,10,1
+959,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Always on the Run,2021-10-08 16:27:00,2021-10-08,8,2021,10,1
+960,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),Fields Of Joy,2021-10-08 16:23:00,2021-10-08,8,2021,10,1
+961,Tyler The Creator,IGOR,WHAT'S GOOD,2021-10-07 22:17:00,2021-10-07,7,2021,10,1
+962,Tyler The Creator,IGOR,PUPPET,2021-10-07 22:16:00,2021-10-07,7,2021,10,1
+963,Tyler The Creator,IGOR,PUPPET,2021-10-07 21:51:00,2021-10-07,7,2021,10,1
+964,Tyler the Creator,IGOR,A BOY IS A GUN,2021-10-07 21:49:00,2021-10-07,7,2021,10,1
+965,Tyler the Creator,IGOR,A BOY IS A GUN,2021-10-07 21:34:00,2021-10-07,7,2021,10,1
+966,Tyler The Creator,IGOR,NEW MAGIC WAND,2021-10-07 21:31:00,2021-10-07,7,2021,10,1
+967,Tyler The Creator,IGOR,RUNNING OUT OF TIME,2021-10-07 21:28:00,2021-10-07,7,2021,10,1
+968,Tyler The Creator,IGOR,Exactly What You Run From You End Up Chasing,2021-10-07 21:28:00,2021-10-07,7,2021,10,1
+969,Tyler The Creator,IGOR,I THINK,2021-10-07 21:24:00,2021-10-07,7,2021,10,1
+970,Tyler The Creator,IGOR,EARFQUAKE,2021-10-07 21:21:00,2021-10-07,7,2021,10,1
+971,Tyler The Creator,IGOR,IGOR'S THEME,2021-10-07 21:18:00,2021-10-07,7,2021,10,1
+972,Lake Street Dive,Bad Self Portraits,You Go Down Smooth,2021-10-07 21:12:00,2021-10-07,7,2021,10,1
+973,Lake Street Dive,Fun Machine - EP,Rich Girl,2021-10-07 21:09:00,2021-10-07,7,2021,10,1
+974,Maggie Rogers,Heard It In A Past Life,Retrograde,2021-10-07 21:07:00,2021-10-07,7,2021,10,1
+975,Caroline Smith,Half About Being a Woman,Child of Moving On,2021-10-07 21:03:00,2021-10-07,7,2021,10,1
+976,Lake Street Dive,Obviously,Sarah,2021-10-07 21:00:00,2021-10-07,7,2021,10,1
+977,Lake Street Dive,Obviously,Feels Like The Last Time,2021-10-07 20:57:00,2021-10-07,7,2021,10,1
+978,Lake Street Dive,Obviously,Anymore,2021-10-07 20:53:00,2021-10-07,7,2021,10,1
+979,Lake Street Dive,Obviously,Lackluster Lover,2021-10-07 20:49:00,2021-10-07,7,2021,10,1
+980,Lake Street Dive,Obviously,Know That I Know,2021-10-07 20:45:00,2021-10-07,7,2021,10,1
+981,Lake Street Dive,Obviously,Nobody's Stopping You Now,2021-10-07 20:42:00,2021-10-07,7,2021,10,1
+982,Lake Street Dive,Obviously,Making Do,2021-10-07 20:38:00,2021-10-07,7,2021,10,1
+983,Lake Street Dive,Obviously,Being A Woman,2021-10-07 20:35:00,2021-10-07,7,2021,10,1
+984,Lake Street Dive,Obviously,Same Old News,2021-10-07 20:31:00,2021-10-07,7,2021,10,1
+985,Lake Street Dive,Obviously,Hush Money,2021-10-07 20:28:00,2021-10-07,7,2021,10,1
+986,Lake Street Dive,Obviously,Hypotheticals,2021-10-07 20:24:00,2021-10-07,7,2021,10,1
+987,The J.B.'s,Funky Good Time: The Anthology,My Brother,2021-10-07 20:17:00,2021-10-07,7,2021,10,1
+988,The Meters,The Meters,Sing a Simple Song,2021-10-07 20:14:00,2021-10-07,7,2021,10,1
+989,The Meters,The Meters,Stormy,2021-10-07 20:10:00,2021-10-07,7,2021,10,1
+990,The Meters,The Meters,Ann,2021-10-07 20:07:00,2021-10-07,7,2021,10,1
+991,The Meters,The Meters,Sehorn's Farm,2021-10-07 20:05:00,2021-10-07,7,2021,10,1
+992,The Meters,The Meters,6V6 LA,2021-10-07 20:02:00,2021-10-07,7,2021,10,1
+993,The Meters,The Meters,Ease Back,2021-10-07 19:59:00,2021-10-07,7,2021,10,1
+994,The Meters,The Meters,Sophisticated Cissy,2021-10-07 19:56:00,2021-10-07,7,2021,10,1
+995,The Meters,The Meters,Art,2021-10-07 19:54:00,2021-10-07,7,2021,10,1
+996,The Meters,The Meters,Live Wire,2021-10-07 19:51:00,2021-10-07,7,2021,10,1
+997,The Meters,The Meters,Cardova,2021-10-07 19:46:00,2021-10-07,7,2021,10,1
+998,The Meters,The Meters,Here Comes the Meter Man,2021-10-07 19:43:00,2021-10-07,7,2021,10,1
+999,The Meters,The Meters,Cissy Strut,2021-10-07 19:40:00,2021-10-07,7,2021,10,1
+1000,Leon Bridges,Coming Home (Deluxe),Coming Home,2021-10-07 19:36:00,2021-10-07,7,2021,10,1
+1001,Dan Auerbach,Keep It Hid,Goin' Home,2021-10-07 19:31:00,2021-10-07,7,2021,10,1
+1002,Dan Auerbach,Keep It Hid,Street Walkin',2021-10-07 19:26:00,2021-10-07,7,2021,10,1
+1003,Dan Auerbach,Keep It Hid,When I Left The Room,2021-10-07 19:22:00,2021-10-07,7,2021,10,1
+1004,Dan Auerbach,Keep It Hid,My Last Mistake,2021-10-07 19:19:00,2021-10-07,7,2021,10,1
+1006,Dan Auerbach,Keep It Hid,Keep It Hid,2021-10-07 19:15:00,2021-10-07,7,2021,10,1
+1007,Dan Auerbach,Keep It Hid,The Prowl,2021-10-07 19:12:00,2021-10-07,7,2021,10,1
+1008,Dan Auerbach,Keep It Hid,Mean Monsoon,2021-10-07 19:08:00,2021-10-07,7,2021,10,1
+1009,Dan Auerbach,Keep It Hid,When The Night Comes,2021-10-07 19:04:00,2021-10-07,7,2021,10,1
+1010,Dan Auerbach,Keep It Hid,Real Desire,2021-10-07 18:59:00,2021-10-07,7,2021,10,1
+1011,Dan Auerbach,Keep It Hid,Whispered Words (Pretty Lies),2021-10-07 18:55:00,2021-10-07,7,2021,10,1
+1012,Dan Auerbach,Keep It Hid,Because I Should,2021-10-07 18:54:00,2021-10-07,7,2021,10,1
+1013,Dan Auerbach,Keep It Hid,Heartbroken In Disrepair,2021-10-07 18:51:00,2021-10-07,7,2021,10,1
+1014,Dan Auerbach,Keep It Hid,I Want Some More,2021-10-07 18:47:00,2021-10-07,7,2021,10,1
+1015,Dan Auerbach,Keep It Hid,Trouble Weighs A Ton,2021-10-07 18:45:00,2021-10-07,7,2021,10,1
+1016,The Avalanches,We Will Always Love You,Take Care In Your Dreaming (feat. Denzel Curry Tricky & Sampa The Great),2021-10-07 18:43:00,2021-10-07,7,2021,10,1
+1017,Sault,5,B.A.B.E,2021-10-07 18:39:00,2021-10-07,7,2021,10,1
+1018,Sault,5,Wild Hundreds Pt. 55,2021-10-07 18:38:00,2021-10-07,7,2021,10,1
+1019,Sault,5,We Are the Sun,2021-10-07 18:34:00,2021-10-07,7,2021,10,1
+1020,Sault,5,Wild Hundreds Pt. 5,2021-10-07 18:33:00,2021-10-07,7,2021,10,1
+1021,Sault,5,Think About It,2021-10-07 18:30:00,2021-10-07,7,2021,10,1
+1022,Sault,5,Something's in the Air,2021-10-07 18:27:00,2021-10-07,7,2021,10,1
+1023,Sault,5,Add a Little Bit of Sault,2021-10-07 18:27:00,2021-10-07,7,2021,10,1
+1024,Sault,5,Masterpiece,2021-10-07 18:21:00,2021-10-07,7,2021,10,1
+1025,Sault,5,Let Me Go,2021-10-07 18:18:00,2021-10-07,7,2021,10,1
+1026,Sault,5,Pink Sands,2021-10-07 18:16:00,2021-10-07,7,2021,10,1
+1027,Sault,5,Why Why Why Why Why,2021-10-07 18:12:00,2021-10-07,7,2021,10,1
+1028,Sault,5,Foot on Necks,2021-10-07 18:09:00,2021-10-07,7,2021,10,1
+1029,Sault,5,Don't Waste My Time,2021-10-07 18:05:00,2021-10-07,7,2021,10,1
+1030,Sault,5,Up All Night,2021-10-07 18:01:00,2021-10-07,7,2021,10,1
+1031,Sammy Rae & The Friends,The Good Life - EP,Talk It Up,2021-10-07 18:00:00,2021-10-07,7,2021,10,1
+1032,Lake Street Dive,Side Pony,Saving All My Sinning,2021-10-07 17:56:00,2021-10-07,7,2021,10,1
+1033,Lake Street Dive,Side Pony,Can't Stop,2021-10-07 17:53:00,2021-10-07,7,2021,10,1
+1034,Lake Street Dive,Side Pony,Mistakes,2021-10-07 17:48:00,2021-10-07,7,2021,10,1
+1035,Lake Street Dive,Side Pony,Hell Yeah,2021-10-07 17:45:00,2021-10-07,7,2021,10,1
+1036,Lake Street Dive,Side Pony,Side Pony,2021-10-07 17:42:00,2021-10-07,7,2021,10,1
+1037,Lake Street Dive,Side Pony,How Good It Feels,2021-10-07 17:40:00,2021-10-07,7,2021,10,1
+1038,Lake Street Dive,Side Pony,So Long,2021-10-07 17:37:00,2021-10-07,7,2021,10,1
+1039,Lake Street Dive,Side Pony,I Don't Care About You,2021-10-07 17:33:00,2021-10-07,7,2021,10,1
+1040,Lake Street Dive,Side Pony,Spectacular Failure,2021-10-07 17:31:00,2021-10-07,7,2021,10,1
+1041,Lake Street Dive,Side Pony,Call Off Your Dogs,2021-10-07 17:06:00,2021-10-07,7,2021,10,1
+1042,Lake Street Dive,Side Pony,Close To Me,2021-10-07 17:02:00,2021-10-07,7,2021,10,1
+1043,Lake Street Dive,Side Pony,Godawful Things,2021-10-07 16:58:00,2021-10-07,7,2021,10,1
+1044,Anderson .Paak,Malibu,The Season / Carry Me,2021-10-07 16:57:00,2021-10-07,7,2021,10,1
+1045,Jungle,Loving In Stereo,Can't Stop the Stars,2021-10-07 16:53:00,2021-10-07,7,2021,10,1
+1046,Jungle,Loving In Stereo,Goodbye My Love (feat. Priya Ragu),2021-10-07 16:50:00,2021-10-07,7,2021,10,1
+1047,Jungle,Loving In Stereo,Just Fly Don't Worry,2021-10-07 16:48:00,2021-10-07,7,2021,10,1
+1048,Jungle,Loving In Stereo,What D'You Know About Me?,2021-10-07 16:46:00,2021-10-07,7,2021,10,1
+1049,Jungle,Loving In Stereo,Truth,2021-10-07 16:43:00,2021-10-07,7,2021,10,1
+1050,Jungle,Loving In Stereo,No Rules,2021-10-07 16:40:00,2021-10-07,7,2021,10,1
+1051,Jungle,Loving In Stereo,Talk About It,2021-10-07 16:37:00,2021-10-07,7,2021,10,1
+1052,Jungle,Loving In Stereo,Fire,2021-10-07 16:34:00,2021-10-07,7,2021,10,1
+1053,Jungle,Loving In Stereo,Bonnie Hill,2021-10-07 16:31:00,2021-10-07,7,2021,10,1
+1054,Jungle,Loving In Stereo,Lifting You,2021-10-07 16:28:00,2021-10-07,7,2021,10,1
+1055,Jungle,Loving In Stereo,Romeo (feat. Bas),2021-10-07 16:25:00,2021-10-07,7,2021,10,1
+1056,Jungle,Loving In Stereo,All of the Time,2021-10-07 16:22:00,2021-10-07,7,2021,10,1
+1057,Jungle,Loving In Stereo,Keep Moving,2021-10-07 16:18:00,2021-10-07,7,2021,10,1
+1058,Jungle,Loving In Stereo,Dry Your Tears,2021-10-07 16:17:00,2021-10-07,7,2021,10,1
+1059,The Beach Boys,Pet Sounds,Caroline No,2021-10-07 16:15:00,2021-10-07,7,2021,10,1
+1060,The Beach Boys,Pet Sounds,Caroline No,2021-10-07 16:10:00,2021-10-07,7,2021,10,1
+1061,The Beach Boys,Pet Sounds,Pet Sounds,2021-10-07 16:08:00,2021-10-07,7,2021,10,1
+1062,The Beach Boys,Pet Sounds,I Just Wasn't Made for These Times,2021-10-07 16:04:00,2021-10-07,7,2021,10,1
+1063,The Beach Boys,Pet Sounds,Here Today,2021-10-07 16:01:00,2021-10-07,7,2021,10,1
+1064,The Beach Boys,Pet Sounds,I Know There's an Answer,2021-10-07 15:58:00,2021-10-07,7,2021,10,1
+1065,The Beach Boys,Pet Sounds,God Only Knows,2021-10-07 15:55:00,2021-10-07,7,2021,10,1
+1066,The Beach Boys,Pet Sounds,Sloop John B,2021-10-07 15:52:00,2021-10-07,7,2021,10,1
+1067,The Beach Boys,Pet Sounds,Let's Go Away for Awhile,2021-10-07 15:49:00,2021-10-07,7,2021,10,1
+1068,The Beach Boys,Pet Sounds,I'm Waiting for the Day,2021-10-07 15:46:00,2021-10-07,7,2021,10,1
+1069,The Beach Boys,Pet Sounds,Don't Talk (Put Your Head on My Shoulder),2021-10-07 15:43:00,2021-10-07,7,2021,10,1
+1070,The Beach Boys,Pet Sounds,That's Not Me,2021-10-07 15:41:00,2021-10-07,7,2021,10,1
+1071,The Beach Boys,Pet Sounds,You Still Believe in Me,2021-10-07 15:38:00,2021-10-07,7,2021,10,1
+1072,The Beach Boys,Pet Sounds,Wouldn't It Be Nice,2021-10-07 15:35:00,2021-10-07,7,2021,10,1
+1073,Prince & The Revolution,Purple Rain (Soundtrack),Purple Rain,2021-10-07 15:26:00,2021-10-07,7,2021,10,1
+1074,Prince & The Revolution,Purple Rain (Soundtrack),Baby I'm a Star,2021-10-07 15:21:00,2021-10-07,7,2021,10,1
+1075,Prince & The Revolution,Purple Rain (Soundtrack),I Would Die 4 U,2021-10-07 15:18:00,2021-10-07,7,2021,10,1
+1076,Prince & The Revolution,Purple Rain (Soundtrack),When Doves Cry,2021-10-07 15:12:00,2021-10-07,7,2021,10,1
+1077,Prince & The Revolution,Purple Rain (Soundtrack),Darling Nikki,2021-10-07 15:08:00,2021-10-07,7,2021,10,1
+1078,Prince & The Revolution,Purple Rain (Soundtrack),Computer Blue,2021-10-07 15:04:00,2021-10-07,7,2021,10,1
+1079,Prince & The Revolution,Purple Rain (Soundtrack),The Beautiful Ones,2021-10-07 14:59:00,2021-10-07,7,2021,10,1
+1080,Prince & The Revolution,Purple Rain (Soundtrack),Take Me With U,2021-10-07 14:55:00,2021-10-07,7,2021,10,1
+1081,Prince & The Revolution,Purple Rain (Soundtrack),Let's Go Crazy,2021-10-07 14:50:00,2021-10-07,7,2021,10,1
+1082,Anderson .Paak,Malibu,The Season / Carry Me,2021-10-06 17:53:00,2021-10-06,6,2021,10,1
+1083,Anderson .Paak,Malibu,The Season / Carry Me,2021-10-06 15:11:00,2021-10-06,6,2021,10,1
+1084,Anderson .Paak,Malibu,The Waters (feat. BJ The Chicago Kid),2021-10-06 15:08:00,2021-10-06,6,2021,10,1
+1085,Anderson .Paak,Malibu,Heart Don't Stand A Chance,2021-10-06 15:02:00,2021-10-06,6,2021,10,1
+1086,Anderson .Paak,Malibu,The Bird,2021-10-06 14:59:00,2021-10-06,6,2021,10,1
+1087,Anderson .Paak,Malibu,Come Down,2021-10-06 14:58:00,2021-10-06,6,2021,10,1
+1088,Jungle,Loving In Stereo,Can't Stop the Stars,2021-10-06 14:54:00,2021-10-06,6,2021,10,1
+1089,Jungle,Loving In Stereo,Goodbye My Love (feat. Priya Ragu),2021-10-06 14:51:00,2021-10-06,6,2021,10,1
+1090,Jungle,Loving In Stereo,Just Fly Don't Worry,2021-10-06 14:49:00,2021-10-06,6,2021,10,1
+1091,Jungle,Loving In Stereo,What D'You Know About Me?,2021-10-06 14:46:00,2021-10-06,6,2021,10,1
+1092,Jungle,Loving In Stereo,Truth,2021-10-06 14:46:00,2021-10-06,6,2021,10,1
+1093,Jungle,Loving In Stereo,Truth,2021-10-06 14:42:00,2021-10-06,6,2021,10,1
+1094,Jungle,Loving In Stereo,No Rules,2021-10-06 14:40:00,2021-10-06,6,2021,10,1
+1095,Jungle,Loving In Stereo,Talk About It,2021-10-06 14:36:00,2021-10-06,6,2021,10,1
+1096,Betty Davis,They Say I'm Different,They Say I'm Different,2021-10-05 23:27:00,2021-10-05,5,2021,10,1
+1097,Tyler Childers,Long Violent History,Sludge River Stomp,2021-10-05 19:32:00,2021-10-05,5,2021,10,1
+1098,Tyler Childers,Long Violent History,Squirrel Hunter,2021-10-05 19:28:00,2021-10-05,5,2021,10,1
+1099,Tyler Childers,Long Violent History,Zollie's Retreat,2021-10-05 19:26:00,2021-10-05,5,2021,10,1
+1100,Tyler Childers,Long Violent History,Send in the Clowns,2021-10-05 19:22:00,2021-10-05,5,2021,10,1
