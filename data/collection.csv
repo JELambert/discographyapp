@@ -1,14 +1,24 @@
 ,Catalognum,Artist,Title,Label,Format,Rating,Released,release_id,CollectionFolder,DateAdded
-0,SD 7200,"Crosby, Stills, Nash & Young",Déjà Vu,Atlantic,"LP, Album, PR ",3.0,1970,1132195,Uncategorized,2021-10-23 17:30:19
-1,none,Brittany Howard,Jaime (Reimagined),ATO Records,"LP, Album, Neo",,2021,20308279,RnB,2021-10-30 11:13:56
-2,19075830351,Leon Bridges,Good Thing,Columbia,"LP, Album, 180",3.0,2018,16295515,RnB,2021-10-01 06:38:18
-3,"489843 1, COL 489843 1",Lauryn Hill,The Miseducation Of Lauryn Hill,"Columbia, Columbia","2xLP, Album",5.0,1998,840225,All Times,2021-10-01 11:01:25
-4,8387,Creedence Clearwater Revival,Bayou Country,Fantasy,"LP, Album, Hol",5.0,1969,680968,Uncategorized,2021-10-23 17:29:43
-5,"GS949, 949, S-949",The Temptations,Puzzle People,"Gordy, Gordy, Gordy","LP, Album, Hol",3.0,1969,3420654,Uncategorized,2021-10-23 17:31:04
-6,B0031293-01,Kacey Musgraves,The Kacey Musgraves Christmas Show,MCA Nashville,"LP, Album, Whi",,2020,16012137,Uncategorized,2021-10-19 06:30:27
-7,B0027408-02,Chris Stapleton,From A Room: Volume 2,Mercury Nashville,"CD, Album, Dig",4.0,2017,11209096,Country,2021-10-01 11:02:58
-8,567158-1,Lake Street Dive,Free Yourself Up,Nonesuch,"LP, Album",,2018,11949555,All Times,2021-10-29 11:30:21
-9,07863 66336-1,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers),"RCA, Loud Records, Wu-Tang Records","LP, Album",5.0,1993,153749,All Times,2021-10-19 06:29:48
-10,"SSK 89400, SS2-200",Led Zeppelin,Physical Graffiti,"Swan Song, Swan Song","2xLP, Album",5.0,1975,458939,All Times,2021-10-19 06:29:20
-11,TRANS509CD,Arlo Parks,Collapsed In Sunbeams,Transgressive Records,"CD, Album",,2021,17155057,RnB,2021-10-29 11:30:04
-12,BSK 3612,The Doobie Brothers,Best Of The Doobies Volume II,Warner Bros. Records,"LP, Comp",3.0,1981,6725906,Uncategorized,2021-10-23 18:57:21
+0,"081227891992, ROGV-128",Dr. John,The Sun Moon & Herbs,"ATCO Records, Run Out Groove","3xLP, Album, Dlx, RE, Tri",,2021,19507378,Uncategorized,2021-11-18 17:52:30
+1,551093-2,Lin-Manuel Miranda,Hamilton: An American Musical (Original Broadway Cast Recording),Atlantic,"2xCD, Album",,2015,7640983,Uncategorized,2022-01-09 19:14:10
+2,SD 7200,"Crosby, Stills, Nash & Young",Déjà Vu,Atlantic,"LP, Album, PR ",3.0,1970,1132195,Uncategorized,2021-10-23 17:30:19
+3,0882455910,Brittany Howard,Jaime (Reimagined),ATO Records,"LP, Album, Neo",,2021,20308279,RnB,2021-10-30 11:13:56
+4,ATO0503,Black Pumas,Black Pumas,ATO Records,"LP, Album, Ltd, Red",,2019,13773742,RnB,2022-01-09 19:12:50
+5,19075830351,Leon Bridges,Good Thing,Columbia,"LP, Album, 180",3.0,2018,16295515,RnB,2021-10-01 06:38:18
+6,"489843 1, COL 489843 1",Lauryn Hill,The Miseducation Of Lauryn Hill,"Columbia, Columbia","2xLP, Album",5.0,1998,840225,All Times,2021-10-01 11:01:25
+7,B0033832-01,Billie Eilish,Happier Than Ever,"Darkroom (4), Interscope Records","2xLP, Album, Blu",3.0,2021,19677331,Uncategorized,2022-01-09 19:13:18
+8,"EMTV30, 0C 062-78 041",Queen,Greatest Hits,"EMI, EMI","LP, Comp, No ",,1981,376152,Uncategorized,2022-01-09 19:14:33
+9,8387,Creedence Clearwater Revival,Bayou Country,Fantasy,"LP, Album, Hol",5.0,1969,680968,Uncategorized,2021-10-23 17:29:43
+10,"GS949, 949, S-949",The Temptations,Puzzle People,"Gordy, Gordy, Gordy","LP, Album, Hol",3.0,1969,3420654,Uncategorized,2021-10-23 17:31:04
+11,B0031293-01,Kacey Musgraves,The Kacey Musgraves Christmas Show,MCA Nashville,"LP, Album, Whi",,2020,16012137,Uncategorized,2021-10-19 06:30:27
+12,B0027408-02,Chris Stapleton,From A Room: Volume 2,Mercury Nashville,"CD, Album, Dig",4.0,2017,11209096,Country,2021-10-01 11:02:58
+13,075597919592,Lake Street Dive,Obviously ,Nonesuch,"LP, Album, Club, Ltd, Gre",3.0,2021,17728402,Uncategorized,2022-01-09 19:15:25
+14,567158-1,Lake Street Dive,Free Yourself Up,Nonesuch,"LP, Album",,2018,11949555,All Times,2021-10-29 11:30:21
+15,07863 66336-1,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers),"RCA, Loud Records, Wu-Tang Records","LP, Album",5.0,1993,153749,All Times,2021-10-19 06:29:48
+16,"RCV1 92736, 603497845934",Trans-Siberian Orchestra,Christmas Eve And Other Stories,"Rhino Records (2), Atlantic","2xLP, Album, RE",,2021,20842768,Uncategorized,2022-01-09 19:19:33
+17,SIG 2061,Lake Street Dive,Bad Self Portraits,Signature Sounds,"CD, Album",,2014,5518769,Uncategorized,2022-01-09 19:15:17
+18,"SSK 89400, SS2-200",Led Zeppelin,Physical Graffiti,"Swan Song, Swan Song","2xLP, Album",5.0,1975,458939,All Times,2021-10-19 06:29:20
+19,"TS-310, TS310",Marvin Gaye,What's Going On,"Tamla, Tamla","LP, Album, Gat",,1971,1559040,All Times,2022-01-09 19:12:17
+20,TRANS509CD,Arlo Parks,Collapsed In Sunbeams,Transgressive Records,"CD, Album",,2021,17155057,RnB,2021-10-29 11:30:04
+21,B0033337-01,Jonathan Batiste,We Are,Verve Records,"LP, Album",,2021,17872237,RnB,2022-01-09 19:17:49
+22,BSK 3612,The Doobie Brothers,Best Of The Doobies Volume II,Warner Bros. Records,"LP, Comp",3.0,1981,6725906,Uncategorized,2021-10-23 18:57:21

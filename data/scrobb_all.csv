@@ -1,101 +1,259 @@
 ,month,day,Artist,Title,listen
-1,10,5,Tyler Childers,Long Violent History,4
-2,10,6,Anderson .Paak,Malibu,6
-3,10,6,Jungle,Loving In Stereo,8
-6,10,7,Dan Auerbach,Keep It Hid,14
-7,10,7,Jungle,Loving In Stereo,14
-10,10,7,Lake Street Dive,Obviously,11
-11,10,7,Lake Street Dive,Side Pony,12
-14,10,7,Prince & The Revolution,Purple Rain (Soundtrack),9
-16,10,7,Sault,5,14
-18,10,7,The Beach Boys,Pet Sounds,14
-20,10,7,The Meters,The Meters,12
-21,10,7,Tyler The Creator,IGOR,9
-23,10,8,BLK ODYSSY,BLK VINTAGE,10
-25,10,8,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,5
-26,10,8,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,4
-29,10,8,GZA/Genius,Liquid Swords (Expanded Edition),4
-31,10,8,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),16
-33,10,9,Bon Iver,For Emma Forever Ago,9
-35,10,11,Lake Street Dive,Side Pony,12
-39,10,12,Mina Okabe,Better Days,10
-41,10,15,Sturgill Simpson,Metamodern Sounds in Country Music,10
-43,10,19,Mandolin Orange,Tides of a Teardrop,6
-44,10,19,Mina Okabe,Better Days,11
-45,10,20,Chance the Rapper,The Big Day,15
-46,10,21,BLK ODYSSY,BLK VINTAGE,10
-48,10,21,Frank Ocean,channel ORANGE,13
-50,10,21,SZA,Ctrl,15
-51,10,21,Sir,Chasing Summer,13
-55,10,22,Devendra Banhart,Rejoicing in the Hands,12
-56,10,22,Dr. John,In the Right Place,11
-57,10,22,Kali Uchis,Isolation,15
-59,10,22,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),15
-61,10,22,The Internet,Hive Mind,9
-64,10,24,Lake Street Dive,Obviously,49
-65,10,25,James Carr,You Got My Mind Messed Up,17
-66,10,25,Marvin Gaye,Let's Get It On (Remastered),8
-67,10,25,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),13
-68,10,25,Queen,A Night at the Opera,12
-69,10,25,Sturgill Simpson,The Ballad of Dood & Juanita,10
-71,10,25,Taylor Swift,folklore (deluxe version),8
-72,10,27,Dr. John,Desitively Bonnaroo,11
-73,10,27,Dr. John,In the Right Place,114
-74,10,28,Dua Lipa,Future Nostalgia,10
-75,10,28,Mac Miller,Swimming,11
-76,10,28,Tyler The Creator,CALL ME IF YOU GET LOST,14
-78,10,29,Dr. John,Gris-Gris,7
-79,10,29,Dr. John,In the Right Place,12
-82,10,29,The Meters,Rejuvenation,7
-85,11,1,Charles Bradley,Victim of Love (feat. Menahan Street Band),11
-86,11,1,Lake Street Dive,Lake Street Dive,12
-87,11,1,Lake Street Dive,Obviously,11
-88,11,1,The Meters,Rejuvenation,9
-89,11,2,Amy Winehouse,Back to Black,11
-90,11,2,Better Than Ezra,Closer,7
-92,11,2,Lake Street Dive,Side Pony,140
-93,11,2,Tyler The Creator,CALL ME IF YOU GET LOST,24
-96,11,3,Big Thief,Change - EP,4
-97,11,3,Dr. John,Desitively Bonnaroo,6
-98,11,3,Joss Stone,The Soul Sessions,11
-99,11,3,Norah Jones,Come Away With Me (Deluxe Edition),16
-101,11,4,Dr. John,In the Right Place,9
-102,11,4,Valerie June,Pushin' Against A Stone,4
-103,11,4,Valerie June,The Moon And Stars: Prescriptions For Dreamers,14
-104,11,5,Curtis Harding,If Words Were Flowers,11
-105,11,5,Nathaniel Rateliff & the Night Sweats,The Future,11
-106,11,5,Sharon Jones & The Dap-Kings,Soul Of A Woman,10
-110,11,8,Genesis Owusu,Smiling with No Teeth,5
-112,11,8,Prince,1999,9
-113,11,8,Prince,Controversy,8
-114,11,8,Prince and the New Power Generation,Diamonds and Pearls,11
-115,11,8,The Internet,Hive Mind,11
-116,11,8,Valerie June,The Moon And Stars: Prescriptions For Dreamers,14
-120,11,9,Santana,Blessings and Miracles,6
-122,11,10,Ckay,CKay The First,5
-126,11,11,Burna Boy,African Giant,13
-127,11,11,Ckay,CKay The First,9
-129,11,11,Wizkid,Made In Lagos: Deluxe Edition,17
-130,11,12,Burna Boy,Twice As Tall,14
-135,11,15,James Brown,The Payback,5
-136,11,18,Frank Ocean,channel ORANGE,16
-141,11,20,Prince,Sign O' The Times,6
-143,11,20,Valerie June,The Moon And Stars: Prescriptions For Dreamers,6
-144,11,21,Adele,30,9
-145,11,21,Stevie Wonder,Songs in the Key of Life,9
-146,11,23,Bruno Mars Anderson .Paak & Silk Sonic,An Evening With Silk Sonic,5
-150,11,24,Bruno Mars Anderson .Paak & Silk Sonic,An Evening With Silk Sonic,4
-156,11,24,Santana,Blessings and Miracles,10
-158,11,27,Lake Street Dive,Side Pony,32
-161,11,29,Jon Batiste,WE ARE,53
-166,11,30,Jackie Venson,Joy,19
-167,11,30,Jon Batiste,WE ARE,32
-168,12,1,Dr. John,In the Right Place,49
-170,12,1,Jon Batiste,WE ARE,58
-171,12,1,Prince,Sign O' The Times,46
-172,12,1,Rod Gator,For Louisiana,8
-173,12,2,Ayra Starr,19 & Dangerous,13
-174,12,2,Lake Street Dive,Side Pony,15
-176,12,2,TEms,For Broken Ears,5
-177,12,2,Tems,For Broken Ears,11
-178,12,2,Wizkid,Ayo,38
+1,1,11,Santana,Africa Speaks,12
+3,1,14,Frank Ocean,Blonde,8
+4,1,17,Anderson .Paak,Malibu,18
+7,1,17,Childish Gambino,Awaken My Love!,12
+10,1,17,Santana,Africa Speaks,8
+14,1,18,Caroline Smith,Half About Being a Woman,11
+18,1,18,Santana,Blessings and Miracles,8
+20,1,18,Valerie June,The Moon And Stars: Prescriptions For Dreamers,15
+22,1,19,BLK ODYSSY,BLK VINTAGE,11
+25,1,19,Curtis Harding,If Words Were Flowers,10
+26,1,19,Jess Glynne,I Cry When I Laugh,10
+27,1,19,Joss Stone,The Soul Sessions,10
+30,1,20,Mac Miller,Circles (Deluxe),14
+31,1,20,Mac Miller,Swimming,15
+37,1,25,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party,8
+38,1,25,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party: Dessert,7
+40,1,25,J. Cole,4 Your Eyez Only,13
+41,1,25,Jon Batiste,WE ARE,14
+43,1,25,Sault,7,10
+46,1,26,Chance the Rapper,Coloring Book,16
+47,1,26,Chance the Rapper,The Big Day,20
+48,1,26,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party,7
+51,1,26,J. Cole,KOD,13
+54,1,26,Miguel,Wildheart (Deluxe),4
+56,1,27,Miguel,Wildheart (Deluxe),13
+57,1,27,Valerie June,The Moon And Stars: Prescriptions For Dreamers,12
+58,1,28,Chance the Rapper,The Big Day,22
+59,1,28,Miguel,Wildheart (Deluxe),13
+60,1,31,Amy Winehouse,Back to Black,11
+61,1,31,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party,7
+65,1,31,Miguel,Wildheart (Deluxe),4
+68,2,1,John Mayer,Continuum,13
+69,2,1,John Mayer,Heavier Things,11
+70,2,1,John Mayer,Room for Squares,7
+71,2,2,John Mayer,Room for Squares,6
+72,2,10,Taylor Swift,folklore,5
+79,2,15,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party,8
+84,2,15,Miguel,Wildheart (Deluxe),16
+89,2,15,Sir,Chasing Summer,14
+92,2,15,UB40,Labour of Love II,10
+100,2,17,The Internet,Hive Mind,14
+101,2,18,Genesis Owusu,Smiling with No Teeth,6
+104,2,21,Chris Stapleton,Starting Over,7
+105,2,21,Sturgill Simpson,Cuttin' Grass Vol. 2 (Cowboy Arms Sessions),12
+107,2,22,Chris Stapleton,From A Room: Volume 1,9
+108,2,22,Chris Stapleton,From A Room: Volume 2,9
+109,2,22,Chris Stapleton,Starting Over,8
+110,2,22,Chris Stapleton,Traveller,8
+113,2,23,Tyler Childers,Purgatory,10
+114,2,25,Tyler Childers,Country Squire,8
+118,3,3,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party,8
+123,3,3,Kali Uchis,Isolation,16
+126,3,3,SZA,Ctrl,13
+128,3,3,Sir,Chasing Summer,14
+131,3,3,The Internet,Hive Mind,13
+135,3,4,Miguel,Wildheart (Deluxe),12
+138,3,6,Curtis Harding,Face Your Fear,11
+139,3,6,The James Hunter Six,Hold On!,6
+146,3,9,The James Hunter Six,Hold On!,10
+147,3,10,Dinner Party Terrace Martin Robert Glasper 9th Wonder & Kamasi Washington,Dinner Party,7
+150,3,11,Miles Davis,Kind of Blue,6
+151,3,15,Miguel,Wildheart (Deluxe),11
+152,3,16,Ayra Starr,19 & Dangerous,11
+155,3,16,Wizkid,Ayo,15
+157,3,25,BLK ODYSSY,BLK VINTAGE,10
+161,3,25,Mac Miller,Swimming,7
+162,3,25,Tyler The Creator,CALL ME IF YOU GET LOST,15
+164,3,29,Childish Gambino,3.15.20,12
+165,3,29,Childish Gambino,Awaken My Love!,12
+167,3,31,Childish Gambino,Because the Internet,5
+168,3,31,Childish Gambino,Kauai,9
+169,4,1,Black Pumas,Black Pumas (Expanded Deluxe Edition),6
+171,4,4,The Internet,Hive Mind,13
+172,4,4,Wizkid,Ayo,5
+176,4,7,Lake Street Dive,Obviously,4
+181,4,7,The Internet,Hive Mind,4
+183,4,8,Jon Batiste,WE ARE,248
+184,4,8,Lake Street Dive,Lake Street Dive,11
+186,4,10,Childish Gambino,Awaken My Love!,66
+187,4,10,Dr. John,Desitively Bonnaroo,20
+188,4,10,Prince & The New Power Generation,Diamonds and Pearls,30
+189,4,10,Prince and the New Power Generation,Diamonds and Pearls,4
+191,4,11,Black Pumas,Black Pumas (Deluxe Edition),36
+192,4,11,Curtis Harding,Face Your Fear,11
+193,4,11,Curtis Harding,If Words Were Flowers,4
+195,4,11,Prince & The New Power Generation,Diamonds and Pearls,18
+196,4,12,Curtis Harding,If Words Were Flowers,10
+197,4,13,Adele,30,23
+199,4,13,Big Thief,Two Hands,7
+200,4,13,Childish Gambino,Awaken My Love!,29
+201,4,13,Curtis Harding,If Words Were Flowers,18
+209,4,14,Bon Iver,For Emma Forever Ago,9
+214,4,14,Laura Marling,Song For Our Daughter,14
+215,4,14,Nick Drake,Pink Moon,8
+216,4,14,Sault,Air,7
+217,4,14,Sault,UNTITLED (Rise),10
+219,4,14,The Lumineers,Cleopatra (Deluxe),13
+221,4,14,UB40,Labour of Love II,14
+222,4,14,Whitney Houston,Whitney,7
+223,4,15,Sault,UNTITLED (Rise),19
+224,4,16,Sault,Untitled (Black Is),5
+228,4,18,Florence + the Machine,Lungs (Deluxe Edition),26
+229,4,18,Sault,7,10
+244,4,19,The Black Keys,Brothers (Deluxe Remastered Anniversary Edition),17
+245,4,19,Vince Staples,Ramona Park Broke My Heart,9
+250,4,20,Dan Auerbach,Keep It Hid,6
+251,4,20,Jazmine Sullivan,Heaux Tales Mo' Tales: The Deluxe,10
+254,4,20,Vince Staples,FM!,9
+255,4,20,Vince Staples,Vince Staples,9
+258,10,5,Tyler Childers,Long Violent History,4
+259,10,6,Anderson .Paak,Malibu,6
+260,10,6,Jungle,Loving In Stereo,8
+263,10,7,Dan Auerbach,Keep It Hid,14
+264,10,7,Jungle,Loving In Stereo,14
+267,10,7,Lake Street Dive,Obviously,11
+268,10,7,Lake Street Dive,Side Pony,12
+271,10,7,Prince & The Revolution,Purple Rain (Soundtrack),9
+273,10,7,Sault,5,14
+275,10,7,The Beach Boys,Pet Sounds,14
+277,10,7,The Meters,The Meters,12
+278,10,7,Tyler The Creator,IGOR,9
+280,10,8,BLK ODYSSY,BLK VINTAGE,10
+282,10,8,Dirty Heads Steve Fox & Stan Frazier,Any Port in a Storm,5
+283,10,8,Dirty Heads Steve Fox Stan Frazier & Lewis Richards,Any Port in a Storm,4
+286,10,8,GZA/Genius,Liquid Swords (Expanded Edition),4
+288,10,8,Lenny Kravitz,Mama Said (21st Anniversary Deluxe Edition),16
+290,10,9,Bon Iver,For Emma Forever Ago,9
+292,10,11,Lake Street Dive,Side Pony,12
+296,10,12,Mina Okabe,Better Days,10
+298,10,15,Sturgill Simpson,Metamodern Sounds in Country Music,10
+300,10,19,Mandolin Orange,Tides of a Teardrop,6
+301,10,19,Mina Okabe,Better Days,11
+302,10,20,Chance the Rapper,The Big Day,15
+303,10,21,BLK ODYSSY,BLK VINTAGE,10
+305,10,21,Frank Ocean,channel ORANGE,13
+307,10,21,SZA,Ctrl,15
+308,10,21,Sir,Chasing Summer,13
+312,10,22,Devendra Banhart,Rejoicing in the Hands,12
+313,10,22,Dr. John,In the Right Place,11
+314,10,22,Kali Uchis,Isolation,15
+316,10,22,Neko Case,The Worse Things Get the Harder I Fight the Harder I Fight the More I Love You (Deluxe Edition),15
+318,10,22,The Internet,Hive Mind,9
+321,10,24,Lake Street Dive,Obviously,49
+322,10,25,James Carr,You Got My Mind Messed Up,17
+323,10,25,Marvin Gaye,Let's Get It On (Remastered),8
+324,10,25,Marvin Gaye,Trouble Man (Motion Picture Soundtrack),13
+325,10,25,Queen,A Night at the Opera,12
+326,10,25,Sturgill Simpson,The Ballad of Dood & Juanita,10
+328,10,25,Taylor Swift,folklore (deluxe version),8
+329,10,27,Dr. John,Desitively Bonnaroo,11
+330,10,27,Dr. John,In the Right Place,114
+331,10,28,Dua Lipa,Future Nostalgia,10
+332,10,28,Mac Miller,Swimming,11
+333,10,28,Tyler The Creator,CALL ME IF YOU GET LOST,14
+335,10,29,Dr. John,Gris-Gris,7
+336,10,29,Dr. John,In the Right Place,12
+339,10,29,The Meters,Rejuvenation,7
+342,11,1,Charles Bradley,Victim of Love (feat. Menahan Street Band),11
+343,11,1,Lake Street Dive,Lake Street Dive,12
+344,11,1,Lake Street Dive,Obviously,11
+345,11,1,The Meters,Rejuvenation,9
+346,11,2,Amy Winehouse,Back to Black,11
+347,11,2,Better Than Ezra,Closer,7
+349,11,2,Lake Street Dive,Side Pony,140
+350,11,2,Tyler The Creator,CALL ME IF YOU GET LOST,24
+353,11,3,Big Thief,Change - EP,4
+354,11,3,Dr. John,Desitively Bonnaroo,6
+355,11,3,Joss Stone,The Soul Sessions,11
+356,11,3,Norah Jones,Come Away With Me (Deluxe Edition),16
+358,11,4,Dr. John,In the Right Place,9
+359,11,4,Valerie June,Pushin' Against A Stone,4
+360,11,4,Valerie June,The Moon And Stars: Prescriptions For Dreamers,14
+361,11,5,Curtis Harding,If Words Were Flowers,11
+362,11,5,Nathaniel Rateliff & the Night Sweats,The Future,11
+363,11,5,Sharon Jones & The Dap-Kings,Soul Of A Woman,10
+367,11,8,Genesis Owusu,Smiling with No Teeth,5
+369,11,8,Prince,1999,9
+370,11,8,Prince,Controversy,8
+371,11,8,Prince & The New Power Generation,Diamonds and Pearls,10
+373,11,8,The Internet,Hive Mind,11
+374,11,8,Valerie June,The Moon And Stars: Prescriptions For Dreamers,14
+378,11,9,Santana,Blessings and Miracles,6
+380,11,10,Ckay,CKay The First,5
+384,11,11,Burna Boy,African Giant,13
+385,11,11,Ckay,CKay The First,9
+387,11,11,Wizkid,Made In Lagos: Deluxe Edition,17
+388,11,12,Burna Boy,Twice As Tall,14
+393,11,15,James Brown,The Payback,5
+394,11,18,Frank Ocean,channel ORANGE,16
+399,11,20,Prince,Sign O' The Times,6
+401,11,20,Valerie June,The Moon And Stars: Prescriptions For Dreamers,6
+402,11,21,Adele,30,9
+403,11,21,Stevie Wonder,Songs in the Key of Life,9
+404,11,23,Bruno Mars Anderson .Paak & Silk Sonic,An Evening With Silk Sonic,5
+408,11,24,Bruno Mars Anderson .Paak & Silk Sonic,An Evening With Silk Sonic,4
+414,11,24,Santana,Blessings and Miracles,10
+416,11,27,Lake Street Dive,Side Pony,32
+419,11,29,Jon Batiste,WE ARE,53
+424,11,30,Jackie Venson,Joy,19
+425,11,30,Jon Batiste,WE ARE,32
+426,12,1,Dr. John,In the Right Place,49
+428,12,1,Jon Batiste,WE ARE,58
+429,12,1,Prince,Sign O' The Times,46
+430,12,1,Rod Gator,For Louisiana,8
+431,12,2,Ayra Starr,19 & Dangerous,13
+432,12,2,Lake Street Dive,Side Pony,15
+435,12,2,Tems,For Broken Ears,14
+436,12,2,Wizkid,Ayo,38
+437,12,3,Dr. John,Desitively Bonnaroo,12
+439,12,3,Jackie Venson,Love Transcends,8
+441,12,5,Frank Ocean,channel ORANGE,9
+443,12,6,Jon Batiste,WE ARE,16
+445,12,6,Valerie June,The Moon And Stars: Prescriptions For Dreamers,4
+446,12,7,Dr. John,In the Right Place,12
+451,12,9,Jon Batiste,WE ARE,13
+453,12,9,Mandolin Orange,Blindfaller,11
+454,12,9,Mandolin Orange,Tides of a Teardrop,9
+455,12,9,Prince,Sign O' The Times,14
+461,12,9,Wizkid,Ayo,20
+462,12,10,Amy Winehouse,Back to Black,11
+464,12,10,Bruno Mars Anderson .Paak & Silk Sonic,An Evening With Silk Sonic,9
+465,12,10,Chance the Rapper,The Big Day,22
+467,12,10,Genesis Owusu,Smiling with No Teeth,15
+470,12,10,Jon Batiste,WE ARE,13
+472,12,10,Lake Street Dive,Side Pony,9
+475,12,10,Tyler The Creator,CALL ME IF YOU GET LOST,14
+477,12,10,UB40,Labour of Love II,11
+481,12,13,Bob Marley & The Wailers,Exodus,12
+482,12,13,Genesis,Invisible Touch (Remastered),8
+483,12,13,J. Cole,4 Your Eyez Only,11
+484,12,13,J. Cole,KOD,13
+486,12,13,Mac Miller,Swimming,16
+487,12,13,Sault,UNTITLED (Rise),10
+488,12,13,UB40,Labour of Love II,10
+492,12,16,Chance the Rapper,The Big Day,22
+494,12,16,Jon Batiste,WE ARE,14
+496,12,16,Little Simz,Sometimes I Might Be Introvert,13
+498,12,16,Miguel,Wildheart (Deluxe),18
+500,12,16,Sault,7,10
+505,12,17,Jon Batiste,WE ARE,13
+508,12,17,Little Simz,Sometimes I Might Be Introvert,8
+509,12,17,Sault,7,10
+510,12,17,The Internet,Hive Mind,9
+511,12,20,Dr. John,Desitively Bonnaroo,7
+512,12,20,Lake Street Dive,Side Pony,12
+514,12,20,Little Simz,Sometimes I Might Be Introvert,19
+516,12,20,Prince,Sign O' The Times,17
+522,12,22,Little Simz,Sometimes I Might Be Introvert,20
+523,12,22,The Roots,Things Fall Apart,16
+526,12,23,Kali Uchis,Isolation,16
+527,12,23,Prince & The New Power Generation,Diamonds and Pearls,6
+529,12,23,SZA,Ctrl,8
+530,12,23,Sir,Chasing Summer,14
+531,12,27,Kali Uchis,Isolation,14
+532,12,27,Kendrick Lamar,good kid m.A.A.d city (Deluxe Version),10
+535,12,27,Tyler The Creator,IGOR,12
+538,12,28,Mandolin Orange,Blindfaller,10
+539,12,28,Sir,Chasing Summer,15
